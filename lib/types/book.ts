@@ -3,7 +3,7 @@
 // Chat message type
 export type ChatMsg = { role: "user" | "assistant"; content: string };
 // Chatbot config: keep a stable persona and instructions per chapter
-export type ChatbotConfig = { systemPrompt?: string; persona?: string; instruction?: string };
+export type ChatbotConfig = { systemPrompt?: string; persona?: string; instruction?: string, title?: string };
 
 // Form field types
 export type TextField = { type: "text"; id: string; label: string; placeholder?: string; multiline?: boolean };

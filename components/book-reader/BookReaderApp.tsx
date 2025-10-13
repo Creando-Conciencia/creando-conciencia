@@ -6,8 +6,9 @@ import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Dialog, DialogClose, DialogContent, DialogHeader, DialogTitle, DialogTrigger } from "@/components/ui/dialog";
 import { Slider } from "@/components/ui/slider";
-import ChatbotPanel from "./ChatbotPanel";
+import ChatbotPage from "./ChatbotPage";
 import FormPage from "./FormPage";
+import AudioPage from "./AudioPage";
 import { ChatMsg, ChatbotConfig, PageContent } from "@/lib/types/book";
 import styles from "./BookReaderApp.module.css";
 import "./reading-enhancements.css";
@@ -325,10 +326,10 @@ export default function BookReaderApp() {
               )}
 
               {page?.type === "chatbot" && (
-                <ChatbotPanel
+                <ChatbotPage
                   chapterIdx={chapterIdx}
                   chapterTitle={chapter.title}
-                  config={page.config || { persona: "Helpful assistant" }}
+                  config={page.config || { persona: "Helpful assistant", title: "Reflexiona con la IA" }}
                   messages={chatMessages}
                   setMessages={setChatMessages}
                   fontSize={settings.fontSize}
@@ -346,24 +347,11 @@ export default function BookReaderApp() {
               )}
 
               {page?.type === "audio" && (
-                <div className="h-full w-full flex flex-col bg-gradient-to-b from-purple-50/50 to-pink-50/50 dark:from-purple-950/20 dark:to-pink-950/20 rounded-lg">
-                  {/* Audio Header */}
-                  <div className="px-6 py-4 border-b border-purple-200/50 dark:border-purple-800/50 bg-white/60 dark:bg-gray-800/60 backdrop-blur-sm rounded-t-lg">
-                    <h3 className="text-lg font-semibold text-purple-900 dark:text-purple-100 mb-3">🎵 Audio Content</h3>
-                    <div className="bg-white dark:bg-gray-800 rounded-xl p-4 border border-purple-200/50 dark:border-purple-700/50 shadow-sm">
-                    <audio controls src={page.url} className="w-full">
-                        Tu navegador no soporta el elemento de audio.
-                    </audio>
-                    </div>
-                  </div>
-                  {/* Audio Transcript/Content */}
-                  <div className="flex-1 overflow-y-auto custom-scrollbar">
-                    <div
-                      className="prose prose-lg dark:prose-invert max-w-none p-6 reading-text"
-                      dangerouslySetInnerHTML={{ __html: page.htmlContent }}
-                    />
-                  </div>
-                </div>
+                <AudioPage
+                  url={page.url}
+                  htmlContent={page.htmlContent}
+                  fontSize={settings.fontSize}
+                />
               )}
             </div>
           </div>
@@ -411,10 +399,11 @@ export default function BookReaderApp() {
                      page?.type === 'form' ? '✍️ Actividad' : '📄 Contenido'}
                   </div> */}
                   <div className="text-xs mt-1">
-                    {page?.type === 'text' && textColCount > 1 ? 
+                    {/* {page?.type === 'text' && textColCount > 1 ? 
                       `Sección ${Math.min(textColIndex + 1, textColCount)} de ${textColCount}` : 
                       `Página ${pageIdx + 1} de ${chapter.pages.length}`
-                    }
+                    } */}
+                    {`Página ${pageIdx + 1} de ${chapter.pages.length}`}
                   </div>
                 </div>
               </div>
