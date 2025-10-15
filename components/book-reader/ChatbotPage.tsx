@@ -7,7 +7,6 @@ import { ChatMsg, ChatbotConfig } from "@/lib/types/book";
 import { buildSystemPrompt, callLLMStream } from "@/lib/api/chat";
 
 interface ChatbotPageProps {
-  chapterIdx: number;
   chapterTitle: string;
   config: ChatbotConfig;
   messages: ChatMsg[];
@@ -16,7 +15,6 @@ interface ChatbotPageProps {
 }
 
 export default function ChatbotPage({
-  chapterIdx: _chapterIdx,
   chapterTitle,
   config,
   messages,

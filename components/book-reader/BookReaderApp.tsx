@@ -8,7 +8,7 @@ import ChatbotPage from "./ChatbotPage";
 import FormPage from "./FormPage";
 import AudioPage from "./AudioPage";
 import { BookCoverBackground } from "./BookCoverBackground";
-import { ChatMsg, ChatbotConfig, PageContent } from "@/lib/types/book";
+import { ChatMsg } from "@/lib/types/book";
 import styles from "./BookReaderApp.module.css";
 import "./reading-enhancements.css";
 import { sampleBook } from "@/lib/constants/sample-book";
@@ -44,15 +44,21 @@ export default function BookReaderApp() {
 
   // --- Tests (lightweight) ---
   useEffect(() => {
-    console.assert(sampleBook.chapters.length > 0, "Book should have chapters");
-    console.assert(sampleBook.chapters[0].pages.length >= 3, "Chapter must include text + chatbot + form");
+    // Validate book structure on development only
+    if (process.env.NODE_ENV === 'development') {
+      console.assert(sampleBook.chapters.length > 0, "Book should have chapters");
+      console.assert(sampleBook.chapters[0].pages.length >= 3, "Chapter must include text + chatbot + form");
+    }
   }, []);
 
   // Debug logging for column calculations
   useEffect(() => {
     if (colRef.current && page?.type === 'text') {
       const el = colRef.current;
-      console.log(`Column Debug - Index: ${textColIndex}/${textColCount}, ClientWidth: ${el.clientWidth}, ScrollWidth: ${el.scrollWidth}, ScrollLeft: ${el.scrollLeft}`);
+      // Debug logging only in development
+      if (process.env.NODE_ENV === 'development') {
+        console.log(`Column Debug - Index: ${textColIndex}/${textColCount}, ClientWidth: ${el.clientWidth}, ScrollWidth: ${el.scrollWidth}, ScrollLeft: ${el.scrollLeft}`);
+      }
     }
   }, [textColIndex, textColCount, page]);
 
@@ -107,7 +113,10 @@ export default function BookReaderApp() {
       const accumulatedTolerance = textColIndex * 2; // 2px per column
       const adjustedTarget = target + accumulatedTolerance;
 
-      console.log(`Scrolling to column ${textColIndex}: target=${target}, tolerance=${accumulatedTolerance}, adjusted=${adjustedTarget}, clientWidth=${el.clientWidth}`);
+      // Debug logging only in development
+      if (process.env.NODE_ENV === 'development') {
+        console.log(`Scrolling to column ${textColIndex}: target=${target}, tolerance=${accumulatedTolerance}, adjusted=${adjustedTarget}, clientWidth=${el.clientWidth}`);
+      }
 
       el.scrollTo({ left: adjustedTarget, behavior: 'instant' });
     });
@@ -438,7 +447,6 @@ export default function BookReaderApp() {
 
               {page?.type === "chatbot" && (
                 <ChatbotPage
-                  chapterIdx={chapterIdx}
                   chapterTitle={chapter.title}
                   config={page.config || { persona: "Helpful assistant", title: "Reflexiona con la IA" }}
                   messages={chatMessages}
@@ -596,7 +604,7 @@ export default function BookReaderApp() {
                   style={{
                     width: `${((pageIdx * (page?.type === 'text' && textColCount > 1 ? textColCount : 1) +
                       (page?.type === 'text' ? Math.min(textColIndex + 1, textColCount) : 1)) /
-                      (chapter.pages.reduce((acc, p, idx) => {
+                      (chapter.pages.reduce((acc, p) => {
                         // Calculate total "sections" in chapter - for text pages use textColCount, for others use 1
                         if (p.type === 'text') {
                           // For text pages, we need to estimate column count (use current textColCount as approximation)

@@ -22,6 +22,12 @@ export function convertToDisplayPage(pageContent: PageContent): DisplayPage {
     
     case "audio":
       return { type: "audio", url: pageContent.url, htmlContent: pageContent.htmlContent };
+    
+    case "cover":
+      return { type: "cover", title: pageContent.title, isBookCover: pageContent.isBookCover };
+    
+    case "index":
+      return { type: "index", title: pageContent.title };
   }
 }
 
