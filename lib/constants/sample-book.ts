@@ -19,7 +19,7 @@ export const sampleBook: Book = {
         name: "Dr. José Ramón Laines Canepa",
         role: "Editor y Autor Principal",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
-        bio: `<p>Doctor en Ciencias de la Computación con más de 20 años de experiencia en investigación y docencia. Coordinador del programa "Creando Conciencia" en Radio UJAT, dedica su trabajo a la divulgación científica y la vinculación universidad-sociedad.</p>`,
+        bio: `<p>Doctor en Ciencias en Ecología y Manejo de Sistemas Tropicales con más de 20 años de experiencia en investigación y docencia. Coordinador del programa "Creando Conciencia" en Radio UJAT, dedica su trabajo a la divulgación científica y la vinculación universidad-sociedad.</p>`,
       },
       {
         name: "Dr. José Roberto Hernández Barajas",
@@ -175,7 +175,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   de Tabasco. Al licenciado Guillermo Narváez Osorio, quien es rector. Bienvenido,
   rector, buenas tardes, gracias por estar con nosotros.</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Buenas tardes, buenas tardes a ambos. Es un
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Buenas tardes, buenas tardes a ambos. Es un
   honor estar aquí con ustedes compartiendo.</p></br>
 
   <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Bien, vamos a empezar, le voy a comentar una
@@ -210,7 +210,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   ¿Qué retos enfrentamos para seguir siendo líder en investigación científica en la
   región?</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Bueno, yo creo que lo primero es consolidar
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Bueno, yo creo que lo primero es consolidar
   parte de lo que se ha venido haciendo en los últimos años y a partir de esa
   consolidación, empujar este año y los años que quedan en la de los proyectos que
   tengan que ver con las áreas de producción, con las áreas que tengan que ver con el
@@ -223,7 +223,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   ejemplo, en el verano de investigación científica. Ahora, y tenemos programas de
   mujeres, mujeres en la ciencia. ¿Qué estrategia está usted implementando?</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong>  Mira, yo creo que la difusión es muy importante
+  <p><strong>RECTOR LIC. NARVAEZ:</strong>  Mira, yo creo que la difusión es muy importante
   de todos estos eventos que tú correctamente señalas, eh, para que los jóvenes vayan
   adquiriendo mayor experiencia y vayan conociendo otras visiones de otras
   universidades. No solamente del sureste o del país, sino a nivel Latinoamérica y a nivel
@@ -293,7 +293,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   gustaría saber qué significa para usted y para la universidad generar investigaciones
   con sentido social y cómo esto beneficia a la comunidad.</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Claro, mira, eh, si partimos del hecho de que
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Claro, mira, eh, si partimos del hecho de que
   somos la máxima Casa de Estudios, si partimos del hecho de que somos generadores
   de conocimiento y partimos también del hecho de que, eh, traemos una serie de
   rezagos históricos en cuanto a la ciencia, en cuanto a la difusión de las ciencias, en
@@ -349,7 +349,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   el desarrollo de este tipo de proyectos encaminados a resolver problemas locales y
   globales?</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong>  Sí, ahí hay que, ahí, se tiene que trabajar mucho
+  <p><strong>RECTOR LIC. NARVAEZ:</strong>  Sí, ahí hay que, ahí, se tiene que trabajar mucho
   con crear sentidos de pertenencia, con crear, trabajar mucho en lo que se llama
   conciencia social, eh, que los, eh, los maestros entiendan exactamente cuál es el
   papel que les toca jugar, que si hoy somos profesionistas es porque existió una
@@ -374,7 +374,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Rector, ¿qué impacto tiene esto en la vida de los estudiantes y en la universidad?
   ¿Podría platicarnos al respecto?</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Sí, claro. Imagínate jóvenes que están llenos de
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, claro. Imagínate jóvenes que están llenos de
   emociones, de sentimientos, llenos de esperanzas y que de pronto tienen la
   oportunidad de poder conocer otros ambientes, de poder estar en universidades muy
   importantes, con un prestigio internacional, pues eso les cambia la visión que tienen
@@ -397,7 +397,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   que la sociedad de Tabasco sienta eso que se está formando ahí en UJAT y lo que le
   está devolviendo al estado, lo que el estado nos ha dado.</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Sí, mira. Uno de los graves problemas de los
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, mira. Uno de los graves problemas de los
   países subdesarrollados es la fuga de talento. ¿Por qué los talentos se van? Porque los
   países desarrollados les ofrecen mejores expectativas de desarrollo profesional,
   mejores posibilidades de construir un patrimonio o de poder ir ascendiendo en la
@@ -428,7 +428,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Estatal de Investigadores pertenece a la UJAT. ¿Cómo es que se mantiene esta
   excelencia científica en la universidad?</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Yo creo que ese es un mérito de los maestros.
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Yo creo que ese es un mérito de los maestros.
   Es un mérito de todos y cada uno de ellos, quienes se preocupan por su formación, por
   su preparación para estar dentro de este, eh, padrón estatal de investigadores. Y
   nosotros lo que hacemos simplemente es tratar de acercarles las herramientas que
@@ -446,7 +446,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   tienen ese potencial de obtener un reconocimiento no solamente local, sino también
   internacional, como el caso de Brasil, Harvard, Japón.</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Sí, claro. Bueno, tenemos jóvenes que son
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, claro. Bueno, tenemos jóvenes que son
   estandartes de la de la universidad. Durante el año pasado, en el caso de Brasil, es
   este, el profesor Beto, junto con una de sus estudiantes, que obtuvo, ganó el pase
   nacional al evento latinoamericano que se hizo en Recife en Brasil con un proyecto de
@@ -495,7 +495,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   investigación, ya no proyectos escolares, sino que llegarán a ser, eh, proyectos
   productivos.</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Sí, esa es la finalidad, pues, porque también no
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, esa es la finalidad, pues, porque también no
   queremos quedarnos en la simple teoría, sino que lo que los muchachos hacen
   puedan ellos verlo concretado en proyectos productivos.</p></br>
 
@@ -582,7 +582,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   inspirarlos o motivarlos a construir dentro de la universidad, investigación de alta
   calidad para este nuevo año 2025 y para el futuro.</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Sí, gracias. Mira, yo soy un convencido de que
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, gracias. Mira, yo soy un convencido de que
   tenemos talento y muy buen talento. No solamente el sector académico con nuestros
   investigadores, con docentes que han obtenido reconocimientos nacionales e
   internacionales. Te podría decir, por ejemplo, el que lo obtuvo, eh, el maestro Bernal,
@@ -634,7 +634,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   rendir su informe pronto, qué mensaje usted le envía a la sociedad sobre la importancia
   de utilizar la ciencia para transformar vidas y transformar al mundo.</p></br>
 
-  <p><strong>LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Mira, nada más un pequeño dato adicional de
+  <p><strong>RECTOR LIC. NARVAEZ:</strong> Mira, nada más un pequeño dato adicional de
   un proyecto interesante. Yo alguna, hace mucho, hace algún tiempo, fui a al municipio
   de Balancán, específicamente, al río San Pedro, porque firmamos el Balancán. Porque
   firmamos ahí un convenio sobre los manglares del del proyecto que está haciendo el
