@@ -28,6 +28,15 @@ export function convertToDisplayPage(pageContent: PageContent): DisplayPage {
     
     case "index":
       return { type: "index", title: pageContent.title };
+    
+    case "biography":
+      return { type: "biography", authorName: pageContent.authorName, content: pageContent.content, image: pageContent.image };
+    
+    case "authors":
+      return { type: "authors", title: pageContent.title, authors: pageContent.authors };
+    
+    case "acknowledgments":
+      return { type: "acknowledgments", title: pageContent.title, content: pageContent.content };
   }
 }
 

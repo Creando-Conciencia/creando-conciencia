@@ -105,7 +105,7 @@ export type DisplayPage =
   | { type: "audio"; url: string; htmlContent: string }
   | { type: "cover"; title: string; isBookCover?: boolean }
   | { type: "index"; title: string }
-  | { type: "biography"; authorName: string; content: string }
+  | { type: "biography"; authorName: string; content: string; image?: string }
   | { type: "authors"; title: string; authors: Author[] }
   | { type: "acknowledgments"; title: string; content: string };
 
