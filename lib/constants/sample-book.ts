@@ -190,10 +190,10 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   tecnología y el medio ambiente para construir un futuro más sustentable. Soy el doctor
   JOSÉ RAMÓN LAINES CANEPA y me acompaña en cabina.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Roberto Hernandez Barajas, buenas tardes,
+  <p><strong>DR. JOSÉ ROBERTO HERNANDEZ BARAJAS:</strong> Roberto Hernandez Barajas, buenas tardes,
   Ramón, muy buenas tardes a toda la audiencia de Radio UJAT.</p></br>
 
-  <p><strong>JRLC:</strong> Gracias por estar con nosotros para que juntos
+  <p><strong>DR. JRLC:</strong> Gracias por estar con nosotros para que juntos
   conozcamos lo más relevante de la ciencia, pensar de manera crítica y actuar de forma
   consciente en el cuidado de nuestro planeta. Así que prepárate, recuerda puedes
   interactuar con nosotros a través de nuestras redes sociales y ser parte activa de esta
@@ -205,10 +205,10 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   de Tabasco. Al licenciado Guillermo Narváez Osorio, quien es rector. Bienvenido,
   rector, buenas tardes, gracias por estar con nosotros.</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Buenas tardes, buenas tardes a ambos. Es un
+  <p><strong>RECTOR LIC. GUILLERMO NARVAEZ OSORIO:</strong> Buenas tardes, buenas tardes a ambos. Es un
   honor estar aquí con ustedes compartiendo.</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Bien, vamos a empezar, le voy a comentar una
+  <p><strong>DR. JRLC:</strong> Bien, vamos a empezar, le voy a comentar una
   breve reseña de nuestro invitado. Nos costó mucho trabajo hacerla, tiene un amplio
   currículum. El licenciado Guillermo Narváez Osorio fue electo para un segundo
   periodo como rector de la Universidad Juárez Autónoma de Tabasco el 22 de enero de
@@ -240,20 +240,20 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   ¿Qué retos enfrentamos para seguir siendo líder en investigación científica en la
   región?</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Bueno, yo creo que lo primero es consolidar
+  <p><strong>RECTOR LIC. GNO:</strong> Bueno, yo creo que lo primero es consolidar
   parte de lo que se ha venido haciendo en los últimos años y a partir de esa
   consolidación, empujar este año y los años que quedan en la de los proyectos que
   tengan que ver con las áreas de producción, con las áreas que tengan que ver con el
   apoyo hacia el campo y la industria tabasqueña. Y fundamentalmente, todo a partir de
   la reactivación de nuestros principales laboratorios de investigación.</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Bien, rector, en la universidad la razón de ser son
+  <p><strong>DR. JRLC:</strong> Bien, rector, en la universidad la razón de ser son
   los estudiantes. Eso se dice en todos los eventos, en muchos lados y usted ha
   considerado qué estrategias para que más estudiantes participen en programas, por
   ejemplo, en el verano de investigación científica. Ahora, y tenemos programas de
   mujeres, mujeres en la ciencia. ¿Qué estrategia está usted implementando?</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong>  Mira, yo creo que la difusión es muy importante
+  <p><strong>RECTOR LIC. GNO:</strong>  Mira, yo creo que la difusión es muy importante
   de todos estos eventos que tú correctamente señalas, eh, para que los jóvenes vayan
   adquiriendo mayor experiencia y vayan conociendo otras visiones de otras
   universidades. No solamente del sureste o del país, sino a nivel Latinoamérica y a nivel
@@ -270,7 +270,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   tenemos el talento, sí tenemos la capacidad, sí tenemos los instrumentos para poder
   realizar este tipo de actividades.</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Qué interesante entrevista estamos teniendo con
+  <p><strong>DR. JRLC:</strong> Qué interesante entrevista estamos teniendo con
   nuestra máxima autoridad, el licenciado Guillermo Narváez Osorio. Pero tenemos que
   ir a un corte promocional y enseguida regresamos en "Creando Conciencia, la ciencia
   que transforma".</p></br>
@@ -278,7 +278,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>DR. JOSÉ ROBERTO HERNÁNDEZ BARAJAS:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma". A continuación, vamos a presentar una cápsula informativa que fue
   preparada por Kenia Leticia Utrera Cabrera.</p></br>
 
@@ -317,13 +317,13 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   el mundo desde nuestra universidad. Soy Kenia Utrera, le mando un saludo al rector y
   nos escuchamos en la próxima emisión.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>DR. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma". Licenciado Narváez, es un tema muy importante para la sociedad el
   impacto social que tiene la ciencia que se desarrolla en la universidad. Al respecto, nos
   gustaría saber qué significa para usted y para la universidad generar investigaciones
   con sentido social y cómo esto beneficia a la comunidad.</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Claro, mira, eh, si partimos del hecho de que
+  <p><strong>RECTOR LIC. GNO:</strong> Claro, mira, eh, si partimos del hecho de que
   somos la máxima Casa de Estudios, si partimos del hecho de que somos generadores
   de conocimiento y partimos también del hecho de que, eh, traemos una serie de
   rezagos históricos en cuanto a la ciencia, en cuanto a la difusión de las ciencias, en
@@ -374,12 +374,12 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   en conocimientos para que ellos puedan, eh, tener mejores posibilidades de
   desarrollo.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Y justo respecto, licenciado Narváez, ¿cómo
+  <p><strong>DR. JRHB:</strong> Y justo respecto, licenciado Narváez, ¿cómo
   podemos motivar que tanto estudiantes como profesores precisamente participen en
   el desarrollo de este tipo de proyectos encaminados a resolver problemas locales y
   globales?</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong>  Sí, ahí hay que, ahí, se tiene que trabajar mucho
+  <p><strong>RECTOR LIC. GNO:</strong>  Sí, ahí hay que, ahí, se tiene que trabajar mucho
   con crear sentidos de pertenencia, con crear, trabajar mucho en lo que se llama
   conciencia social, eh, que los, eh, los maestros entiendan exactamente cuál es el
   papel que les toca jugar, que si hoy somos profesionistas es porque existió una
@@ -389,7 +389,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   mínimo que podemos hacer es ser agradecidos y tratar de apoyar a estas, eh,
   universidades para que puedan realizar esa labor de carácter social.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Le agradecemos mucho sus respuestas,
+  <p><strong>DR. JRHB:</strong> Le agradecemos mucho sus respuestas,
   licenciado Narváez, por cuestiones de tiempo, bueno, tenemos que ir a un corte
   promocional y enseguida regresamos a "Creando Conciencia".</p></br>
 
@@ -404,7 +404,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Rector, ¿qué impacto tiene esto en la vida de los estudiantes y en la universidad?
   ¿Podría platicarnos al respecto?</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, claro. Imagínate jóvenes que están llenos de
+  <p><strong>RECTOR LIC. GNO:</strong> Sí, claro. Imagínate jóvenes que están llenos de
   emociones, de sentimientos, llenos de esperanzas y que de pronto tienen la
   oportunidad de poder conocer otros ambientes, de poder estar en universidades muy
   importantes, con un prestigio internacional, pues eso les cambia la visión que tienen
@@ -417,7 +417,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Entonces eso es lo que buscamos realmente, que nuestros jóvenes, eh, puedan tener
   una participación y una formación más solidaria y comprometida.</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Qué interesante, eh, rector, de estos actores
+  <p><strong>DR. JRLC:</strong> Qué interesante, eh, rector, de estos actores
   importantes que están interactuando en el devenir de la universidad, pues, eh, van a
   terminar sus carreras, van a terminar su licenciatura, su maestría, su doctorado. Y,
   pues hay necesidades de detener esos talentos y ofrecer oportunidades para que sigan
@@ -427,7 +427,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   que la sociedad de Tabasco sienta eso que se está formando ahí en UJAT y lo que le
   está devolviendo al estado, lo que el estado nos ha dado.</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, mira. Uno de los graves problemas de los
+  <p><strong>RECTOR LIC. GNO:</strong> Sí, mira. Uno de los graves problemas de los
   países subdesarrollados es la fuga de talento. ¿Por qué los talentos se van? Porque los
   países desarrollados les ofrecen mejores expectativas de desarrollo profesional,
   mejores posibilidades de construir un patrimonio o de poder ir ascendiendo en la
@@ -442,7 +442,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   problema, no es un problema que sea propio de la de la Universidad Juárez Autónoma
   de Tabasco. Es un problema que impacta a la sociedad tabasqueña en todo su mundo.</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Qué interesante entrevista estamos llevando.
+  <p><strong>DR. JRLC:</strong> Qué interesante entrevista estamos llevando.
   Pero tenemos que ir a un corte promocional y enseguida regresamos a "Creando
   Conciencia, la ciencia que transforma".</p></br>
 
@@ -458,7 +458,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Estatal de Investigadores pertenece a la UJAT. ¿Cómo es que se mantiene esta
   excelencia científica en la universidad?</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Yo creo que ese es un mérito de los maestros.
+  <p><strong>RECTOR LIC. GNO:</strong> Yo creo que ese es un mérito de los maestros.
   Es un mérito de todos y cada uno de ellos, quienes se preocupan por su formación, por
   su preparación para estar dentro de este, eh, padrón estatal de investigadores. Y
   nosotros lo que hacemos simplemente es tratar de acercarles las herramientas que
@@ -468,7 +468,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   un mérito que les corresponde a todos y cada uno de los maestros de esta Universidad
   Juárez Autónoma de Tabasco.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Y justamente, eh, licenciado Narváez, en lo
+  <p><strong>DR. JRHB:</strong> Y justamente, eh, licenciado Narváez, en lo
   pasado nos comentaba que hay 2 proyectos como ejemplo, 2 proyectos. Uno que tiene
   que ver con productores de chile y otro proyecto relacionado con la Asociación de
   Apicultores, que son los que están resolviendo problemas locales. Pero debe haber
@@ -476,7 +476,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   tienen ese potencial de obtener un reconocimiento no solamente local, sino también
   internacional, como el caso de Brasil, Harvard, Japón.</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, claro. Bueno, tenemos jóvenes que son
+  <p><strong>RECTOR LIC. GNO:</strong> Sí, claro. Bueno, tenemos jóvenes que son
   estandartes de la de la universidad. Durante el año pasado, en el caso de Brasil, es
   este, el profesor Beto, junto con una de sus estudiantes, que obtuvo, ganó el pase
   nacional al evento latinoamericano que se hizo en Recife en Brasil con un proyecto de
@@ -519,17 +519,17 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   con su director y vamos a tratar de poder llevarlo al campo de los hechos, pues,
   convertirlo ya en un proyecto productivo.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Es muy interesante ver que la investigación que
+  <p><strong>DR. JRHB:</strong> Es muy interesante ver que la investigación que
   se realiza en la universidad no solamente es reconocida con premios internacionales,
   sino que ahora, como él ha comentado, se van a convertir en ya no proyectos de
   investigación, ya no proyectos escolares, sino que llegarán a ser, eh, proyectos
   productivos.</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, esa es la finalidad, pues, porque también no
+  <p><strong>RECTOR LIC. GNO:</strong> Sí, esa es la finalidad, pues, porque también no
   queremos quedarnos en la simple teoría, sino que lo que los muchachos hacen
   puedan ellos verlo concretado en proyectos productivos.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Le agradezco mucho la respuesta, señor
+  <p><strong>DR. JRHB:</strong> Le agradezco mucho la respuesta, señor
   rector, vamos a un corte promocional y enseguida regresamos a "Creando Conciencia".</p></br>
 
   <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
