@@ -83,7 +83,6 @@ export const sampleBook: Book = {
       <br>
       <br>
       <p className="mt-8 italic">— El equipo de "Creando Conciencia"</p>
-    `,
   },
   index: {
     type: "index",
