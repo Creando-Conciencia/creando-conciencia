@@ -79,23 +79,37 @@ export default function BookReaderApp() {
 
 // Bloque corregido ***********************************************
 // --- Tests (lightweight) ---
+// useEffect(() => {
+//  if (process.env.NODE_ENV === "development") {
+//    console.assert(
+//      sampleBook.chapters.length > 0,
+//      "Book should have chapters",
+//    );
+
+//    sampleBook.chapters.forEach((chapter, index) => {
+//      console.assert(
+//        chapter.pages.length >= 3,
+//        `Chapter ${index + 1} must include text + chatbot + form`,
+//      );
+//    });
+//  }
+//}, []);
+  
+// 2da Propuesta Bloque Corregido*********************************************************************
 useEffect(() => {
   if (process.env.NODE_ENV === "development") {
-    console.assert(
-      sampleBook.chapters.length > 0,
-      "Book should have chapters",
+    const valid = sampleBook.chapters.every(
+      (chapter) => chapter.pages.length >= 3
     );
 
-    sampleBook.chapters.forEach((chapter, index) => {
-      console.assert(
-        chapter.pages.length >= 3,
-        `Chapter ${index + 1} must include text + chatbot + form`,
-      );
-    });
+    console.assert(
+      valid,
+      "All chapters must include text + chatbot + form"
+    );
   }
 }, []);
-// *********************************************************************
 
+  // *********************************************************************************************************
   
   // Debug logging for column calculations
   useEffect(() => {
