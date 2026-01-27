@@ -5,7 +5,7 @@ export const sampleBook: Book = {
   id: "creando-conciencia-ujat-2025",
   title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
   author: "Dr. José Ramón Laines Canepa",
- // year: 2026,
+  year: 2026,
   cover: {
     type: "cover",
     title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
