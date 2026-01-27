@@ -90,6 +90,7 @@ export const sampleBook: Book = {
   },
   chapters: [
     {
+      id: 1,
       title: "Invitado: Lic. Guillermo Narváez Osorio, Rector de la UJAT",
       pages: [
         {
@@ -746,6 +747,7 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
 // CAPITULO 2 ***********************************************************************************************************
 // **********************************************************************************************************************
     {
+      id: 2,
       title: "Invitados: Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
       pages: [
         {
