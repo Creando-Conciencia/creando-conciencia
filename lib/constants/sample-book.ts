@@ -5,7 +5,7 @@ export const sampleBook: Book = {
   id: "creando-conciencia-ujat-2025",
   title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
   author: "Dr. José Ramón Laines Canepa",
-  year: 2021,
+  year: 2022,
   cover: {
     type: "cover",
     title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
@@ -780,6 +780,42 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
           </br>
           Finalmente, este capítulo invita a una reflexión importante: proteger la biodiversidad oculta es también proteger nuestra calidad de vida. Entender a estos organismos, respetar su papel y promover su conservación no es un tema exclusivo de especialistas; es una responsabilidad compartida que comienza con la educación ambiental, la curiosidad científica y acciones cotidianas conscientes.`,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          En una tarde de divulgación y asombro científico, los micrófonos de Radio UJAT abrieron espacio a un tema tan cercano como ignorado por la vida cotidiana: la presencia silenciosa y poderosa de los insectos en los ecosistemas tabasqueños. Acompañados por los doctores José Ramón Laines Canepa y Roberto Hernández Barajas, los invitados —la Dra. Araceli de la Cruz Pérez y el Dr. Manuel Pérez de la Cruz— condujeron a la audiencia por un recorrido revelador titulado “Biodiversidad oculta: explorando el rol de los insectos en los ecosistemas de Tabasco”.
+          </br>
+          Desde el inicio, el diálogo tomó forma con una intención clara: demostrar que lo “pequeño” también sostiene lo esencial. Con lenguaje accesible, la Dra. Araceli explicó que la aracnología estudia a los arácnidos —arañas, escorpiones, ácaros y otros grupos—, organismos que actúan como reguladores naturales en los ecosistemas. El Dr. Manuel complementó con una definición contundente: la entomología es la ciencia que estudia a los insectos, el grupo más diverso del planeta. 
+          </br>
+          A partir de ahí, quedó claro que estos organismos no son solo parte del paisaje: son el engranaje que hace funcionar la vida. Los insectos, explicó el Dr. Manuel, son base de la cadena trófica, pues alimentan a múltiples especies y mantienen el flujo ecológico. Si uno de esos eslabones se rompe, el ecosistema se desequilibra. El mensaje fue directo: sin insectos, la naturaleza pierde estabilidad. 
+          </br>
+          La conversación avanzó hacia el trabajo de campo, ese que a menudo parece exclusivo de documentales, pero que en Tabasco es una realidad diaria. Con entusiasmo, la Dra. Araceli describió cómo la investigación requiere curiosidad científica, paciencia y técnicas específicas: redes de golpeo, cebos, cámaras trampa y métodos diseñados para cada grupo. Su reflexión fue precisa: “cuando no conocemos las cosas, no las vemos; pero cuando las conocemos, empezamos a mirar alrededor”. 
+          </br>
+          Tras una cápsula informativa que reforzó el papel de los insectos como polinizadores, recicladores de nutrientes y bioindicadores, el programa se enfocó en hallazgos concretos del trabajo científico en manglares, selvas y agroecosistemas. El Dr. Manuel compartió que los relictos de selva y los manglares suelen concentrar la mayor diversidad, mientras que los agroecosistemas albergan comunidades distintas, adaptadas a condiciones más alteradas. 
+          </br>
+          Uno de los momentos más llamativos ocurrió al hablar de los insectos conocidos popularmente como “polillas”, aquellos que perforan madera y producen aserrín. En realidad, explicó el Dr. Manuel, se trata de grupos como escolítidos, platipódidos y cerambícidos, capaces de vivir dentro de los árboles y, en algunos casos, asociarse con hongos que afectan a la planta. Más que “plagas”, son señales biológicas: cuando aparecen, pueden revelar que un árbol o un ecosistema atraviesa estrés o deterioro. 
+          </br>
+          La Dra. Araceli llevó esta idea al terreno doméstico: muchas veces estos insectos quedan dentro de la madera usada en muebles y, con el tiempo, emergen causando desgaste, lo que sorprende a las personas sin entender el origen. El mensaje fue una invitación a comprender antes de destruir: detrás de cada señal hay un proceso ecológico en marcha. 
+          </br>
+          El Dr. Roberto, confesando su afinidad por los escarabajos desde la infancia, abrió un bloque sobre especies clave como bioindicadores. El Dr. Manuel explicó que los escarabajos representan uno de los grupos más diversos del planeta, con funciones tan sorprendentes como el reciclaje de nutrientes mediante especies que utilizan estiércol, formando esferas y enriqueciendo el suelo. En el caso de las termitas, se subrayó su diversidad y su capacidad de degradar madera, así como su presencia diferenciada entre selva, ciudad y agroecosistemas. 
+          </br>
+          El capítulo tomó un tono de alerta cuando se abordaron las amenazas. La Dra. Araceli fue clara: la pérdida de hábitat es el principal problema, seguido del crecimiento urbano. Pero también destacó un enemigo invisible: la luz artificial, que desorienta a los insectos, altera sus ciclos reproductivos y provoca que se concentren en espacios humanos, donde suelen ser eliminados con insecticidas. Su llamado fue firme: muchas especies que se exterminan por miedo cumplen funciones esenciales, incluida la polinización de múltiples plantas. 
+          </br>
+          Como respuesta, el Dr. Manuel propuso una estrategia sencilla pero poderosa: conservar y restaurar vegetación nativa, especialmente en programas de reforestación. Reforestar con especies locales —dijo— significa conservar no solo insectos, sino cadenas completas de vida asociada. 
+          </br>
+          La entrevista también abrió el debate sobre la regulación ambiental y los riesgos de introducir especies invasoras. La Dra. Araceli explicó que mover plantas de un lugar a otro puede trasladar huevos o insectos microscópicos sin ser detectados, generando impactos que se evidencian años después. El Dr. Manuel aportó ejemplos concretos: especies invasoras que actualmente causan defoliación y casos históricos de insectos introducidos por transporte de madera desde otros continentes, que hoy se encuentran establecidos en zonas urbanas. 
+          </br>
+          En el tramo final, el programa defendió la importancia de la investigación interdisciplinaria. Se habló del valor de integrar biología, ecología, química, física, tecnología e incluso diseño gráfico para mejorar la identificación y comprensión de especies. La entomología y la aracnología, insistieron ambos investigadores, son campos “nobles” porque permiten generar conocimiento aplicable para conservación, manejo ecológico y educación ambiental. 
+          </br>
+          La sección de vox populi reveló algo fundamental: la gente reconoce que los insectos son esenciales, aunque también les teme por sus impactos negativos. Frente a ello, el Dr. Manuel amplió la mirada: no solo existe la abeja productora de miel, también hay abejas nativas sin aguijón, como las meliponas, además de muchos otros insectos polinizadores. La Dra. Araceli añadió una idea clave: incluso el mosquito, tan rechazado, cumple un rol ecológico, y el macho puede actuar como polinizador. 
+          </br>
+          El cierre fue tan directo como esperanzador. Se habló de contaminación lumínica y sonora, de cómo los insectos pueden agotarse por sobreestimulación, y de acciones simples para convivir mejor: sembrar plantas útiles, reducir luces innecesarias y reconocer que no se trata de una “invasión”, sino de organismos intentando adaptarse a un entorno transformado por el ser humano. 
+          </br>
+          Finalmente, los conductores y los invitados compartieron una conclusión que resume el corazón del capítulo: coexistir, aprender, respetar y actuar. La Dra. Araceli lo definió con precisión: no ver a estos animales como enemigos, sino como aliados. El Dr. Manuel cerró recordando que los insectos contienen información invaluable para comprender y conservar la vida, y que el conocimiento debe compartirse mediante talleres, foros y divulgación pública. 
+          </br>
+          En palabras del programa, la enseñanza quedó sembrada con claridad: “Hoy descubrimos que los insectos, aunque pequeños, sostienen grandes ecosistemas. Proteger su hábitat no es solo un acto de conservación, sino un compromiso con el equilibrio de la vida en nuestro planeta”.`,
+        } as PageContent,
+
 
 
 
