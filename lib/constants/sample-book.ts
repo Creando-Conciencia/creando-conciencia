@@ -744,6 +744,18 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
       ],
     },
 
+    // CAPITULO 2 ****************************************
+     {
+       title: "Mujeres en la Ciencia",
+       pages: [
+         {
+           type: "cover",
+           title: "Mujeres en la Ciencia"
+         } as PageContent,
+         ],
+     },
+         
+
 
     
     // {
