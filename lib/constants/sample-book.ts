@@ -964,8 +964,103 @@ La reflexión se amplía con otra realidad: el mundo no solo se transforma por l
 Y entonces el episodio encuentra su dimensión ética. La conversación con el público revela una percepción dual: los insectos son necesarios, pero también incómodos; son vida, pero también temor. La ciencia no niega esa tensión; la ordena. Reconoce que incluso los organismos menos apreciados cumplen funciones ecológicas: algunos polinizan, otros se integran como alimento en la red biológica, otros sostienen procesos de regulación ambiental. Lo que cambia no es el insecto, sino el criterio humano: dejar de reaccionar con exterminio automático y reemplazar la reacción por entendimiento. </br> 
 Así, el cierre de este capítulo no funciona como una conclusión, sino como una invitación: crear conciencia significa aprender a convivir. Coexistir no es aguantar; es comprender. No es resignarse; es actuar con responsabilidad. Los insectos guardan información valiosa para interpretar el estado del ambiente y para preservar la vida que depende de él, incluida la nuestra. Protegerlos no es romanticismo: es inteligencia ecológica. Y si alguna enseñanza queda como hilo conductor, es esta: cuando cuidamos lo invisible, también estamos cuidando el futuro. </br>`,
         } as PageContent,
-        
          ],
+     },
+    // CAPITULO 3 *********************************************************************************
+     {
+      title: "Invitados: Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García, Jessica Lizbeth Córdova Palma",
+      pages: [
+        {
+          type: "cover",
+          title: "Invitados: Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García, Jessica Lizbeth Córdova Palma",
+        } as PageContent,
+
+        
+        ],
+     },
+  // CAPITULO 4 *********************************************************************************
+     {
+      title: "Invitado: Dr. Carlos Manuel Burelo Ramos",
+      pages: [
+        {
+          type: "cover",
+          title: "Invitado: Dr. Carlos Manuel Burelo Ramos",
+        } as PageContent,
+
+        
+        ],
+     },
+        // CAPITULO 5 *********************************************************************************
+     {
+      title: "Invitados: Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
+      pages: [
+        {
+          type: "cover",
+          title: "Invitados: Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
+        } as PageContent,
+
+        
+        ],
+     },
+        // CAPITULO 6 *********************************************************************************
+     {
+      title: "Invitados: Manatí",
+      pages: [
+        {
+          type: "cover",
+          title: "Invitados: Manatí",
+        } as PageContent,
+
+        
+        ],
+     },
+        // CAPITULO 7 *********************************************************************************
+     {
+      title: "Invitados: Tecnologías",
+      pages: [
+        {
+          type: "cover",
+          title: "Invitados: Tecnologías",
+        } as PageContent,
+
+        
+        ],
+     },
+        // CAPITULO 8 *********************************************************************************
+     {
+      title: "Invitados: Soriasis",
+      pages: [
+        {
+          type: "cover",
+          title: "Invitados: Soriasis",
+        } as PageContent,
+
+        
+        ],
+     },
+        // CAPITULO 9 *********************************************************************************
+     {
+      title: "Invitados: Bioenergías",
+      pages: [
+        {
+          type: "cover",
+          title: "Invitados: Bioenergías",
+        } as PageContent,
+
+        
+        ],
+     },
+        // CAPITULO 10 *********************************************************************************
+     {
+      title: "Invitados: Metales Pesados",
+      pages: [
+        {
+          type: "cover",
+          title: "Invitados: Metales Pesados",
+        } as PageContent,
+
+        
+        ],
      },
          
 
