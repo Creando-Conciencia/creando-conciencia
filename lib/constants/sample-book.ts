@@ -5,7 +5,7 @@ export const sampleBook: Book = {
   id: "creando-conciencia-ujat-2025",
   title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
   author: "Dr. José Ramón Laines Canepa",
-  year: 2029,
+  year: 2021,
   cover: {
     type: "cover",
     title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
@@ -766,6 +766,21 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
           content: `
             <p> La Dra. Aracely de la Cruz Pérez es Profesora-Investigadora, especialista en el estudio de arácnidos e insectos. Egresada de la UJAT (2003) y con formación de posgrado en el Colegio de Postgraduados, es integrante del SNII desde 2013. Ha publicado 33 artículos científicos, dirigido 24 tesis y contribuido en capítulos del libro Biodiversidad de Tabasco. Es responsable de la Colección de Arácnidos e Insectos en la DACBiol-UJAT. </p>`,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          <h3>Biodiversidad oculta: explorando el rol de los insectos en los ecosistemas de Tabasco</h3>
+          En Tabasco, la vida se manifiesta con intensidad en cada selva, humedal y manglar. Sin embargo, gran parte del equilibrio ecológico del estado depende de organismos que con frecuencia pasan desapercibidos: los insectos y otros artrópodos. Aunque pequeños, estos seres cumplen funciones esenciales para la salud de los ecosistemas, sosteniendo procesos como la descomposición de materia orgánica, el reciclaje de nutrientes, la polinización y el mantenimiento de las cadenas tróficas que sustentan a numerosas especies.
+          </br> 
+          Este capítulo presenta una mirada clara y cercana al tema “Biodiversidad oculta: explorando el rol de los insectos en los ecosistemas de Tabasco”, a partir de una entrevista realizada en el programa Creando Con-Ciencia: La ciencia que transforma, conducido por los Dres. José Ramón Laines Canepa y Roberto Hernández Barajas. En esta conversación participan como invitados el Dr. Manuel Pérez de la Cruz y la Dra. Aracely de la Cruz Pérez, investigadores especializados en entomología y aracnología tropical, quienes han dedicado su trabajo al estudio, documentación y divulgación de la biodiversidad de la región.
+          </br> 
+          A lo largo del capítulo, el lector comprenderá por qué los insectos no deben considerarse únicamente como organismos molestos o asociados a plagas, sino como indicadores ambientales y piezas clave para interpretar el estado de conservación de los ecosistemas. En particular, se explora el papel de grupos como escarabajos, termitas y barrenadores, así como su relación con la vegetación nativa, la dinámica forestal y la estabilidad ecológica, especialmente en ambientes sensibles como los manglares.
+          </br>
+          Asimismo, se abordan retos contemporáneos que amenazan esta biodiversidad, entre ellos la pérdida de hábitat, el crecimiento urbano, el uso indiscriminado de insecticidas y la contaminación lumínica, factores que alteran los ciclos naturales de muchas especies y disminuyen su capacidad de sostener procesos ecológicos críticos. 
+          </br>
+          Finalmente, este capítulo invita a una reflexión importante: proteger la biodiversidad oculta es también proteger nuestra calidad de vida. Entender a estos organismos, respetar su papel y promover su conservación no es un tema exclusivo de especialistas; es una responsabilidad compartida que comienza con la educación ambiental, la curiosidad científica y acciones cotidianas conscientes.`,
+        } as PageContent,
+
 
 
         
