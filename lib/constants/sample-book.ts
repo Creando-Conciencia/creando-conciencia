@@ -815,6 +815,30 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
           </br>
           En palabras del programa, la enseñanza quedó sembrada con claridad: “Hoy descubrimos que los insectos, aunque pequeños, sostienen grandes ecosistemas. Proteger su hábitat no es solo un acto de conservación, sino un compromiso con el equilibrio de la vida en nuestro planeta”.`,
         } as PageContent,
+        {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q2",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
 
 
 
