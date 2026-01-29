@@ -755,7 +755,7 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
         {
           type: "biography",
           authorName: " Dr. Manuel Pérez de la Cruz",
-          image: "/Dr.Manuel_Pèrez.jpg",
+          image: "/Dr_Manuel_Perez.jpg",
           content: `
             <p>El Dr. Manuel Pérez de la Cruz es Profesor-Investigador y especialista en insectos tropicales. Egresado de la UJAT (2003) y con estudios de posgrado en el Colegio de Postgraduados, ha publicado 52 artículos científicos, dirigido 32 tesis y participado en capítulos del libro Biodiversidad de Tabasco. Es miembro del SNI desde 2011 y responsable de la Colección de Insectos y Arácnidos en la DACBiol-UJAT. </p>`,
         } as PageContent,
