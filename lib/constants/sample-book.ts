@@ -755,14 +755,14 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
         {
           type: "biography",
           authorName: " Dr. Manuel Pérez de la Cruz",
-          image: "/lic_guillermo_narvaez.jpeg",
+          image: "/Dr.Manuel_Pèrez.jpg",
           content: `
             <p>El Dr. Manuel Pérez de la Cruz es Profesor-Investigador y especialista en insectos tropicales. Egresado de la UJAT (2003) y con estudios de posgrado en el Colegio de Postgraduados, ha publicado 52 artículos científicos, dirigido 32 tesis y participado en capítulos del libro Biodiversidad de Tabasco. Es miembro del SNI desde 2011 y responsable de la Colección de Insectos y Arácnidos en la DACBiol-UJAT. </p>`,
         } as PageContent,
        {
           type: "biography",
           authorName: " Dra. Aracely de la Cruz Pérez",
-          image: "/lic_guillermo_narvaez.jpeg",
+          image: "/Dra_Aracely.jpg",
           content: `
             <p> La Dra. Aracely de la Cruz Pérez es Profesora-Investigadora, especialista en el estudio de arácnidos e insectos. Egresada de la UJAT (2003) y con formación de posgrado en el Colegio de Postgraduados, es integrante del SNII desde 2013. Ha publicado 33 artículos científicos, dirigido 24 tesis y contribuido en capítulos del libro Biodiversidad de Tabasco. Es responsable de la Colección de Arácnidos e Insectos en la DACBiol-UJAT. </p>`,
         } as PageContent,
