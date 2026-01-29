@@ -975,6 +975,35 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           title: "Invitados: Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García, Jessica Lizbeth Córdova Palma",
         } as PageContent,
 
+        {
+          type: "biography",
+          authorName: "Kenia Leticia Utrera Cabrera",
+          image: "/Kenia_Leticia_Utrera_Cabrera.jpg",
+          content: `
+            <p>Kenia Leticia Utrera Cabrera es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT, con experiencia en liderazgo estudiantil y gestión de residuos. Ha colaborado con SEMARNAT en Tabasco y es cofundadora de EPLASTO, proyecto de economía circular reconocido por Enactus México y presentado en la Universidad de Harvard y el MIT. Actualmente es presidenta de la Sociedad de Alumnos de la DACBiol-UJAT y participa en AMICA y AIDIS Joven México.</p>`,
+        } as PageContent,
+       {
+          type: "biography",
+          authorName: "Mairé Paulina Torres García",
+          image: "/Maire_Paulina_Torres_Garcia.jpg",
+          content: `
+            <p>Mairé Paulina Torres García es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT, con enfoque en sostenibilidad y gestión de residuos. Es presidenta del Comité Estudiantil de AMICA en la DACBiol-UJAT, donde promueve la participación y formación académica del estudiantado. Forma parte de EPLASTO en el área financiera y de análisis de riesgos, contribuyendo al desarrollo y viabilidad del proyecto, presentado en Harvard y el MIT.</p>`,
+        } as PageContent,
+        {
+          type: "biography",
+          authorName: "Danna Paola Correa García",
+          image: "/Danna_Paola_Correa_Garcia.jpg",
+          content: `
+            <p>Danna Paola Correa García es Licenciada en Ingeniería Ambiental por la DACBiol-UJAT y participa activamente en la Sociedad de Alumnos de la DACBiol-UJAT y en el Comité Estudiantil de AMICA. Cuenta con experiencia en el manejo y tratamiento de residuos sólidos urbanos y de manejo especial. Se desempeña como directora de operaciones y de producto en EPLASTO, proyecto de economía circular reconocido por Enactus México y presentado en instituciones como Harvard y el MIT.</p>`,
+        } as PageContent,
+       {
+          type: "biography",
+          authorName: "Jessica Lizbeth Córdova Palma",
+          image: "/Jessica_Lizbeth_Cordova_Palma.jpg",
+          content: `
+            <p>Jessica Lizbeth Córdova Palma es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT. Realizó sus prácticas profesionales en PEMEX, en el área de Seguridad, Salud en el Trabajo y Protección Ambiental. Actualmente es Chief Technology Officer (CTO) de EPLASTO, emprendimiento de economía circular enfocado en el desarrollo de materiales a partir de plásticos reciclados, reconocido por Enactus México y presentado en Harvard y el MIT.</p>`,
+        } as PageContent,
+
         
         ],
      },
