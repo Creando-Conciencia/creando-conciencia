@@ -1015,6 +1015,13 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           type: "cover",
           title: "Invitado: Dr. Carlos Manuel Burelo Ramos",
         } as PageContent,
+        {
+          type: "biography",
+          authorName: "Dr. Carlos Manuel Burelo Ramos",
+          image: "/Dr_Carlos_Manuel_Burelo_Ramos.jpg",
+          content: `
+            <p>El Dr. Carlos Manuel Burelo Ramos es Biólogo por la Universidad Juárez Autónoma de Tabasco (UJAT) y Doctor en Ciencias con especialidad en Sistemática por el Instituto de Ecología (INECOL). Es Investigador Nacional Nivel I, miembro del Sistema Estatal de Investigadores y Profesor-Investigador de tiempo completo en la División Académica de Ciencias Biológicas de la UJAT, donde dirige el Laboratorio de Manglares Interiores. Su investigación se centra en la flora de Tabasco, con énfasis en estudios taxonómicos y en la conservación de ecosistemas estratégicos. Ha publicado 19 artículos científicos y es coautor de un trabajo en Proceedings of the National Academy of Sciences que documentó los manglares más tierra adentro y a mayor altitud del mundo, ubicados en el río San Pedro Mártir. Este hallazgo lo ha consolidado como referente internacional en estudios de manglares. Además, lideró el estudio técnico justificativo para la declaratoria del río San Pedro Mártir como Reserva de la Biosfera Wanha’ y actualmente coordina un proyecto de restauración con la meta de producir 60,000 plantas en un año, con financiamiento de REPSOL, SLB y la UJAT.</p>`,
+        } as PageContent,
 
         
         ],
