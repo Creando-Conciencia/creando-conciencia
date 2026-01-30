@@ -1003,7 +1003,18 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           content: `
             <p>Jessica Lizbeth Córdova Palma es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT. Realizó sus prácticas profesionales en PEMEX, en el área de Seguridad, Salud en el Trabajo y Protección Ambiental. Actualmente es Chief Technology Officer (CTO) de EPLASTO, emprendimiento de economía circular enfocado en el desarrollo de materiales a partir de plásticos reciclados, reconocido por Enactus México y presentado en Harvard y el MIT.</p>`,
         } as PageContent,
-         {
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT
+En un contexto global marcado por la crisis ambiental y la acumulación de residuos plásticos, las universidades se han convertido en espacios clave para la generación de soluciones innovadoras y sostenibles. En este escenario, la ciencia aplicada, la creatividad y el compromiso social se articulan para responder a problemáticas locales con impacto más allá del aula, demostrando que el conocimiento puede transformarse en acción concreta. 
+Este capítulo presenta el proyecto EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT, a partir de una entrevista realizada en el programa Creando Con-Ciencia: La ciencia que transforma. En esta conversación participan Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García y Jessica Lizbeth Córdova Palma, estudiantes de Ingeniería Ambiental de la Universidad Juárez Autónoma de Tabasco, quienes comparten la experiencia de desarrollar y presentar su iniciativa en el Enactus Innovation Bootcamp 2024, celebrado en Cambridge, Massachusetts. 
+A lo largo del capítulo, el lector conocerá cómo surgió EPLASTO como respuesta a la acumulación de plásticos y al desecho de mobiliario en mal estado, y cómo esta problemática se convirtió en una oportunidad para crear un material alternativo a la madera, elaborado a partir de polipropileno reciclado. Asimismo, se explora el proceso técnico que distingue al proyecto, particularmente el uso de biogás como fuente de energía, integrando principios de economía circular y reducción de la huella ambiental. 
+El capítulo también aborda los retos tecnológicos, logísticos y formativos que enfrentaron las autoras, así como los aprendizajes obtenidos al interactuar con expertos de universidades como Harvard y el MIT. Estas experiencias permitieron replantear la visión del proyecto, fortalecer su enfoque de impacto y trazar rutas para su escalamiento y replicabilidad en otros contextos. 
+Finalmente, esta experiencia invita a reflexionar sobre el papel de las y los estudiantes como agentes de cambio. EPLASTO demuestra que la innovación ambiental puede nacer desde lo local, crecer con respaldo académico y proyectarse a escenarios internacionales, inspirando a nuevas generaciones a transformar los residuos en oportunidades y a construir soluciones sostenibles con conciencia social y científica.`,
+        } as PageContent,
+        
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1047,7 +1058,14 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           content: `
             <p>El Dr. Carlos Manuel Burelo Ramos es Biólogo por la Universidad Juárez Autónoma de Tabasco (UJAT) y Doctor en Ciencias con especialidad en Sistemática por el Instituto de Ecología (INECOL). Es Investigador Nacional Nivel I, miembro del Sistema Estatal de Investigadores y Profesor-Investigador de tiempo completo en la División Académica de Ciencias Biológicas de la UJAT, donde dirige el Laboratorio de Manglares Interiores. Su investigación se centra en la flora de Tabasco, con énfasis en estudios taxonómicos y en la conservación de ecosistemas estratégicos. Ha publicado 19 artículos científicos y es coautor de un trabajo en Proceedings of the National Academy of Sciences que documentó los manglares más tierra adentro y a mayor altitud del mundo, ubicados en el río San Pedro Mártir. Este hallazgo lo ha consolidado como referente internacional en estudios de manglares. Además, lideró el estudio técnico justificativo para la declaratoria del río San Pedro Mártir como Reserva de la Biosfera Wanha’ y actualmente coordina un proyecto de restauración con la meta de producir 60,000 plantas en un año, con financiamiento de REPSOL, SLB y la UJAT.</p>`,
         } as PageContent,
-         {
+        
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          Burelo.`,
+        } as PageContent,
+        
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1083,7 +1101,18 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           type: "cover",
           title: "Invitados: Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
         } as PageContent,
-         {
+        
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          Este capítulo abre una ventana hacia uno de los hallazgos ecológicos más fascinantes del sureste de México: la existencia de manglares interiores en el río San Pedro Mártir, un ecosistema que desafía lo que comúnmente creemos saber sobre los manglares y su relación con el mar. Lejos de ser solo una rareza biológica, estos manglares —establecidos en agua dulce y a más de 120 kilómetros de la costa— funcionan como una evidencia viva de los cambios climáticos ocurridos en el planeta hace miles de años, y al mismo tiempo como un recordatorio contundente de los riesgos que el futuro puede volver a imponer sobre nuestros territorios y sociedades. 
+A través de una narrativa cercana, este capítulo presenta cómo la ciencia puede convertirse en esperanza cuando logra traducirse en acciones concretas: investigación aplicada, comunicación social del conocimiento, y estrategias reales de conservación. El caso de Wan-ha no es únicamente la historia de un ecosistema excepcional, sino también la historia de una región que comienza a ser mirada con mayor atención por la comunidad científica, por las instituciones ambientales y por las propias comunidades que la habitan. 
+En estas páginas se explora cómo un descubrimiento de alcance internacional detonó procesos de protección ambiental sin precedentes, culminando en la declaratoria de la Reserva de la Biosfera Wanha’, una categoría de conservación de máxima relevancia en México. Este paso representa un triunfo para la biodiversidad, pero también una oportunidad histórica para construir un modelo de desarrollo sostenible basado en el conocimiento, la restauración ecológica y el compromiso social. 
+Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “crear conciencia”: no como una frase discursiva, sino como una práctica real que implica comprender, valorar y actuar. Conservar estos ecosistemas no es tarea exclusiva de especialistas; es una responsabilidad colectiva que inicia cuando aprendemos a mirar el territorio con respeto, entendiendo que proteger la naturaleza es también proteger nuestra propia permanencia.`,
+        } as PageContent,
+        
+        
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1120,9 +1149,13 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           title: "Invitados: Manatí",
         } as PageContent,
 
-
-
-         {
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          Burelo.`,
+        } as PageContent,
+        
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1159,9 +1192,12 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           title: "Invitados: Tecnologías",
         } as PageContent,
 
-
-
-         {
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          Burelo.`,
+        } as PageContent,
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1197,10 +1233,12 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           type: "cover",
           title: "Invitados: Soriasis",
         } as PageContent,
-
-
-
-         {
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          Burelo.`,
+        } as PageContent,
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1237,8 +1275,12 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           title: "Invitados: Bioenergías",
         } as PageContent,
 
-
-         {
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          Burelo.`,
+        } as PageContent,
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1274,9 +1316,12 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           type: "cover",
           title: "Invitados: Metales Pesados",
         } as PageContent,
-
-
-         {
+        {
+          type: "text",
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          Burelo.`,
+        } as PageContent,
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
