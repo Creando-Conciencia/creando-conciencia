@@ -5,7 +5,7 @@ export const sampleBook: Book = {
   id: "creando-conciencia-ujat-2025",
   title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
   author: "Dr. José Ramón Laines Canepa",
-  year: 2030,
+  year: ,
   cover: {
     type: "cover",
     title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
@@ -1013,6 +1013,12 @@ A lo largo del capítulo, el lector conocerá cómo surgió EPLASTO como respues
 El capítulo también aborda los retos tecnológicos, logísticos y formativos que enfrentaron las autoras, así como los aprendizajes obtenidos al interactuar con expertos de universidades como Harvard y el MIT. Estas experiencias permitieron replantear la visión del proyecto, fortalecer su enfoque de impacto y trazar rutas para su escalamiento y replicabilidad en otros contextos. 
 Finalmente, esta experiencia invita a reflexionar sobre el papel de las y los estudiantes como agentes de cambio. EPLASTO demuestra que la innovación ambiental puede nacer desde lo local, crecer con respaldo académico y proyectarse a escenarios internacionales, inspirando a nuevas generaciones a transformar los residuos en oportunidades y a construir soluciones sostenibles con conciencia social y científica.`,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          Xxx.`,
+        } as PageContent,
+        
         
         {
           type: "chatbot",
@@ -1067,6 +1073,25 @@ A través de una narrativa cercana, este capítulo presenta cómo la ciencia pue
 En estas páginas se explora cómo un descubrimiento de alcance internacional detonó procesos de protección ambiental sin precedentes, culminando en la declaratoria de la Reserva de la Biosfera Wanha’, una categoría de conservación de máxima relevancia en México. Este paso representa un triunfo para la biodiversidad, pero también una oportunidad histórica para construir un modelo de desarrollo sostenible basado en el conocimiento, la restauración ecológica y el compromiso social. 
 Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “crear conciencia”: no como una frase discursiva, sino como una práctica real que implica comprender, valorar y actuar. Conservar estos ecosistemas no es tarea exclusiva de especialistas; es una responsabilidad colectiva que inicia cuando aprendemos a mirar el territorio con respeto, entendiendo que proteger la naturaleza es también proteger nuestra propia permanencia.`,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          En una tarde de divulgación y asombro científico, los micrófonos de Radio UJAT abrieron espacio a un tema tan cercano como frecuentemente ignorado: la presencia silenciosa —y decisiva— de los insectos en los ecosistemas de Tabasco. Con la conducción del Dr. José Ramón Laínez Canepa y el Dr. Roberto Hernández Barajas, la audiencia fue guiada a través del episodio “Biodiversidad oculta: explorando el rol de los insectos en los ecosistemas de Tabasco”, un recorrido que reconfigura la manera en que observamos la vida cotidiana.</br>
+Desde el inicio, el diálogo dejó clara una premisa fundamental: lo “pequeño” no es sinónimo de insignificante. Con un lenguaje accesible, se explicó que la aracnología estudia a los arácnidos —arañas, escorpiones y ácaros—, organismos clave como reguladores naturales en los ecosistemas. A su vez, la entomología fue definida como la ciencia dedicada a los insectos, el grupo biológico más diverso del planeta, y quizá uno de los más determinantes para la estabilidad ecológica. </br>
+A partir de ese marco, emergió un mensaje contundente: los insectos no solo habitan el territorio, lo sostienen. Son parte esencial de la cadena trófica, participan en el flujo de energía y materia, y permiten que múltiples especies sobrevivan. Cuando estos eslabones se debilitan o desaparecen, el ecosistema entra en tensión, y los impactos se trasladan —tarde o temprano— hacia la vida humana.
+El capítulo también condujo a la audiencia hacia el trabajo de campo, ese universo donde la ciencia se construye con paciencia, técnica y asombro. Se mencionaron herramientas como redes de golpeo, cebos, trampas y metodologías diseñadas para cada grupo. Y surgió una idea que funciona como columna vertebral de todo el episodio: </br>
+“Cuando no conocemos las cosas, no las vemos; pero cuando las conocemos, empezamos a mirar alrededor.” </br>
+Tras una cápsula que reforzó su papel como polinizadores, recicladores de nutrientes y bioindicadores, se presentaron hallazgos obtenidos en manglares, selvas y agroecosistemas. Se destacó que los relictos de selva y los manglares suelen concentrar mayor diversidad, mientras que los agroecosistemas albergan comunidades distintas, adaptadas a condiciones más intervenidas. </br>
+Entre los momentos más llamativos estuvo la explicación sobre los insectos conocidos popularmente como “polillas”, aquellos que perforan madera y producen aserrín. Se precisó que, en realidad, suelen pertenecer a grupos como escolítidos, platipódidos o cerambícidos, capaces de desarrollarse dentro del árbol y, en algunos casos, asociarse con hongos que afectan a la planta. Más que simples “plagas”, su presencia puede funcionar como una señal biológica de estrés, deterioro o transformación del ecosistema. </br>
+La conversación conectó esta problemática incluso con escenarios domésticos: insectos que emergen tiempo después desde la madera utilizada en muebles y estructuras, generando sorpresa y rechazo. Pero el llamado fue claro: antes de eliminar, conviene comprender, porque detrás de cada señal existe un proceso ecológico activo. </br>
+El programa elevó el análisis al hablar de especies clave como bioindicadores. Se resaltó el papel de escarabajos altamente diversos, con funciones cruciales como el reciclaje de nutrientes mediante especies que procesan estiércol y contribuyen al enriquecimiento del suelo. En el caso de las termitas, se subrayó su diversidad y su capacidad de degradar madera, con presencia diferenciada entre selvas, ciudades y agroecosistemas. </br>
+El tono se volvió más urgente al abordar amenazas concretas. La pérdida de hábitat se señaló como el principal factor, junto con la expansión urbana. Sin embargo, también se expuso un riesgo menos evidente: la luz artificial, que desorienta a los insectos, altera sus ciclos de reproducción y favorece su concentración en espacios humanos, donde suelen ser eliminados mediante insecticidas. El mensaje fue directo: muchas especies exterminadas por miedo cumplen funciones esenciales, incluida la polinización de plantas clave para la vida. </br>
+Frente a ello, se propuso una estrategia simple pero poderosa: conservar y restaurar vegetación nativa. Reforestar con especies locales implica proteger no solo plantas, sino redes completas de vida asociada. La entrevista también abrió una discusión sobre regulación ambiental y riesgos de especies invasoras: trasladar plantas entre regiones puede movilizar insectos microscópicos u organismos no detectados, cuyos impactos se manifiestan años después. </br>
+Hacia el final, el programa defendió el valor de la investigación interdisciplinaria: biología, ecología, química, física, tecnología e incluso diseño gráfico se mostraron como aliados para documentar y comprender la biodiversidad. La entomología y la aracnología fueron presentadas como campos “nobles”, capaces de generar conocimiento aplicable a la conservación, al manejo ecológico y a la educación ambiental. </br>
+La sección de vox populi reveló una paradoja social: las personas reconocen la importancia de los insectos, pero también los temen. Frente a ello, se amplió la mirada hacia polinizadores menos conocidos, como abejas nativas sin aguijón (meliponas), y se recordó que incluso organismos rechazados —como el mosquito— cumplen roles ecológicos, incluyendo funciones de polinización en algunos casos. </br>
+El cierre fue tan directo como esperanzador: coexistir, aprender, respetar y actuar. No se trata de hablar de “invasiones”, sino de organismos intentando adaptarse a un entorno transformado por el ser humano. La conclusión se instaló con claridad: proteger a los insectos no es un tema menor, es una acción estratégica para sostener el equilibrio de la vida y el futuro de los ecosistemas que nos sostienen. </br>.`,
+        } as PageContent,
+        
         
         {
           type: "chatbot",
@@ -1113,6 +1138,11 @@ A través de una narrativa cercana, este capítulo presenta cómo la ciencia pue
 En estas páginas se explora cómo un descubrimiento de alcance internacional detonó procesos de protección ambiental sin precedentes, culminando en la declaratoria de la Reserva de la Biosfera Wanha’, una categoría de conservación de máxima relevancia en México. Este paso representa un triunfo para la biodiversidad, pero también una oportunidad histórica para construir un modelo de desarrollo sostenible basado en el conocimiento, la restauración ecológica y el compromiso social. 
 Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “crear conciencia”: no como una frase discursiva, sino como una práctica real que implica comprender, valorar y actuar. Conservar estos ecosistemas no es tarea exclusiva de especialistas; es una responsabilidad colectiva que inicia cuando aprendemos a mirar el territorio con respeto, entendiendo que proteger la naturaleza es también proteger nuestra propia permanencia.`,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          Xxx.`,
+        } as PageContent,
         
         
         {
@@ -1156,6 +1186,11 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
           Burelo.`,
+        } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          Xxx.`,
         } as PageContent,
         
         {
@@ -1201,6 +1236,11 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           Burelo.`,
         } as PageContent,
         {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          Xxx.`,
+        } as PageContent,
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1240,6 +1280,11 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
           Burelo.`,
+        } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          Xxx.`,
         } as PageContent,
         {
           type: "chatbot",
@@ -1284,6 +1329,11 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           Burelo.`,
         } as PageContent,
         {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          Xxx.`,
+        } as PageContent,
+        {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
           config: {
@@ -1323,6 +1373,11 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
           Burelo.`,
+        } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
+          Xxx.`,
         } as PageContent,
         {
           type: "chatbot",
