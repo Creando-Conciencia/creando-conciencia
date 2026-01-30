@@ -1003,6 +1003,31 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           content: `
             <p>Jessica Lizbeth Córdova Palma es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT. Realizó sus prácticas profesionales en PEMEX, en el área de Seguridad, Salud en el Trabajo y Protección Ambiental. Actualmente es Chief Technology Officer (CTO) de EPLASTO, emprendimiento de economía circular enfocado en el desarrollo de materiales a partir de plásticos reciclados, reconocido por Enactus México y presentado en Harvard y el MIT.</p>`,
         } as PageContent,
+         {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q3",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
+
 
         
         ],
@@ -1022,6 +1047,30 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           content: `
             <p>El Dr. Carlos Manuel Burelo Ramos es Biólogo por la Universidad Juárez Autónoma de Tabasco (UJAT) y Doctor en Ciencias con especialidad en Sistemática por el Instituto de Ecología (INECOL). Es Investigador Nacional Nivel I, miembro del Sistema Estatal de Investigadores y Profesor-Investigador de tiempo completo en la División Académica de Ciencias Biológicas de la UJAT, donde dirige el Laboratorio de Manglares Interiores. Su investigación se centra en la flora de Tabasco, con énfasis en estudios taxonómicos y en la conservación de ecosistemas estratégicos. Ha publicado 19 artículos científicos y es coautor de un trabajo en Proceedings of the National Academy of Sciences que documentó los manglares más tierra adentro y a mayor altitud del mundo, ubicados en el río San Pedro Mártir. Este hallazgo lo ha consolidado como referente internacional en estudios de manglares. Además, lideró el estudio técnico justificativo para la declaratoria del río San Pedro Mártir como Reserva de la Biosfera Wanha’ y actualmente coordina un proyecto de restauración con la meta de producir 60,000 plantas en un año, con financiamiento de REPSOL, SLB y la UJAT.</p>`,
         } as PageContent,
+         {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q4",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
 
         
         ],
@@ -1034,6 +1083,30 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           type: "cover",
           title: "Invitados: Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
         } as PageContent,
+         {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q5",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
 
         
         ],
@@ -1047,6 +1120,33 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           title: "Invitados: Manatí",
         } as PageContent,
 
+
+
+         {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q2",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
+
         
         ],
      },
@@ -1058,6 +1158,33 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           type: "cover",
           title: "Invitados: Tecnologías",
         } as PageContent,
+
+
+
+         {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q2",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
 
         
         ],
@@ -1071,6 +1198,33 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           title: "Invitados: Soriasis",
         } as PageContent,
 
+
+
+         {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q2",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
+
         
         ],
      },
@@ -1083,6 +1237,32 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           title: "Invitados: Bioenergías",
         } as PageContent,
 
+
+         {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q2",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
+
         
         ],
      },
@@ -1094,6 +1274,32 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
           type: "cover",
           title: "Invitados: Metales Pesados",
         } as PageContent,
+
+
+         {
+          type: "chatbot",
+          title: "Reflexiona con Nosotros",
+          config: {
+            persona:
+              "You are a science explainer: clear, engaging, and practical.",
+            instruction: `Enfócate en ¿Cómo puede una universidad pública convertirse en un motor de transformación social a través de la ciencia? 
+            Analiza los casos presentados por el rector de la UJAT y compáralos con experiencias similares en América Latina.`,
+          },
+        } as PageContent,
+        {
+          type: "form",
+          title: "Punto de Encuentro",
+          fields: [
+            {
+              type: "text",
+              id: "q2",
+              label:
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+              multiline: true,
+            },
+          ],
+        } as PageContent,
+
 
         
         ],
