@@ -992,14 +992,14 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
         {
           type: "biography",
           authorName: "Danna Paola Correa García",
-          image: "/Danna_Paola_Correa_Garcia.jpg",
+          image: "/Dr_Carlos_Manuel_Burelo_Ramos.jpg",
           content: `
             <p>Danna Paola Correa García es Licenciada en Ingeniería Ambiental por la DACBiol-UJAT y participa activamente en la Sociedad de Alumnos de la DACBiol-UJAT y en el Comité Estudiantil de AMICA. Cuenta con experiencia en el manejo y tratamiento de residuos sólidos urbanos y de manejo especial. Se desempeña como directora de operaciones y de producto en EPLASTO, proyecto de economía circular reconocido por Enactus México y presentado en instituciones como Harvard y el MIT.</p>`,
         } as PageContent,
        {
           type: "biography",
           authorName: "Jessica Lizbeth Córdova Palma",
-          image: "/Jessica_Lizbeth_Cordova_Palma.jpg",
+          image: "/Dr_Carlos_Manuel_Burelo_Ramos.jpg",
           content: `
             <p>Jessica Lizbeth Córdova Palma es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT. Realizó sus prácticas profesionales en PEMEX, en el área de Seguridad, Salud en el Trabajo y Protección Ambiental. Actualmente es Chief Technology Officer (CTO) de EPLASTO, emprendimiento de economía circular enfocado en el desarrollo de materiales a partir de plásticos reciclados, reconocido por Enactus México y presentado en Harvard y el MIT.</p>`,
         } as PageContent,
@@ -1016,7 +1016,17 @@ Finalmente, esta experiencia invita a reflexionar sobre el papel de las y los es
         {
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
-          Xxx.`,
+          En una jornada marcada por el entusiasmo, la innovación y la conciencia ambiental, los micrófonos de Radio UJAT y Creando Con-Ciencia: La ciencia que transforma se abrieron para dar voz a una experiencia universitaria que trascendió fronteras. En esta emisión del programa, dirigido por los doctores José Ramón Laines Canepa y Roberto Hernández Barajas, se recibió a Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García y Jessica Lizbeth Córdova Palma, egresadas de Ingeniería Ambiental de la UJAT e integrantes del proyecto EPLASTO, quienes platicaron sobre el tema “EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT”.</br>
+Desde el inicio de la conversación, las invitadas compartieron el origen del proyecto, el cual surgió a partir de una problemática cotidiana, pero poco atendida: la acumulación de plásticos y el desecho constante de mobiliario en mal estado. Lejos de observar este fenómeno únicamente como un problema ambiental, el equipo decidió convertirlo en una oportunidad para diseñar una alternativa sostenible que respondiera a las necesidades locales y redujera la presión sobre los recursos naturales. </br>
+A lo largo de la entrevista, Kenia explicó que EPLASTO nació desde el trabajo académico, pero evolucionó rápidamente hacia un proyecto con visión social y ambiental. La idea central consistió en desarrollar un material alternativo a la madera, elaborado a partir de polipropileno reciclado, capaz de ser utilizado en mobiliario y otros productos, contribuyendo así a la reducción de residuos y a la disminución de la deforestación. </br>
+El diálogo avanzó hacia el proceso técnico que distingue al proyecto. Danna detalló cómo el equipo exploró distintas formas de transformación del plástico hasta consolidar un modelo que integra principios de economía circular. Uno de los elementos más innovadores fue el uso de biogás como fuente de energía en el proceso, lo que permitió reducir la huella ambiental y reforzar el enfoque sustentable de la propuesta. </br>
+Jessica complementó esta explicación al abordar el componente tecnológico, señalando que el desarrollo del material implicó pruebas, ajustes y aprendizaje constante. La experiencia, explicó, no solo fortaleció sus conocimientos técnicos, sino que también evidenció la importancia del trabajo interdisciplinario y de la innovación aplicada desde la ingeniería ambiental. </br> 
+Por su parte, Mairé destacó el papel de la planeación financiera y del análisis de riesgos para asegurar la viabilidad del proyecto. Señaló que uno de los mayores retos fue traducir una idea ambiental en una propuesta sólida, capaz de sostenerse en el tiempo y de generar impacto real. Este enfoque permitió que EPLASTO evolucionara de un ejercicio académico a un emprendimiento con proyección nacional e internacional. </br>
+Uno de los momentos centrales del programa fue la experiencia del equipo en el Enactus Innovation Bootcamp 2024, realizado en Cambridge, Massachusetts. Las entrevistadas compartieron cómo la oportunidad de presentar EPLASTO en espacios como la Universidad de Harvard y el Massachusetts Institute of Technology (MIT) representó un punto de inflexión para el proyecto. El intercambio con expertos, estudiantes y mentores internacionales les permitió ampliar su visión, recibir retroalimentación crítica y fortalecer su propuesta. </br>
+La conversación también abordó los desafíos personales y académicos que implicó participar en un evento de esta magnitud. Las invitadas coincidieron en que el proceso demandó disciplina, organización y confianza en su trabajo, pero también reafirmó la importancia de creer en las ideas desarrolladas desde las universidades públicas y de apostar por soluciones locales con alcance global. </br>
+Hacia el cierre, el programa retomó una reflexión clave: el papel de las y los estudiantes como agentes de cambio frente a la crisis ambiental. EPLASTO, coincidieron las entrevistadas, demuestra que la innovación no está reservada a grandes industrias, sino que puede surgir desde el aula, impulsada por la curiosidad, el compromiso social y el trabajo colaborativo. </br>
+Finalmente, la entrevista concluyó con un mensaje claro y esperanzador. Transformar residuos en oportunidades no solo es posible, sino necesario. La experiencia de EPLASTO invita a repensar nuestra relación con los materiales que desechamos y a reconocer que la ciencia, cuando se combina con conciencia y acción, tiene el poder de generar soluciones sostenibles con impacto real en la sociedad. </br>
+`,
         } as PageContent,        
         {
           type: "chatbot",
@@ -1041,6 +1051,13 @@ Finalmente, esta experiencia invita a reflexionar sobre el papel de las y los es
             },
           ],
         } as PageContent,
+        {
+          type: "audio",
+          url: "/entrevista-1.mp3",
+          htmlContent: ` 
+          xxx`,
+        } as PageContent,
+
 
 
 
@@ -1087,7 +1104,8 @@ El tono se volvió más urgente al abordar amenazas concretas. La pérdida de h�
 Frente a ello, se propuso una estrategia simple pero poderosa: conservar y restaurar vegetación nativa. Reforestar con especies locales implica proteger no solo plantas, sino redes completas de vida asociada. La entrevista también abrió una discusión sobre regulación ambiental y riesgos de especies invasoras: trasladar plantas entre regiones puede movilizar insectos microscópicos u organismos no detectados, cuyos impactos se manifiestan años después. </br>
 Hacia el final, el programa defendió el valor de la investigación interdisciplinaria: biología, ecología, química, física, tecnología e incluso diseño gráfico se mostraron como aliados para documentar y comprender la biodiversidad. La entomología y la aracnología fueron presentadas como campos “nobles”, capaces de generar conocimiento aplicable a la conservación, al manejo ecológico y a la educación ambiental. </br>
 La sección de vox populi reveló una paradoja social: las personas reconocen la importancia de los insectos, pero también los temen. Frente a ello, se amplió la mirada hacia polinizadores menos conocidos, como abejas nativas sin aguijón (meliponas), y se recordó que incluso organismos rechazados —como el mosquito— cumplen roles ecológicos, incluyendo funciones de polinización en algunos casos. </br>
-El cierre fue tan directo como esperanzador: coexistir, aprender, respetar y actuar. No se trata de hablar de “invasiones”, sino de organismos intentando adaptarse a un entorno transformado por el ser humano. La conclusión se instaló con claridad: proteger a los insectos no es un tema menor, es una acción estratégica para sostener el equilibrio de la vida y el futuro de los ecosistemas que nos sostienen. </br>.`,
+El cierre fue tan directo como esperanzador: coexistir, aprender, respetar y actuar. No se trata de hablar de “invasiones”, sino de organismos intentando adaptarse a un entorno transformado por el ser humano. La conclusión se instaló con claridad: proteger a los insectos no es un tema menor, es una acción estratégica para sostener el equilibrio de la vida y el futuro de los ecosistemas que nos sostienen. </br>
+`,
         } as PageContent,
         
         
@@ -1114,9 +1132,13 @@ El cierre fue tan directo como esperanzador: coexistir, aprender, respetar y act
             },
           ],
         } as PageContent,
-
-
-        
+        {
+          type: "audio",
+          url: "/entrevista-1.mp3",
+          htmlContent: ` 
+          xxx`,
+        } as PageContent,
+      
         ],
      },
         // CAPITULO 5 *********************************************************************************
@@ -1140,9 +1162,7 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
           Xxx.`,
-        } as PageContent,
-        
-        
+        } as PageContent,            
         {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
@@ -1166,6 +1186,14 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
             },
           ],
         } as PageContent,
+        {
+          type: "audio",
+          url: "/entrevista-1.mp3",
+          htmlContent: ` 
+          xxx`,
+        } as PageContent,
+
+
 
 
         
@@ -1189,8 +1217,7 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
           Xxx.`,
-        } as PageContent,
-        
+        } as PageContent,        
         {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
@@ -1214,6 +1241,14 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
             },
           ],
         } as PageContent,
+        {
+          type: "audio",
+          url: "/entrevista-1.mp3",
+          htmlContent: ` 
+          xxx`,
+        } as PageContent,
+
+
 
 
         
@@ -1261,6 +1296,14 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
             },
           ],
         } as PageContent,
+        {
+          type: "audio",
+          url: "/entrevista-1.mp3",
+          htmlContent: ` 
+          xxx`,
+        } as PageContent,
+
+
 
 
         
@@ -1307,6 +1350,14 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
             },
           ],
         } as PageContent,
+        {
+          type: "audio",
+          url: "/entrevista-1.mp3",
+          htmlContent: ` 
+          xxx`,
+        } as PageContent,
+
+
 
 
         
@@ -1354,6 +1405,14 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
             },
           ],
         } as PageContent,
+        {
+          type: "audio",
+          url: "/entrevista-1.mp3",
+          htmlContent: ` 
+          xxx`,
+        } as PageContent,
+
+
 
 
         
@@ -1400,6 +1459,14 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
             },
           ],
         } as PageContent,
+        {
+          type: "audio",
+          url: "/entrevista-1.mp3",
+          htmlContent: ` 
+          xxx`,
+        } as PageContent,
+
+
 
 
         
