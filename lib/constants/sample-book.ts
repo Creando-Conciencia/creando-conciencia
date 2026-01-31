@@ -5,7 +5,7 @@ export const sampleBook: Book = {
   id: "creando-conciencia-ujat-2025",
   title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
   author: "Dr. José Ramón Laines Canepa",
-  year: ,
+  year: 2,
   cover: {
     type: "cover",
     title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
@@ -985,7 +985,7 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
        {
           type: "biography",
           authorName: "Mairé Paulina Torres García",
-          image: "/Maire_Paulina_Torres_Garcia.jpg",
+          image: "/Kenia_Leticia_Utrera_Cabrera.jpg",
           content: `
             <p>Mairé Paulina Torres García es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT, con enfoque en sostenibilidad y gestión de residuos. Es presidenta del Comité Estudiantil de AMICA en la DACBiol-UJAT, donde promueve la participación y formación académica del estudiantado. Forma parte de EPLASTO en el área financiera y de análisis de riesgos, contribuyendo al desarrollo y viabilidad del proyecto, presentado en Harvard y el MIT.</p>`,
         } as PageContent,
@@ -1017,9 +1017,7 @@ Finalmente, esta experiencia invita a reflexionar sobre el papel de las y los es
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
           Xxx.`,
-        } as PageContent,
-        
-        
+        } as PageContent,        
         {
           type: "chatbot",
           title: "Reflexiona con Nosotros",
