@@ -1057,6 +1057,20 @@ Finalmente, la entrevista concluyó con un mensaje claro y esperanzador. Transfo
           htmlContent: ` 
           xxx`,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
+          <h3>.</h3>
+          El episodio dedicado a EPLASTO plantea una tesis central clara: la innovación ambiental universitaria cobra sentido pleno cuando el conocimiento técnico se traduce en soluciones materiales concretas que dialogan con el territorio, el contexto social y los límites ambientales. Desde esta perspectiva, el proyecto es presentado no solo como un ejercicio académico, sino como una propuesta de economía circular aplicada que cuestiona la noción tradicional de “residuo” y redefine el papel de la ingeniería ambiental como disciplina de intervención directa. </br>
+Un primer eje del diálogo es la revalorización del plástico desde la ciencia aplicada. Se sostiene que el problema ambiental no reside únicamente en el material, sino en los modelos lineales de producción y descarte. EPLASTO parte de un diagnóstico técnico: el polipropileno, ampliamente utilizado y desechado, conserva propiedades mecánicas que permiten su reincorporación a nuevos ciclos productivos. Esta mirada científica rompe con la lógica de “usar y tirar” y propone un cambio conceptual fundamental: el residuo como recurso estratégico. </br>
+El segundo eje se centra en la economía circular como metodología operativa, no como discurso abstracto. La transformación de plástico reciclado en un material alternativo a la madera implica intervenir simultáneamente en varios frentes: gestión de residuos, reducción de presión sobre ecosistemas forestales y diseño de materiales con mayor vida útil. Desde la ciencia, se enfatiza que la sostenibilidad no se alcanza con una sola acción aislada, sino con la coherencia entre diseño del producto, procesos de transformación y decisiones energéticas. </br>
+En este punto emerge un tercer eje clave: la integración de criterios energéticos y de huella ambiental. El uso de biogás como fuente energética dentro del proceso productivo es presentado como una decisión técnica con implicaciones éticas. La ciencia, se argumenta, no es neutral: cada elección tecnológica genera impactos acumulativos. EPLASTO incorpora esta conciencia al reducir emisiones asociadas al proceso y alinear sus objetivos ambientales con los medios utilizados para alcanzarlos, evitando contradicciones entre discurso y práctica. </br>
+El cuarto eje aborda el proceso de innovación como experiencia formativa. El desarrollo del proyecto no es descrito como una trayectoria lineal, sino como un ciclo de ensayo, error, ajuste y aprendizaje continuo. Desde la mirada científica, este proceso es tan relevante como el producto final, ya que consolida competencias clave: análisis de viabilidad, evaluación de riesgos, trabajo interdisciplinario y toma de decisiones basada en evidencia. La innovación, en este sentido, se entiende como una práctica situada y progresiva. </br>
+Un quinto eje es el vínculo entre ciencia, sociedad y uso cotidiano. El proyecto no se limita a demostrar factibilidad técnica, sino que busca responder a necesidades reales mediante aplicaciones concretas como mobiliario. Esta orientación permite que el conocimiento salga del ámbito académico y se inserte en la vida diaria, reforzando la idea de que la ingeniería ambiental no solo mitiga impactos, sino que propone alternativas funcionales y socialmente pertinentes. </br>
+El sexto eje introduce la dimensión de escalabilidad y validación externa. La presentación del proyecto en espacios internacionales como Harvard y el MIT no es abordada como un logro simbólico, sino como evidencia de que el conocimiento generado en universidades públicas puede competir en escenarios globales. Esta experiencia refuerza una idea central: la calidad científica no depende del origen, sino del rigor metodológico, la claridad del propósito y la capacidad de comunicar impacto. </br>
+Finalmente, el episodio se cierra con una reflexión de fondo sobre la responsabilidad ética del conocimiento. EPLASTO no se presenta como una solución definitiva al problema del plástico, sino como una dirección posible: repensar los materiales, asumir corresponsabilidad en el ciclo de consumo y diseñar alternativas que integren ciencia, conciencia ambiental y compromiso social. La idea final es contundente: la innovación universitaria tiene verdadero valor cuando convierte conocimiento en acción y cuando esa acción contribuye, de manera tangible, a la construcción de un futuro más sostenible. </br>
+`,
+        } as PageContent,
 
 
 
@@ -1171,6 +1185,24 @@ Justamente, hace poco, dado este proyecto, me he metido a conocer áreas que no 
 <p><strong>Locutor</strong>: "Creando Conciencia: la ciencia que transforma" es una producción de Radio UJAT, voz universitaria, legado UJAT. Estudio en la duda, acción en la fe. </p></br>
 `,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
+          <h3>Wan-ha, memoria del clima y futuro del territorio</h3>
+          Hay ecosistemas que parecen imposibles hasta que la ciencia los nombra. Durante años se creyó que el manglar era, por definición, un paisaje costero: un borde verde entre el continente y el mar, un territorio de sal, raíces expuestas y mareas. Pero la naturaleza siempre encuentra formas de desmentir nuestras certezas. En el río San Pedro Mártir, el manglar crece donde nadie esperaría verlo: lejos del mar, en agua dulce, tierra adentro. No es un accidente biológico ni una excepción menor; es un mensaje vivo de la historia climática del planeta y, al mismo tiempo, una advertencia silenciosa sobre el futuro. </br>
+La ciencia lo explica con precisión, pero también con fuerza simbólica. Estos manglares interiores existen porque hace aproximadamente 125,000 años el nivel del mar fue más alto. El planeta se calentó, los polos se derritieron y el océano avanzó hasta regiones que hoy parecen demasiado alejadas para imaginarlo. Después, el mundo se enfrió, el mar retrocedió… y los mangles se quedaron ahí, como una evidencia persistente de que la Tierra cambia, incluso cuando nuestra memoria humana no alcanza para recordarlo. Son, como se dijo en el programa, una “marca” en el territorio: la señal de hasta dónde llegó el agua, pero escrita no en una pared, sino en un ecosistema completo. </br>
+Este hallazgo tiene un peso que va más allá de lo extraordinario. Nos obliga a aceptar una idea incómoda: el paisaje que creemos estable es, en realidad, el resultado provisional de una historia en movimiento. Y cuando esa historia vuelve a acelerar —como ocurre hoy con el cambio climático— lo que estaba en equilibrio puede desplazarse de nuevo. La diferencia es que ahora hay ciudades, caminos, agricultura, infraestructura y comunidades humanas que no estaban allí hace miles de años. En ese contraste aparece el verdadero sentido del descubrimiento: la ciencia no solo describe el mundo, también nos muestra lo que podríamos perder si ignoramos sus señales. </br>
+Pero la importancia de Wan-ha no radica únicamente en su carácter único. Lo verdaderamente transformador es que este ecosistema dejó de ser un dato científico para convertirse en un detonador social. La investigación generó visibilidad internacional, colaboración académica y, sobre todo, abrió una ruta hacia la conservación institucional: el territorio fue decretado como Reserva de la Biosfera, la categoría más alta dentro de las áreas naturales protegidas. La ciencia, en este caso, no se quedó en el laboratorio ni en la publicación: se tradujo en protección del territorio, en una decisión de largo plazo que rebasa generaciones. </br>
+Esa transición —de descubrimiento a política pública— deja una lección central: proteger la naturaleza no inicia con decretos, inicia con conocimiento. Y el conocimiento, cuando se comparte, puede romper el mito más peligroso en materia ambiental: la idea de que conservar significa prohibirlo todo. Al contrario, la reserva mostró que conservar puede ser también una oportunidad de vida para quienes habitan el territorio. La conversación lo expuso con claridad: las comunidades no pierden su propiedad; se fortalecen condiciones para el uso responsable de los recursos y se abren posibilidades de proyectos sustentables, ecoturismo y desarrollo local. Aquí la conservación no se plantea como castigo, sino como futuro. </br>
+En esta mirada científica, la biodiversidad no es un concepto abstracto: es un valor que puede convertirse en motor de bienestar si se entiende con inteligencia ecológica. Se habló de monitoreos de aves, mariposas, abejas nativas, hongos y plantas, y de cómo ese conocimiento puede transformarse en una forma distinta de economía: una en la que conservar genera más valor que destruir. La frase que mejor resume esa lógica es simple, pero contundente: algunos recursos valen más vivos que convertidos en mercancía inmediata. Ver un río sano, aves en vuelo o un manglar en pie puede sostener una economía comunitaria más duradera que la explotación rápida de sus componentes. </br>
+Sin embargo, el capítulo también revela la fragilidad de lo extraordinario. Los manglares del San Pedro no están a salvo solo por existir: han sido talados, quemados y debilitados por presiones productivas y por incendios. Y allí aparece el punto más humano del relato: la restauración no ocurre únicamente cuando se siembra una planta, ocurre cuando cambia una mentalidad. La imagen de un ganadero reconociendo que antes se quemaba el mangle y hoy se siembra, resume la esencia de “crear conciencia”: no se trata de culpa, sino de transformación. Es reconocer que el territorio puede sanar si quienes lo habitan se vuelven aliados, no enemigos, del ecosistema. </br>
+Por eso los viveros comunitarios no son solo viveros: son una estrategia científica, social y ética. Producir 60,000 plantas, sembrarlas, cuidarlas y recuperar kilómetros de rivera es un acto de restauración ecológica, pero también un acto de reconciliación cultural con el paisaje. La ciencia aquí se convierte en puente: conecta a la universidad con el territorio, a las empresas con la responsabilidad ambiental, y a la comunidad con una narrativa diferente sobre el mangle: ya no como obstáculo, sino como patrimonio vivo. </br>
+Al final, la conversación deja una invitación que tiene forma de principio: no hay conservación sin conocimiento, y no hay conocimiento real sin experiencia. Ir, mirar, recorrer, aprender y apoyar las actividades responsables de ecoturismo es una manera directa de participar. No porque visitar sea suficiente, sino porque conocer transforma el valor que damos a lo que existe. Wan-ha, “río de codornices”, no es solo un nombre; es una oportunidad pedagógica y moral: recordarnos que aún existen territorios únicos en el mundo a pocas horas de distancia, esperando que la ciencia y la ciudadanía trabajen juntas para que sigan existiendo. </br>
+Y quizá la enseñanza más importante sea esta: los ecosistemas del pasado no solo cuentan historias antiguas, también nos muestran lo que podría volver a ocurrir. En esa tensión entre memoria y futuro, los manglares interiores del San Pedro Mártir se vuelven algo más que un descubrimiento. Se vuelven una señal. Y cuando aprendemos a leer las señales del territorio, empezamos a cuidar lo invisible… y, con ello, a proteger nuestro propio porvenir. </br>
+`,
+        } as PageContent,
+
+
       
         ],
      },
@@ -1225,6 +1257,14 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           htmlContent: ` 
           xxx`,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
+          <h3>Por el o los entrevistados (síntesis ensayística de los puntos clave del programa)</h3>
+          xxx`,
+        } as PageContent,
+
+
 
 
 
@@ -1280,6 +1320,14 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           htmlContent: ` 
           xxx`,
         } as PageContent,
+        {
+          type: "text",
+          content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
+          <h3>Por el o los entrevistados (síntesis ensayística de los puntos clave del programa)</h3>
+          xxx`,
+        } as PageContent,
+
+
 
 
 
@@ -1335,10 +1383,12 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           htmlContent: ` 
           xxx`,
         } as PageContent,
-
-
-
-
+        {
+          type: "text",
+          content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
+          <h3>Por el o los entrevistados (síntesis ensayística de los puntos clave del programa)</h3>
+          xxx`,
+        } as PageContent,
         
         ],
      },
@@ -1389,11 +1439,13 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           htmlContent: ` 
           xxx`,
         } as PageContent,
-
-
-
-
-        
+        {
+          type: "text",
+          content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
+          <h3>Por el o los entrevistados (síntesis ensayística de los puntos clave del programa)</h3>
+          xxx`,
+        } as PageContent,
+       
         ],
      },
         // CAPITULO 9 *********************************************************************************
@@ -1444,10 +1496,12 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           htmlContent: ` 
           xxx`,
         } as PageContent,
-
-
-
-
+        {
+          type: "text",
+          content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
+          <h3>Por el o los entrevistados (síntesis ensayística de los puntos clave del programa)</h3>
+          xxx`,
+        } as PageContent,
         
         ],
      },
@@ -1498,17 +1552,16 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           htmlContent: ` 
           xxx`,
         } as PageContent,
-
-
-
-
+        {
+          type: "text",
+          content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
+          <h3>Por el o los entrevistados (síntesis ensayística de los puntos clave del programa)</h3>
+          xxx`,
+        } as PageContent,
         
         ],
      },
          
-
-
-    
     // {
     //   title: "Mujeres en la Ciencia",
     //   pages: [
