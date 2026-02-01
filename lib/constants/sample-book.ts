@@ -1226,7 +1226,7 @@ Y quizá la enseñanza más importante sea esta: los ecosistemas del pasado no s
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1></br>
-          <h1><strong> Sirenas del Agua Dulce: Ciencia, Conservación y el Futuro del Manatí Antillano </strong></h1> </br>
+          <h3><strong> Sirenas del Agua Dulce: Ciencia, Conservación y el Futuro del Manatí Antillano </strong></h3> </br>
 En Tabasco, el agua configura el paisaje, la memoria colectiva y la manera en que las comunidades interactúan con su entorno. Ríos, lagunas, humedales y sistemas costeros sostienen una notable diversidad biológica, pero también enfrentan presiones crecientes asociadas a la expansión urbana, la contaminación y la alteración de los ecosistemas acuáticos. En este escenario habita una especie discreta y vulnerable, cuya presencia revela tanto la riqueza natural del estado como la fragilidad de sus ambientes: el manatí antillano. </br>
 Este capítulo ofrece una aproximación clara y accesible al tema de la conservación del manatí y su vínculo con la salud de los ecosistemas acuáticos de Tabasco, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, conducido por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas. El diálogo cuenta con la participación del Dr. León David Olivera Gómez y el Mtro. Darwin Jiménez Domínguez, investigadores de la Universidad Juárez Autónoma de Tabasco, cuyo trabajo académico y de campo se ha centrado en el estudio, monitoreo y manejo de mamíferos acuáticos, con énfasis en la conservación del manatí en el sureste de México. </br>
 A lo largo del capítulo, se analiza por qué el manatí no debe concebirse únicamente como una especie carismática o emblemática, sino como un indicador ambiental estrechamente asociado a la calidad del agua, la disponibilidad de hábitat y el equilibrio ecológico de ríos y humedales. Su presencia, comportamiento y distribución aportan información clave para comprender el estado de conservación de los sistemas acuáticos y los efectos de la actividad humana sobre ellos. </br>
@@ -1285,11 +1285,11 @@ Finalmente, este capítulo propone una reflexión central: proteger al manatí i
      },
         // CAPITULO 6 *********************************************************************************
      {
-      title: "Invitados: Manatí",
+      title: "Invitados: Cual?",
       pages: [
         {
           type: "cover",
-          title: "Invitados: Manatí",
+          title: "Invitados: xxxx",
         } as PageContent,
         {
           type: "biography",
