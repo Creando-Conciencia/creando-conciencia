@@ -1071,11 +1071,7 @@ El sexto eje introduce la dimensión de escalabilidad y validación externa. La 
 Finalmente, el episodio se cierra con una reflexión de fondo sobre la responsabilidad ética del conocimiento. EPLASTO no se presenta como una solución definitiva al problema del plástico, sino como una dirección posible: repensar los materiales, asumir corresponsabilidad en el ciclo de consumo y diseñar alternativas que integren ciencia, conciencia ambiental y compromiso social. La idea final es contundente: la innovación universitaria tiene verdadero valor cuando convierte conocimiento en acción y cuando esa acción contribuye, de manera tangible, a la construcción de un futuro más sostenible. </br>
 `,
         } as PageContent,
-
-
-
-
-        
+       
         ],
      },
   // CAPITULO 4 *********************************************************************************
@@ -1093,7 +1089,6 @@ Finalmente, el episodio se cierra con una reflexión de fondo sobre la responsab
           content: `
             <p>El Dr. Carlos Manuel Burelo Ramos es Biólogo por la Universidad Juárez Autónoma de Tabasco (UJAT) y Doctor en Ciencias con especialidad en Sistemática por el Instituto de Ecología (INECOL). Es Investigador Nacional Nivel I, miembro del Sistema Estatal de Investigadores y Profesor-Investigador de tiempo completo en la División Académica de Ciencias Biológicas de la UJAT, donde dirige el Laboratorio de Manglares Interiores. Su investigación se centra en la flora de Tabasco, con énfasis en estudios taxonómicos y en la conservación de ecosistemas estratégicos. Ha publicado 19 artículos científicos y es coautor de un trabajo en Proceedings of the National Academy of Sciences que documentó los manglares más tierra adentro y a mayor altitud del mundo, ubicados en el río San Pedro Mártir. Este hallazgo lo ha consolidado como referente internacional en estudios de manglares. Además, lideró el estudio técnico justificativo para la declaratoria del río San Pedro Mártir como Reserva de la Biosfera Wanha’ y actualmente coordina un proyecto de restauración con la meta de producir 60,000 plantas en un año, con financiamiento de REPSOL, SLB y la UJAT.</p>`,
         } as PageContent,
-        
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
@@ -1201,27 +1196,43 @@ Al final, la conversación deja una invitación que tiene forma de principio: no
 Y quizá la enseñanza más importante sea esta: los ecosistemas del pasado no solo cuentan historias antiguas, también nos muestran lo que podría volver a ocurrir. En esa tensión entre memoria y futuro, los manglares interiores del San Pedro Mártir se vuelven algo más que un descubrimiento. Se vuelven una señal. Y cuando aprendemos a leer las señales del territorio, empezamos a cuidar lo invisible… y, con ello, a proteger nuestro propio porvenir. </br>
 `,
         } as PageContent,
-
-
-      
+  
         ],
      },
         // CAPITULO 5 *********************************************************************************
      {
-      title: "Invitados: Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
+      title: "Invitados: Dr. León David Olivera Gómez y Mtro. Darwin Jiménez Domínguez",
       pages: [
         {
           type: "cover",
-          title: "Invitados: Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
+          title: "Invitados: Dr. León David Olivera Gómez y Mtro. Darwin Jiménez Domínguez",
         } as PageContent,
+        {
+          type: "biography",
+          authorName: "Dr. León David Olivera Gómez",
+          image: "/Dr_Leon_David_Olivera_Gomez.jpg",
+          content: `
+            <p>El Dr. León David Olivera Gómez es Ingeniero en Acuicultura y Doctor en Ciencias en Ecología Marina. Desde 1990 se especializa en la ecología y conservación de mamíferos acuáticos, con énfasis en el manatí. Es Profesor-Investigador Titular en la DACBiol-UJAT, miembro del Cuerpo Académico de Ecología y Conservación de Fauna Silvestre Neotropical y del Comité de Especialistas en Sirenios de la IUCN. Cuenta con experiencia en monitoreo por telemetría y sonar y fue presidente de la Sociedad Mexicana de Mastozoología Marina (2016-2018). </p>`,
+        } as PageContent,
+        {
+          type: "biography",
+          authorName: "Mtro. Darwin Jiménez Domínguez",
+          image: "/Mtro_Darwin_Jimenez_Dominguez.jpg",
+          content: `
+            <p>El Mtro. Darwin Jiménez Domínguez es Biólogo y Maestro en Ciencias Ambientales por la UJAT. Desde el año 2000 trabaja en la investigación y conservación de mamíferos acuáticos, especialmente manatíes. Es Profesor-Investigador en la DACBiol-UJAT, integrante del Cuerpo Académico de Ecología y Conservación de Fauna Silvestre Neotropical y responsable del proyecto de Atención y Rehabilitación de Manatíes en el LECMA-UJAT. Participa en redes nacionales e internacionales de conservación de sirenios.</p>`,
+        } as PageContent,
+        
         
         {
           type: "text",
-          content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          Este capítulo abre una ventana hacia uno de los hallazgos ecológicos más fascinantes del sureste de México: la existencia de manglares interiores en el río San Pedro Mártir, un ecosistema que desafía lo que comúnmente creemos saber sobre los manglares y su relación con el mar. Lejos de ser solo una rareza biológica, estos manglares —establecidos en agua dulce y a más de 120 kilómetros de la costa— funcionan como una evidencia viva de los cambios climáticos ocurridos en el planeta hace miles de años, y al mismo tiempo como un recordatorio contundente de los riesgos que el futuro puede volver a imponer sobre nuestros territorios y sociedades. 
-A través de una narrativa cercana, este capítulo presenta cómo la ciencia puede convertirse en esperanza cuando logra traducirse en acciones concretas: investigación aplicada, comunicación social del conocimiento, y estrategias reales de conservación. El caso de Wan-ha no es únicamente la historia de un ecosistema excepcional, sino también la historia de una región que comienza a ser mirada con mayor atención por la comunidad científica, por las instituciones ambientales y por las propias comunidades que la habitan. 
-En estas páginas se explora cómo un descubrimiento de alcance internacional detonó procesos de protección ambiental sin precedentes, culminando en la declaratoria de la Reserva de la Biosfera Wanha’, una categoría de conservación de máxima relevancia en México. Este paso representa un triunfo para la biodiversidad, pero también una oportunidad histórica para construir un modelo de desarrollo sostenible basado en el conocimiento, la restauración ecológica y el compromiso social. 
-Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “crear conciencia”: no como una frase discursiva, sino como una práctica real que implica comprender, valorar y actuar. Conservar estos ecosistemas no es tarea exclusiva de especialistas; es una responsabilidad colectiva que inicia cuando aprendemos a mirar el territorio con respeto, entendiendo que proteger la naturaleza es también proteger nuestra propia permanencia.`,
+          content: `<h1><strong>Introducción del Capítulo</strong></h1></br>
+          <h1><strong> Sirenas del Agua Dulce: Ciencia, Conservación y el Futuro del Manatí Antillano </strong></h1> </br>
+En Tabasco, el agua configura el paisaje, la memoria colectiva y la manera en que las comunidades interactúan con su entorno. Ríos, lagunas, humedales y sistemas costeros sostienen una notable diversidad biológica, pero también enfrentan presiones crecientes asociadas a la expansión urbana, la contaminación y la alteración de los ecosistemas acuáticos. En este escenario habita una especie discreta y vulnerable, cuya presencia revela tanto la riqueza natural del estado como la fragilidad de sus ambientes: el manatí antillano. </br>
+Este capítulo ofrece una aproximación clara y accesible al tema de la conservación del manatí y su vínculo con la salud de los ecosistemas acuáticos de Tabasco, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, conducido por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas. El diálogo cuenta con la participación del Dr. León David Olivera Gómez y el Mtro. Darwin Jiménez Domínguez, investigadores de la Universidad Juárez Autónoma de Tabasco, cuyo trabajo académico y de campo se ha centrado en el estudio, monitoreo y manejo de mamíferos acuáticos, con énfasis en la conservación del manatí en el sureste de México. </br>
+A lo largo del capítulo, se analiza por qué el manatí no debe concebirse únicamente como una especie carismática o emblemática, sino como un indicador ambiental estrechamente asociado a la calidad del agua, la disponibilidad de hábitat y el equilibrio ecológico de ríos y humedales. Su presencia, comportamiento y distribución aportan información clave para comprender el estado de conservación de los sistemas acuáticos y los efectos de la actividad humana sobre ellos. </br>
+Asimismo, se explora el trabajo científico que sustenta su protección, destacando el uso de herramientas de monitoreo como la telemetría y el sonar, así como las acciones de atención, rehabilitación y seguimiento de individuos en riesgo. Estos esfuerzos no solo fortalecen el conocimiento especializado, sino que permiten diseñar estrategias de conservación basadas en evidencia, colaboración institucional y compromiso social. </br>
+Finalmente, este capítulo propone una reflexión central: proteger al manatí implica proteger los ecosistemas acuáticos y la relación que las sociedades establecen con el agua. La conservación no es una tarea exclusiva de la ciencia, sino una responsabilidad compartida que comienza con la información, la conciencia ambiental y la toma de decisiones cotidianas orientadas al cuidado del entorno y de las especies que lo habitan. </br>
+          `,
         } as PageContent,
         {
           type: "text",
@@ -1279,6 +1290,13 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
         {
           type: "cover",
           title: "Invitados: Manatí",
+        } as PageContent,
+        {
+          type: "biography",
+          authorName: "xxx",
+          image: "/xxx.jpg",
+          content: `
+            <p></p>`,
         } as PageContent,
 
         {
@@ -1343,6 +1361,13 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           type: "cover",
           title: "Invitados: Tecnologías",
         } as PageContent,
+        {
+          type: "biography",
+          authorName: "xxx",
+          image: "/xxx.jpg",
+          content: `
+            <p></p>`,
+        } as PageContent,
 
         {
           type: "text",
@@ -1401,6 +1426,13 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
           title: "Invitados: Soriasis",
         } as PageContent,
         {
+          type: "biography",
+          authorName: "xxx",
+          image: "/xxx.jpg",
+          content: `
+            <p></p>`,
+        } as PageContent,
+        {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
           Burelo.`,
@@ -1455,6 +1487,13 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
         {
           type: "cover",
           title: "Invitados: Bioenergías",
+        } as PageContent,
+        {
+          type: "biography",
+          authorName: "xxx",
+          image: "/xxx.jpg",
+          content: `
+            <p></p>`,
         } as PageContent,
 
         {
@@ -1512,6 +1551,13 @@ Finalmente, el capítulo invita a reflexionar sobre el sentido profundo de “cr
         {
           type: "cover",
           title: "Invitados: Metales Pesados",
+        } as PageContent,
+        {
+          type: "biography",
+          authorName: "xxx",
+          image: "/xxx.jpg",
+          content: `
+            <p></p>`,
         } as PageContent,
         {
           type: "text",
