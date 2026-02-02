@@ -747,7 +747,7 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
 
     // CAPITULO 2 ****************************************
      {
-      title: "Invitados: Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
+      title: "Dr. Manuel Pérez de la Cruz y Dra. Aracely de la Cruz Pérez",
       pages: [
         {
           type: "cover",
@@ -969,17 +969,17 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
      },
     // CAPITULO 3 *********************************************************************************
      {
-      title: "Invitados: Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García, Jessica Lizbeth Córdova Palma",
+      title: "Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García, Jessica Lizbeth Córdova Palma",
       pages: [
         {
           type: "cover",
-          title: "Invitados: Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García, Jessica Lizbeth Córdova Palma",
+          title: "Invitadas: Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García, Jessica Lizbeth Córdova Palma",
         } as PageContent,
 
         {
           type: "biography",
           authorName: "Kenia Leticia Utrera Cabrera",
-          image: "/Kenia_Leticia_Utrera_Cabrera.jpg",
+          image: "/Foto_Ccc_3.jpg",
           content: `
             <p>Kenia Leticia Utrera Cabrera es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT, con experiencia en liderazgo estudiantil y gestión de residuos. Ha colaborado con SEMARNAT en Tabasco y es cofundadora de EPLASTO, proyecto de economía circular reconocido por Enactus México y presentado en la Universidad de Harvard y el MIT. Actualmente es presidenta de la Sociedad de Alumnos de la DACBiol-UJAT y participa en AMICA y AIDIS Joven México.</p>`,
         } as PageContent,
@@ -1077,7 +1077,7 @@ Finalmente, el episodio se cierra con una reflexión de fondo sobre la responsab
      },
   // CAPITULO 4 *********************************************************************************
      {
-      title: "Invitado: Dr. Carlos Manuel Burelo Ramos",
+      title: "Dr. Carlos Manuel Burelo Ramos",
       pages: [
         {
           type: "cover",
@@ -1202,7 +1202,7 @@ Y quizá la enseñanza más importante sea esta: los ecosistemas del pasado no s
      },
         // CAPITULO 5 *********************************************************************************
      {
-      title: "Invitados: Dr. León David Olivera Gómez y Mtro. Darwin Jiménez Domínguez",
+      title: "Dr. León David Olivera Gómez y Mtro. Darwin Jiménez Domínguez",
       pages: [
         {
           type: "cover",
@@ -1386,11 +1386,11 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
      },
         // CAPITULO 6 *********************************************************************************
      {
-      title: "Invitados: Cual?",
+      title: "Vampiros",
       pages: [
         {
           type: "cover",
-          title: "Invitados: xxxx",
+          title: "Invitados: Vampiros",
         } as PageContent,
         {
           type: "biography",
@@ -1456,7 +1456,7 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
      },
         // CAPITULO 7 *********************************************************************************
      {
-      title: "Invitados: Tecnologías",
+      title: "Tecnologías",
       pages: [
         {
           type: "cover",
@@ -1520,7 +1520,7 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
      },
         // CAPITULO 8 *********************************************************************************
      {
-      title: "Invitados: Soriasis",
+      title: "Soriasis",
       pages: [
         {
           type: "cover",
@@ -1583,7 +1583,7 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
      },
         // CAPITULO 9 *********************************************************************************
      {
-      title: "Invitados: Bioenergías",
+      title: "Bioenergías",
       pages: [
         {
           type: "cover",
@@ -1647,7 +1647,7 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
      },
         // CAPITULO 10 *********************************************************************************
      {
-      title: "Invitados: Metales Pesados",
+      title: "Metales Pesados",
       pages: [
         {
           type: "cover",
