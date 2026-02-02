@@ -90,11 +90,11 @@ export const sampleBook: Book = {
   },
   chapters: [
     {
-      title: "Invitado: Lic. Guillermo Narvaez Ozorio, Rector de la UJAT",
+      title: "Lic. Guillermo Narvaez Ozorio, Rector de la UJAT",
       pages: [
         {
           type: "cover",
-          title: "Lic. Guillermo Narváez Osorio, Rector de la UJAT",
+          title: "Invitado: Lic. Guillermo Narváez Osorio, Rector de la UJAT",
           image: "/lic_guillermo_narvaez.jpeg",
         } as PageContent,
         {
