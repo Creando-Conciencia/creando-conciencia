@@ -1374,30 +1374,30 @@ La conversación científica también pone en evidencia una tensión social pers
 En este punto, el capítulo enfatiza que la conservación deja de ser un concepto abstracto y se transforma en una responsabilidad concreta. Proteger al manatí no significa únicamente evitar su extinción, sino replantear la relación con el agua, con los territorios acuáticos y con las decisiones cotidianas que influyen en su estado. La ciencia propone un cambio de enfoque: dejar de reaccionar cuando el daño ya es visible y comenzar a actuar desde la prevención, el conocimiento y la corresponsabilidad social. </br>
 De esta manera, el cierre de esta reflexión realiza una invitación abierta: crear conciencia implica aprender a coexistir con los ecosistemas acuáticos, no desde la tolerancia pasiva, sino desde la comprensión informada. Convivir no es adaptarse al deterioro, sino actuar para evitarlo. El manatí guarda información valiosa sobre el presente y el futuro de los cuerpos de agua; escucharlo, a través de la ciencia, es una forma de proteger no solo a una especie, sino a los sistemas de los que depende la vida humana. Porque cuando cuidamos lo que parece distante o silencioso, también estamos cuidando el equilibrio que nos sostiene. </br>
 `,
-        } as PageContent,
-
-
-
-
-
-
-        
+        } as PageContent,        
         ],
      },
         // CAPITULO 6 *********************************************************************************
      {
-      title: "Vampiros",
+      title: "Dr. Rafael Ávila Flores y Dra. Alba Zulema Rodas Martínez",
       pages: [
         {
           type: "cover",
-          title: "Invitados: Vampiros",
+          title: "Invitados: Dr. Rafael Ávila Flores y Dra. Alba Zulema Rodas Martínez",
         } as PageContent,
         {
           type: "biography",
-          authorName: "xxx",
+          authorName: "Dr. Rafael Ávila Flores",
           image: "/xxx.jpg",
           content: `
-            <p></p>`,
+            <p>El Dr. Rafael Ávila Flores es biólogo por la UNAM, con Maestría en Ciencias por la Universidad de York (Canadá) y Doctorado en Filosofía (Ecología) por la Universidad de Alberta. Es Profesor-Investigador de tiempo completo en la DACBiol-UJAT y miembro del Sistema Nacional de Investigadores (Nivel I). Su trabajo se centra en la ecología de mamíferos, particularmente en el estudio de murciélagos hematófagos y las interacciones mamífero-humano en paisajes ganaderos, urbanos y rurales de Tabasco, con el objetivo de desarrollar estrategias de manejo menos invasivas y enfoques de convivencia armónica.</p>`,
+        } as PageContent,
+        {
+          type: "biography",
+          authorName: "Dra. Alba Zulema Rodas Martínez",
+          image: "/xxx.jpg",
+          content: `
+            <p>La Dra. Alba Zulema Rodas Martínez es Médica Veterinaria y Zootecnista por la UNAM, con Maestría en Ciencias y Doctorado en Ciencias (Fisiología) por el CINVESTAV-IPN. Es Profesora-Investigadora de tiempo completo en la DACBiol-UJAT y cuenta con perfil PRODEP. Su investigación aborda la fisiología reproductiva, hematología y respuestas al estrés ambiental en mamíferos silvestres, con énfasis en protocolos de manejo y conservación, desarrollados en colaboración con instituciones nacionales de investigación. </p>`,
         } as PageContent,
 
         {
@@ -1444,30 +1444,23 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
           content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
           <h3>Por el o los entrevistados (síntesis ensayística de los puntos clave del programa)</h3>
           xxx`,
-        } as PageContent,
-
-
-
-
-
-
-        
+        } as PageContent,        
         ],
      },
         // CAPITULO 7 *********************************************************************************
      {
-      title: "Tecnologías",
+      title: "Dra. Erika Yunuén Morales Mateos",
       pages: [
         {
           type: "cover",
-          title: "Invitados: Tecnologías",
+          title: "Invitados: Dra. Erika Yunuén Morales Mateos",
         } as PageContent,
         {
           type: "biography",
-          authorName: "xxx",
+          authorName: "Dra. Erika Yunuén Morales Mateos",
           image: "/xxx.jpg",
           content: `
-            <p></p>`,
+            <p>a Dra. Erika Yunuén Morales Mateos es Licenciada en Sistemas Computacionales, con Maestría en Ingeniería de Sistemas y Doctorado en Sistemas Computacionales. Es Profesora-Investigadora de tiempo completo en la División Académica de Ciencias y Tecnologías de la Información (DACyTI-UJAT) y líder del Cuerpo Académico “Tecnologías para el análisis de datos y desarrollo de aplicaciones”. Su trabajo se centra en el desarrollo de software, aplicaciones web y móviles, realidad virtual y aumentada, gamificación educativa y ciencia de datos, con enfoque en la innovación educativa y la conciencia ambiental. Cuenta con certificaciones nacionales e internacionales, entre ellas en informática administrativa (ANFECA) y Internet de las Cosas (Samsung), además de estancias académicas en México, España y Chile. Es miembro del Sistema Nacional de Investigadores y del Sistema Estatal de Investigadores, y cuenta con Perfil PRODEP.</p>`,
         } as PageContent,
 
         {
@@ -1520,18 +1513,18 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
      },
         // CAPITULO 8 *********************************************************************************
      {
-      title: "Soriasis",
+      title: "Dr. Eugenio Del Valle-Espinosa",
       pages: [
         {
           type: "cover",
-          title: "Invitados: Soriasis",
+          title: "Invitados: Dr. Eugenio Del Valle-Espinosa",
         } as PageContent,
         {
           type: "biography",
-          authorName: "xxx",
+          authorName: "Dr. Eugenio Del Valle-Espinosa",
           image: "/xxx.jpg",
           content: `
-            <p></p>`,
+            <p>El Dr. Eugenio Del Valle-Espinosa es médico dermatólogo y maestro en Ciencias Bioquímicas, con una trayectoria sólida en el ámbito clínico, académico y de investigación. Actualmente se desempeña como dermatólogo en el Hospital General Dr. Daniel Gurría Urgell del ISSSTE, donde combina la atención médica especializada con la docencia universitaria. Su formación incluye residencias en Medicina Interna y Dermatología en hospitales de alta especialidad de la Ciudad de México, así como estudios de posgrado en la UNAM, con énfasis en investigación bioquímica. Ha participado activamente en congresos nacionales e internacionales y cuenta con publicaciones científicas relacionadas con psoriasis, infecciones cutáneas y efectos dermatológicos de tratamientos oncológicos. Su principal interés académico se centra en la inmunodermatología y la innovación terapéutica. </p>`,
         } as PageContent,
         {
           type: "text",
