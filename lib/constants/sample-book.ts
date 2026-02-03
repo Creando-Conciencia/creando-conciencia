@@ -1415,7 +1415,18 @@ Finalmente, este capítulo invita a replantear nuestra relación con las especie
         {
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
-          Xxx.`,
+          En una emisión dedicada a desmontar mitos y construir conocimiento desde la evidencia científica, los micrófonos de Radio UJAT abrieron el diálogo en torno a uno de los mamíferos más incomprendidos del trópico: los murciélagos vampiro. Bajo la conducción de los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, el programa Creando Con-Ciencia: La ciencia que transforma planteó una conversación necesaria sobre la relación entre estas especies, el entorno y las actividades humanas. </br>
+Desde el inicio, el intercambio dejó claro que el tema exige precisión. El Dr. Rafael Ávila Flores explicó que los murciélagos vampiro, particularmente Desmodus rotundus, forman parte de un grupo altamente especializado, cuya distribución y comportamiento están estrechamente vinculados a la transformación del paisaje, en especial a la expansión de la ganadería. Lejos de tratarse de una “plaga espontánea”, su presencia responde a cambios estructurales en el uso del suelo y a la disponibilidad constante de alimento. </br>
+La Dra. Alba Zulema Rodas Martínez complementó esta idea señalando que estos mamíferos poseen adaptaciones fisiológicas y conductuales complejas, resultado de procesos evolutivos prolongados. Su estudio —desde la fisiología reproductiva, el estrés ambiental y el monitoreo hormonal— permite comprender cómo responden a ambientes fragmentados y a la presión humana, tanto en zonas rurales como urbanas. </br>
+A lo largo del diálogo, se enfatizó que los murciélagos vampiro no actúan de manera aislada. El Dr. Rafael subrayó su comportamiento social y cooperativo, destacando prácticas como el intercambio de alimento dentro de las colonias, lo que evidencia estructuras organizativas sofisticadas. Estas dinámicas, explicó, son clave para entender su éxito adaptativo y su permanencia en paisajes modificados. </br>
+El programa avanzó hacia uno de los temas más sensibles: la rabia bovina. Ambos investigadores coincidieron en que el riesgo sanitario no debe abordarse desde la eliminación indiscriminada de las especies, sino desde el manejo integral del problema. La vacunación del ganado, el monitoreo epidemiológico y la aplicación de estrategias no invasivas resultan más eficaces que el control letal, el cual, además de éticamente cuestionable, puede generar desequilibrios ecológicos y efectos contraproducentes. </br>
+En este punto del programa, una cápsula informativa reforzó un mensaje central: no todos los murciélagos son vampiros. De las más de mil cuatrocientas especies de murciélagos existentes en el mundo, solo tres se alimentan de sangre. La mayoría cumple funciones ecológicas esenciales como control de insectos, polinización y dispersión de semillas, contribuyendo al equilibrio de los ecosistemas. Reducirlos a un solo estereotipo limita la comprensión de su verdadero valor ambiental. </br>
+Tras la cápsula, la conversación retomó el análisis del entorno urbano. La Dra. Alba explicó que el estrés ambiental, provocado por la contaminación lumínica, el ruido y la pérdida de refugios naturales, altera los patrones fisiológicos de muchos mamíferos. Estas alteraciones no solo afectan su salud, sino que incrementan los encuentros con humanos, reforzando percepciones negativas que rara vez se analizan desde una perspectiva científica. </br>
+La sección de vox populi reveló una percepción social ambivalente. Las voces ciudadanas reconocieron el miedo asociado a los murciélagos, especialmente por la rabia, pero también manifestaron curiosidad y disposición a aprender. Esta dualidad —temor y reconocimiento— fue interpretada por los investigadores como una oportunidad para fortalecer la educación ambiental y el diálogo ciencia-sociedad. </br>
+En la parte final del programa, el Dr. Rafael insistió en que los murciélagos vampiro funcionan como indicadores ecológicos: su abundancia y comportamiento reflejan el estado del entorno. La Dra. Alba añadió que comprender sus respuestas fisiológicas al estrés permite diseñar protocolos de manejo y conservación más efectivos, alineados con la salud ambiental y humana. </br>
+El cierre del capítulo no se plantea como una conclusión definitiva, sino como una invitación ética. La ciencia no niega los conflictos entre humanos y fauna silvestre; los ordena y contextualiza. Comprender a los murciélagos vampiro implica abandonar la reacción automática basada en el miedo y sustituirla por conocimiento, prevención y corresponsabilidad. </br>
+Así, el mensaje final del episodio se articula con claridad: convivir con la biodiversidad no significa ignorar los riesgos, sino gestionarlos con inteligencia ecológica. Cuando aprendemos a mirar más allá del mito, la conservación deja de ser una imposición y se convierte en una decisión informada. Y en ese proceso, proteger a especies incomprendidas es también proteger el equilibrio del que dependemos como sociedad. </br>
+.`,
         } as PageContent,        
         {
           type: "chatbot",
@@ -1473,12 +1484,27 @@ Finalmente, este capítulo invita a replantear nuestra relación con las especie
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          Burelo.`,
+          <h3>Gamificación y Tecnología: Transformando la Educación con Conciencia Ambiental</h3>
+En un contexto donde la tecnología atraviesa prácticamente todos los ámbitos de la vida cotidiana, la educación enfrenta el reto de reinventar sus formas de enseñar, aprender y motivar. Las aulas ya no compiten únicamente con los libros o el pizarrón, sino con entornos digitales, plataformas interactivas y estímulos constantes que demandan nuevas estrategias pedagógicas. Frente a este escenario, la gamificación surge como una herramienta que permite repensar el aprendizaje desde la experiencia, la participación activa y el compromiso significativo. </br>
+Este capítulo propone una aproximación clara y accesible al tema de la gamificación y el uso de tecnologías emergentes en la educación, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. La emisión es conducida por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes abren un espacio de diálogo entre la ciencia, la tecnología y los procesos educativos contemporáneos. </br>
+En esta ocasión, la conversación cuenta con la participación de la Dra. Erika Yunuén Morales Mateos, Profesora-Investigadora de la Universidad Juárez Autónoma de Tabasco, especialista en sistemas computacionales, desarrollo de aplicaciones, realidad virtual y aumentada, así como en gamificación educativa. Desde su experiencia académica y de investigación, la invitada comparte cómo el diseño de entornos digitales interactivos puede transformar la manera en que las y los estudiantes se relacionan con el conocimiento. </br>
+A lo largo del capítulo, se explora cómo la gamificación va más allá del juego como entretenimiento y se convierte en una estrategia pedagógica que integra retos, narrativas, recompensas y toma de decisiones, favoreciendo la motivación, el pensamiento crítico y el aprendizaje autónomo. Asimismo, se analizan las posibilidades que ofrecen herramientas como las aplicaciones móviles, la realidad aumentada, el análisis de datos y el Internet de las Cosas, cuando se aplican con un enfoque educativo y socialmente responsable. </br>
+Finalmente, este capítulo invita a reflexionar sobre el papel de la innovación tecnológica en la formación de las nuevas generaciones. Incorporar la gamificación en los procesos educativos no significa reemplazar el pensamiento académico, sino ampliar las formas de aprender, reconociendo que la tecnología, cuando se utiliza de manera consciente y creativa, puede convertirse en una aliada para construir experiencias educativas más inclusivas, dinámicas y significativas. </br>
+.`,
         } as PageContent,
         {
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
-          Xxx.`,
+          En una emisión dedicada a explorar nuevas formas de aprender en la era digital, el programa Creando Con-Ciencia: La ciencia que transforma abrió el diálogo sobre el papel de la gamificación y la tecnología educativa como herramientas para fortalecer los procesos de enseñanza–aprendizaje. Bajo la conducción de los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, el espacio radiofónico propuso una reflexión sobre cómo las dinámicas del juego pueden integrarse de manera consciente al ámbito académico. </br>
+Desde el inicio de la conversación, la Dra. Erika Yunuén Morales Mateos subrayó que la gamificación no consiste en “jugar por jugar”, sino en diseñar experiencias educativas que incorporen elementos como retos, niveles, retroalimentación inmediata y narrativas, con el objetivo de incrementar la motivación, la participación activa y el aprendizaje significativo. En este enfoque, el estudiante deja de ser un receptor pasivo y se convierte en un actor que toma decisiones y se involucra de manera más profunda con los contenidos. </br>
+La entrevista avanzó hacia el uso de tecnologías emergentes en el aula. La invitada explicó cómo herramientas como las aplicaciones móviles, la realidad aumentada, la realidad virtual y el análisis de datos permiten crear entornos interactivos que facilitan la comprensión de conceptos complejos. Estas tecnologías, señaló, no sustituyen al docente, sino que amplían sus posibilidades pedagógicas cuando se aplican con intención didáctica y criterios claros. </br>
+Uno de los ejes más relevantes del diálogo fue la innovación educativa. La Dra. Erika destacó que implementar gamificación implica un cambio en la forma de planear, evaluar y acompañar el aprendizaje. Diseñar experiencias gamificadas requiere conocer a los estudiantes, sus contextos y sus motivaciones, evitando que la tecnología se convierta en un fin en sí mismo y priorizando su valor como herramienta formativa. </br>
+Durante el programa se presentó una cápsula informativa que contextualizó el concepto de gamificación, explicando que se trata de la aplicación de elementos del juego en contextos no lúdicos, como la educación. Se destacó que esta estrategia puede mejorar la retención de información, fomentar el trabajo colaborativo y fortalecer habilidades como la resolución de problemas y la toma de decisiones, siempre que se utilice de forma ética y alineada a objetivos educativos. </br>
+Tras la cápsula, la conversación abordó los retos asociados al uso de tecnología en el aula. Se mencionaron aspectos como la brecha digital, el acceso desigual a dispositivos y la necesidad de capacitar tanto a estudiantes como a docentes. En este sentido, la entrevistada enfatizó que la tecnología debe adaptarse a los contextos educativos y no al revés, priorizando la inclusión y el uso responsable. </br>
+La sección de vox populi reflejó opiniones diversas. Algunas personas reconocieron que aprender mediante dinámicas de juego resulta más atractivo y facilita la comprensión, mientras que otras expresaron dudas sobre el exceso de tecnología en la educación. Estas voces evidenciaron un punto clave del programa: la gamificación despierta interés, pero también genera preguntas que deben abordarse desde la información, el análisis crítico y la experiencia educativa. </br>
+En la parte final de la entrevista, los conductores retomaron la idea de que la tecnología, por sí sola, no transforma la educación. La Dra. Erika coincidió en que el verdadero cambio ocurre cuando la innovación tecnológica se acompaña de estrategias pedagógicas sólidas, reflexión docente y evaluación constante. </br>
+El cierre del capítulo deja un mensaje claro: la gamificación y la tecnología no buscan simplificar el conocimiento, sino enriquecer las formas de aprender. Cuando se integran con sentido, estas herramientas pueden fomentar experiencias educativas más participativas, motivadoras y acordes con los desafíos del presente. Crear conciencia en el uso de la tecnología es, en última instancia, una forma de construir educación con propósito y futuro. </br>
+.`,
         } as PageContent,
         {
           type: "chatbot",
@@ -1536,12 +1562,27 @@ Finalmente, este capítulo invita a replantear nuestra relación con las especie
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          Burelo.`,
+          <h3>Psoriasis: entre la herencia y el entorno, una mirada desde la ciencia</h3>
+Las enfermedades de la piel suelen percibirse como afecciones superficiales, visibles y, en muchos casos, únicamente estéticas. Sin embargo, detrás de manifestaciones cutáneas persistentes pueden existir procesos biológicos complejos que involucran al sistema inmunológico, la inflamación crónica y múltiples órganos del cuerpo. La psoriasis es un ejemplo claro de cómo una enfermedad aparentemente localizada refleja alteraciones sistémicas que impactan de manera profunda la salud y la calidad de vida de quienes la padecen. </br>
+Este capítulo ofrece una aproximación clara y accesible al tema de la psoriasis como enfermedad inflamatoria sistémica, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. La emisión es conducida por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes abren un espacio de divulgación científica orientado a comprender la enfermedad desde la evidencia médica y la experiencia clínica. </br>
+La conversación cuenta con la participación del Dr. Eugenio Del Valle-Espinosa, médico dermatólogo y profesor universitario, con experiencia en dermatología clínica, inmunodermatología e investigación bioquímica. Desde su práctica médica y académica, el invitado explica cómo la psoriasis ha dejado de entenderse como un problema exclusivamente cutáneo para reconocerse como una condición compleja asociada a factores genéticos, respuestas inmunes alteradas y riesgos cardiovasculares y metabólicos. </br>
+A lo largo del capítulo, el lector conocerá los mecanismos biológicos que intervienen en el desarrollo de la psoriasis, los factores desencadenantes, así como los avances en tratamientos convencionales y terapias biológicas, que han transformado el abordaje clínico de la enfermedad. Asimismo, se aborda el impacto emocional y social de vivir con una condición visible y crónica, subrayando la importancia del diagnóstico oportuno, el acompañamiento médico y la información basada en ciencia. </br>
+Finalmente, este capítulo invita a replantear la forma en que se perciben las enfermedades dermatológicas. Comprender la psoriasis más allá de la piel implica reconocer que la salud no se fragmenta por órganos, y que la ciencia médica, cuando se comunica con claridad, puede reducir estigmas, mejorar la atención y fortalecer una medicina centrada en la persona. </br>
+.`,
         } as PageContent,
         {
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
-          Xxx.`,
+          En una emisión dedicada a desmitificar las enfermedades de la piel y a comprender sus implicaciones más profundas, el programa Creando Con-Ciencia: La ciencia que transforma abrió el diálogo sobre la psoriasis, una condición crónica que va más allá de lo visible. Con la conducción de los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, la conversación se centró en explicar la enfermedad desde la evidencia médica, la experiencia clínica y la investigación científica. </br>
+Desde el inicio, el Dr. Eugenio Del Valle-Espinosa aclaró una idea fundamental: la psoriasis no es solo una enfermedad cutánea, sino una enfermedad inflamatoria sistémica en la que intervienen el sistema inmunológico, factores genéticos y procesos inflamatorios crónicos. Las lesiones en la piel, explicó, son la manifestación más evidente de un desajuste interno que puede afectar otros sistemas del organismo. </br>
+El diálogo avanzó hacia los mecanismos inmunológicos de la enfermedad. El Dr. Eugenio explicó que en la psoriasis existe una activación anormal del sistema inmune que acelera la renovación de las células de la piel, provocando inflamación, enrojecimiento y descamación. Este proceso no ocurre de manera aislada, sino que se asocia con un mayor riesgo de enfermedades cardiovasculares, metabólicas y articulares, lo que refuerza la necesidad de un enfoque médico integral. </br>
+Uno de los puntos clave de la conversación fue el impacto de la psoriasis en la calidad de vida de los pacientes. Más allá del dolor físico o la comezón, el especialista destacó las consecuencias emocionales y sociales, como el estigma, la discriminación y el aislamiento, que suelen acompañar a una enfermedad visible y crónica. En este sentido, subrayó la importancia del diagnóstico oportuno, la educación del paciente y el acompañamiento médico continuo. </br>
+Durante el programa se presentó una cápsula informativa que permitió contextualizar la psoriasis para el público general. Se explicó que se trata de una enfermedad no contagiosa, de evolución crónica, que puede aparecer en distintas etapas de la vida y manifestarse de formas diversas. La cápsula destacó que, si bien no tiene cura definitiva, existen tratamientos eficaces que permiten controlar la enfermedad y mejorar significativamente la vida de quienes la padecen. </br>
+Tras la cápsula, la conversación se centró en los avances terapéuticos. El Dr. Eugenio explicó la diferencia entre tratamientos tópicos, terapias sistémicas y medicamentos biológicos, resaltando cómo estos últimos han revolucionado el manejo de la psoriasis al actuar de forma más específica sobre los mediadores de la inflamación. También se discutieron los retos asociados al acceso a estos tratamientos y la importancia de la evaluación médica individualizada. </br>
+La sección de vox populi reflejó percepciones diversas sobre la psoriasis. Algunas personas la identificaron erróneamente como una enfermedad contagiosa, mientras que otras compartieron experiencias de cercanía con familiares o conocidos que viven con ella. Estas voces evidenciaron la necesidad de información clara y científica para reducir prejuicios y fomentar una comprensión más empática de la enfermedad. </br>
+En la parte final del programa, los conductores y el invitado retomaron una reflexión central: la psoriasis exige un enfoque que combine ciencia, sensibilidad y ética médica. El Dr. Eugenio enfatizó que tratar la enfermedad no implica solo controlar síntomas, sino reconocer al paciente como una persona integral, con necesidades médicas, emocionales y sociales. </br>
+El cierre del capítulo deja un mensaje contundente: conocer la psoriasis es el primer paso para eliminar el estigma y mejorar la atención. Cuando la ciencia médica se comunica de manera accesible, se fortalece la confianza en el tratamiento y se construye una medicina más humana, basada en evidencia, respeto y acompañamiento continuo. </br>
+.`,
         } as PageContent,
         {
           type: "chatbot",
@@ -1583,29 +1624,44 @@ Finalmente, este capítulo invita a replantear nuestra relación con las especie
      },
         // CAPITULO 9 *********************************************************************************
      {
-      title: "Bioenergías",
+      title: "Dr. Antioco López Molina",
       pages: [
         {
           type: "cover",
-          title: "Invitados: Bioenergías",
+          title: "Invitados: Dr. Antioco López Molina",
         } as PageContent,
         {
           type: "biography",
-          authorName: "xxx",
+          authorName: "Dr. Antioco López Molina",
           image: "/xxx.jpg",
           content: `
-            <p></p>`,
+            <p>El Dr. Antioco López Molina es Ingeniero Químico, con Doctorado en Ciencias en Ingeniería Química. Es Profesor-Investigador de tiempo completo en la Universidad Juárez Autónoma de Tabasco, donde participa en la formación en Ingeniería Petroquímica. Es miembro del Sistema Nacional de Investigadores (Nivel I) y cuenta con Perfil PRODEP. Su trabajo se enfoca en bioenergía, biocombustibles, seguridad de procesos y análisis de riesgo, con énfasis en la sostenibilidad industrial. </p>`,
         } as PageContent,
 
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          Burelo.`,
+          <h3>Bioenergía Segura: Innovación y Riesgo en la Producción de Biocombustibles con Seguridad de Procesos</h3>
+La búsqueda de fuentes alternativas de energía se ha convertido en uno de los grandes desafíos del siglo XXI. Frente a la dependencia de los combustibles fósiles y a los efectos del cambio climático, la bioenergía surge como una opción prometedora para diversificar la matriz energética y reducir impactos ambientales. Sin embargo, producir energía a partir de recursos biológicos no es un proceso sencillo ni exento de riesgos: implica decisiones tecnológicas, industriales y sociales que deben analizarse con cuidado. </br>
+Este capítulo ofrece una aproximación clara al tema de la bioenergía y los biocombustibles, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. La emisión es conducida por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes abren un espacio de divulgación para reflexionar sobre la energía desde una perspectiva científica y crítica. </br>
+La conversación cuenta con la participación del Dr. Antíoco López Molina, Ingeniero Químico y Profesor-Investigador de la Universidad Juárez Autónoma de Tabasco, especializado en bioenergía, seguridad de procesos y análisis de riesgo. Desde su experiencia académica y de investigación aplicada, el invitado explica cómo el desarrollo de biocombustibles debe considerar no solo la eficiencia energética, sino también la seguridad industrial, la prevención de accidentes y la sustentabilidad de los procesos. </br>
+A lo largo del capítulo, el lector conocerá cómo la ingeniería química y la optimización de procesos permiten evaluar distintos escenarios de producción energética, identificar riesgos y tomar decisiones informadas. Se abordan conceptos clave como el diseño seguro de plantas, la evaluación de peligros y la importancia de anticipar fallas antes de que ocurran, especialmente en un contexto donde la innovación energética avanza con rapidez. </br>
+Finalmente, este capítulo invita a reflexionar sobre la transición energética como un proceso integral. Apostar por la bioenergía no significa únicamente cambiar de combustible, sino transformar la forma en que se diseñan, operan y regulan los sistemas energéticos. La ciencia, en este sentido, se presenta como una herramienta indispensable para avanzar hacia un futuro energético más limpio, seguro y responsable. </br>
+.`,
         } as PageContent,
         {
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
-          Xxx.`,
+          En una emisión dedicada a reflexionar sobre los retos energéticos contemporáneos, el programa Creando Con-Ciencia: La ciencia que transforma abrió el diálogo en torno a la bioenergía como alternativa en la transición hacia sistemas energéticos más sostenibles. Bajo la conducción de los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, la conversación se centró en analizar cómo la producción de energía a partir de recursos biológicos involucra decisiones científicas, industriales y sociales que no pueden separarse del riesgo y la seguridad de los procesos. </br>
+Desde el inicio, el Dr. Antíoco López Molina subrayó que la bioenergía no debe entenderse únicamente como una solución “verde”, sino como un sistema tecnológico complejo que requiere evaluación rigurosa. Explicó que los biocombustibles pueden aportar beneficios ambientales, pero su diseño, operación y escalamiento deben realizarse con criterios de ingeniería segura, evitando reproducir los errores históricos asociados a otros procesos industriales. </br>
+El diálogo avanzó hacia el papel de la ingeniería química en este contexto. El Dr. Antíoco explicó que la disciplina permite modelar procesos, optimizar recursos y anticipar escenarios críticos antes de que ocurran. Conceptos como la optimización multiobjetivo y el análisis de riesgo resultan fundamentales para tomar decisiones informadas, equilibrando eficiencia energética, costos, seguridad y sostenibilidad ambiental. </br>
+Uno de los puntos centrales fue la seguridad de procesos. El invitado enfatizó que los accidentes industriales no son eventos fortuitos, sino el resultado de decisiones mal evaluadas o de la ausencia de una cultura preventiva. En el desarrollo de bioenergía, identificar sustancias peligrosas, condiciones de operación críticas y posibles fallas es tan importante como lograr altos rendimientos energéticos. </br>
+Durante el programa se presentó una cápsula informativa que permitió contextualizar el concepto de bioenergía. Se explicó que esta forma de energía se obtiene a partir de biomasa, como residuos agrícolas, forestales u orgánicos, y puede transformarse en biocombustibles sólidos, líquidos o gaseosos. La cápsula destacó que, aunque la bioenergía puede reducir la dependencia de combustibles fósiles, su viabilidad depende del manejo sostenible de los recursos, la eficiencia del proceso y la evaluación de impactos ambientales y sociales. </br>
+Tras la cápsula, la conversación retomó el análisis de la toma de decisiones en proyectos energéticos. El Dr. Antíoco señaló que la transición energética no puede basarse únicamente en discursos, sino en evidencia científica y análisis técnico. Evaluar riesgos, costos y beneficios permite evitar soluciones aparentes que, a largo plazo, pueden generar nuevos problemas. </br>
+La sección de vox populi reflejó percepciones diversas sobre la bioenergía. Algunas personas la identificaron como una opción limpia y necesaria para el futuro, mientras que otras expresaron dudas sobre su seguridad y viabilidad industrial. Estas opiniones evidenciaron la necesidad de mayor divulgación científica, que permita comprender tanto el potencial como los límites de estas tecnologías. </br>
+En la parte final del programa, los conductores y el invitado coincidieron en que la transición energética requiere algo más que innovación tecnológica. Implica formar profesionales con pensamiento crítico, fortalecer la cultura de prevención, mejorar los marcos regulatorios y comunicar la ciencia de forma clara a la sociedad. </br>
+El cierre del capítulo deja un mensaje central: la bioenergía puede ser parte de la solución energética del futuro, siempre que se desarrolle con responsabilidad, seguridad y sustento científico. La ingeniería y la ciencia no solo sirven para producir energía, sino para anticipar riesgos y proteger la vida, demostrando que un futuro sostenible también debe ser un futuro seguro. </br>
+.`,
         } as PageContent,
         {
           type: "chatbot",
@@ -1647,28 +1703,43 @@ Finalmente, este capítulo invita a replantear nuestra relación con las especie
      },
         // CAPITULO 10 *********************************************************************************
      {
-      title: "Metales Pesados",
+      title: "Dr. Carlos Alfonso Tovilla Zárate",
       pages: [
         {
           type: "cover",
-          title: "Invitados: Metales Pesados",
+          title: "Invitados: Dr. Carlos Alfonso Tovilla Zárate",
         } as PageContent,
         {
           type: "biography",
-          authorName: "xxx",
+          authorName: "Dr. Carlos Alfonso Tovilla Zárate",
           image: "/xxx.jpg",
           content: `
-            <p></p>`,
+            <p>El Dr. Carlos Alfonso Tovilla Zárate es Profesor-Investigador Titular de la Universidad Juárez Autónoma de Tabasco, adscrito a la División Académica Multidisciplinaria de Comalcalco y tutor en programas de Maestría y Doctorado en Ciencias Biomédicas. Es miembro del Sistema Nacional de Investigadores Nivel III y del Sistema Estatal de Investigadores. Su trabajo científico se centra en el estudio del cortisol, el estrés crónico, la depresión, la ansiedad y la prevención de la conducta suicida, integrando enfoques de biología molecular, genética psiquiátrica y salud mental. Ha publicado libros, capítulos y numerosos artículos científicos orientados al análisis del bienestar emocional. </p>`,
         } as PageContent,
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          Burelo.`,
+          <h3>Cortisol y Salud Mental: El Estrés Invisible detrás de los Intentos de Suicidio y la Depresión</h3>
+El estrés forma parte de la vida cotidiana y, en muchas ocasiones, se normaliza sin dimensionar sus efectos reales en el cuerpo y la mente. Detrás de esa respuesta silenciosa opera el cortisol, una hormona indispensable para la supervivencia, pero que, cuando se mantiene elevada durante periodos prolongados, puede alterar el equilibrio emocional, la salud mental y el bienestar general. </br>
+Este capítulo aborda el papel del cortisol como biomarcador del estrés crónico, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. La emisión es conducida por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes abren un espacio de diálogo para comprender cómo los procesos biológicos se relacionan con la conducta humana y los trastornos emocionales. </br>
+En esta conversación participa el Dr. Carlos Alfonso Tovilla Zárate, Profesor-Investigador de la Universidad Juárez Autónoma de Tabasco y especialista en salud mental, quien explica cómo el cortisol actúa como un indicador fisiológico del estrés y cuál es su relación con la depresión, la ansiedad y el riesgo suicida. Desde una perspectiva científica y social, el invitado expone la importancia de distinguir entre el estrés adaptativo y aquel que se vuelve perjudicial. </br>
+A lo largo del capítulo, el lector comprenderá cómo el estrés sostenido impacta funciones cognitivas, emocionales y conductuales, así como los factores sociales y académicos que pueden favorecer su incremento, especialmente en jóvenes y estudiantes universitarios. También se abordan estrategias de prevención, detección temprana y la relevancia de hablar abiertamente sobre salud mental para reducir estigmas. </br>
+Finalmente, este capítulo invita a reconocer que cuidar la salud mental implica entender los procesos biológicos que la acompañan. Hablar del cortisol es hablar de conciencia, autocuidado y responsabilidad colectiva, pues cuando el estrés se hace visible, se vuelve posible intervenir a tiempo y construir entornos más saludables. </br>
+.`,
         } as PageContent,
         {
           type: "text",
           content: `<h1><strong>Transcripción Editada de la Entrevista</strong></h1>
-          Xxx.`,
+          En una emisión dedicada a comprender los vínculos entre biología y bienestar emocional, el programa Creando Con-Ciencia: La ciencia que transforma, a través de Radio UJAT, abrió el diálogo sobre el cortisol y su relación con el estrés y la salud mental. Bajo la conducción de los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, la conversación se enfocó en hacer visible un proceso biológico que, aunque cotidiano, suele pasar desapercibido en sus consecuencias. </br>
+Desde el inicio, el Dr. Carlos Alfonso Tovilla Zárate explicó que el cortisol es una hormona esencial para la respuesta al estrés. En situaciones agudas, cumple una función adaptativa: prepara al organismo para reaccionar ante amenazas. El problema surge cuando esa respuesta se mantiene activa de forma prolongada, dando lugar al estrés crónico, un estado que puede afectar el funcionamiento emocional, cognitivo y conductual. </br>
+El diálogo avanzó hacia la relación entre el cortisol y los trastornos mentales. El Dr. Tovilla señaló que niveles elevados y sostenidos de esta hormona se asocian con depresión, ansiedad, alteraciones del sueño y dificultades en la regulación emocional. En particular, explicó cómo el estrés persistente puede convertirse en un factor de riesgo para la conducta suicida, especialmente cuando se combina con presiones sociales, académicas y personales. </br>
+Uno de los puntos centrales fue la normalización del estrés en la vida moderna. El especialista destacó que muchas personas conviven con síntomas sin reconocerlos como señales de alerta. Fatiga constante, irritabilidad, pérdida de interés o cambios en el apetito pueden interpretarse erróneamente como parte de la rutina, cuando en realidad reflejan un desequilibrio fisiológico y emocional que requiere atención. </br>
+Durante el programa se presentó una cápsula informativa que explicó, de manera clara, qué es el cortisol y cómo actúa en el organismo. Se destacó que esta hormona es producida por las glándulas suprarrenales y sigue un ritmo diario, aumentando por la mañana y disminuyendo por la noche. La cápsula subrayó que el problema no es el cortisol en sí, sino su activación constante, relacionada con estilos de vida acelerados, falta de descanso y presión emocional. </br>
+Tras la cápsula, la conversación se centró en los factores sociales que influyen en el estrés. El Dr. Tovilla enfatizó que el entorno académico y laboral puede convertirse en un detonante cuando se combina con altas expectativas, exigencias constantes y ausencia de redes de apoyo. En este sentido, resaltó la importancia de promover entornos que favorezcan el autocuidado y la detección temprana de riesgos psicosociales. </br>
+La sección de vox populi recogió percepciones diversas sobre el estrés. Algunas personas lo identificaron como un motor para cumplir metas, mientras que otras lo reconocieron como una carga que afecta su bienestar diario. Estas voces evidenciaron una dualidad central del programa: el estrés puede ser funcional en ciertos momentos, pero se vuelve dañino cuando se prolonga y no se gestiona adecuadamente. </br>
+En el tramo final, los conductores retomaron la idea de que hablar de cortisol es también hablar de prevención. El Dr. Tovilla subrayó que comprender los procesos biológicos permite desmontar prejuicios en torno a la salud mental y reconocer que pedir ayuda no es un signo de debilidad, sino una estrategia de cuidado. </br>
+El cierre del capítulo deja un mensaje contundente: hacer visible el estrés es el primer paso para intervenirlo. Cuando la ciencia se comunica con claridad, se abren caminos para la empatía, la conciencia colectiva y la construcción de estrategias que protejan la salud mental. Entender el cortisol no es solo un ejercicio académico; es una herramienta para cuidar la vida. </br>
+.`,
         } as PageContent,
         {
           type: "chatbot",
