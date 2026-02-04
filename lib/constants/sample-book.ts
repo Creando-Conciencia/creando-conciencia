@@ -1677,13 +1677,13 @@ Normalmente la piel tarda en recambiarse más o menos unos - días. </p></br>
 <p><strong>(Voz Populi - Sondeo en la calle)</strong>:
 
 <ul style="list-style-type: disc;">
-<li>	<p><strong> Voz </strong>: La psoriasis es una condición inflamatoria crónica donde interactúan la predisposición genética y factores ambientales como el estrés e infecciones. Existen terapias biológicas que actúan directamente sobre el sistema inmunológico, mejorando la calidad de vida. </p></br></li>
-<li>	<p><strong> Voz </strong>: Cuando ves a una persona con lesiones en la piel, ¿crees que podría ser algo contagioso? No, todo eso deriva del estrés que podrían tener, una enfermedad, pero no siempre pienso que sea contagiosa. </p></br></li>
-<li>	<p><strong> Voz </strong>: Bueno, cuando llego a ver a una persona que tiene problemas en la piel, probablemente sí, a veces tengo en cuenta que es contagioso. </p></br></li>
-<li>	<p><strong> Voz </strong>: Pienso que está enfermo de algo de la piel, no pienso que sea contagioso. </p></br></li>
-<li>	<p><strong> Voz </strong>: Tenía entendido que es un problema autoinmune, o sea, prácticamente como que el cuerpo se vuelve loco y quizás hace que la piel se regenere más rápido. </p></br></li>
-<li>	<p><strong> Voz </strong>: ¿Crees que las personas con enfermedades visibles en la piel enfrentan discriminación? Claro que sí, porque piensan que la psoriasis es contagiosa, pero no es así. La gente suele juzgar por la apariencia. </p></br></li>
-<li>	<p><strong> Voz </strong>: Sí, creo que las personas que tienen problemas de piel pueden tener problemas sociales, porque una persona que quizá no tenga tanto conocimiento de ese tipo de enfermedades, pues prácticamente les da el rechazo por miedo a decir "si ella lo tiene, a lo mejor es contagioso y al rato yo también lo voy a tener". </p></br></li>
+<li>	<p><strong> Voz </strong>: La psoriasis es una condición inflamatoria crónica donde interactúan la predisposición genética y factores ambientales como el estrés e infecciones. Existen terapias biológicas que actúan directamente sobre el sistema inmunológico, mejorando la calidad de vida. </p></li>
+<li>	<p><strong> Voz </strong>: Cuando ves a una persona con lesiones en la piel, ¿crees que podría ser algo contagioso? No, todo eso deriva del estrés que podrían tener, una enfermedad, pero no siempre pienso que sea contagiosa. </p></li>
+<li>	<p><strong> Voz </strong>: Bueno, cuando llego a ver a una persona que tiene problemas en la piel, probablemente sí, a veces tengo en cuenta que es contagioso. </p></li>
+<li>	<p><strong> Voz </strong>: Pienso que está enfermo de algo de la piel, no pienso que sea contagioso. </p></li>
+<li>	<p><strong> Voz </strong>: Tenía entendido que es un problema autoinmune, o sea, prácticamente como que el cuerpo se vuelve loco y quizás hace que la piel se regenere más rápido. </p></li>
+<li>	<p><strong> Voz </strong>: ¿Crees que las personas con enfermedades visibles en la piel enfrentan discriminación? Claro que sí, porque piensan que la psoriasis es contagiosa, pero no es así. La gente suele juzgar por la apariencia. </p></li>
+<li>	<p><strong> Voz </strong>: Sí, creo que las personas que tienen problemas de piel pueden tener problemas sociales, porque una persona que quizá no tenga tanto conocimiento de ese tipo de enfermedades, pues prácticamente les da el rechazo por miedo a decir "si ella lo tiene, a lo mejor es contagioso y al rato yo también lo voy a tener". </p></li>
 </ul>
 <p><strong>Dr. JRLC</strong>:  Qué interesante lo que escuchamos, que se aloja en la piel. </p></br>
 <p><strong>Dr. JRHB</strong>: Lo que noto es que algunas personas tienen muy claro que es una enfermedad que no es infectocontagiosa, pero a otras personas les cuesta mucho trabajo diferenciarlo. Y esto es, digamos, normal porque no tenemos acceso a la información. Este programa busca desmitificar un poco acerca de la psoriasis, sus causas, orígenes y consecuencias. Doctor, ¿qué opina acerca de lo que la sociedad opina de la psoriasis? </p></br>
