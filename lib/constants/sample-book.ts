@@ -841,7 +841,7 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-2.mp3",
           htmlContent: `
           <p><strong>LOCUTOR:</strong> Bienvenidos a "Creando Conciencia", el programa que te conecta con el fascinante mundo de la ciencia, la tecnología y el medio ambiente para construir un futuro más sustentable.</p></br>
           <p><strong>Dr. José Ramón Laines Canepa:</strong> Soy el doctor José Ramón Laínez Canepa, y me acompaña en cabina el doctor Roberto Hernández Barajas. Buenas tardes, Ramón.</p></br>
@@ -1053,7 +1053,7 @@ Finalmente, la entrevista concluyó con un mensaje claro y esperanzador. Transfo
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-3.mp3",
           htmlContent: ` 
           xxx`,
         } as PageContent,
@@ -1141,7 +1141,7 @@ El cierre fue tan directo como esperanzador: coexistir, aprender, respetar y act
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-4.mp3",
           htmlContent: ` 
           <p><strong>Locutor</strong>: Bienvenidos, donde cada descubrimiento abre una puerta, cada idea inspira un cambio. Aquí, la ciencia no duerme, se transforma. Creando conciencia, la ciencia que transforma. </p></br>
 <p><strong>Dr. José Ramón Laines Canepa</strong>: ¡Hola! ¿Cómo están? Muy buenas tardes a todas y todos quienes nos escuchan por Radio UJAT, la voz universitaria en el 96.1 de FM. Bienvenidos al primer episodio de "Creando Conciencia", el programa que te conecta con el fascinante mundo de la ciencia, la tecnología y el medio ambiente. En este espacio exploraremos juntos investigaciones, descubrimientos y proyectos que están cambiando nuestro presente para construir un futuro más sustentable. </p></br>
@@ -1276,7 +1276,7 @@ El mensaje final fue compartido por todos los participantes: proteger al manatí
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-5.mp3",
           htmlContent: ` 
           <p><strong>Locutor </strong>: Creando Conciencia: La Ciencia que Transforma. Bienvenidos, donde cada descubrimiento abre una puerta, cada idea inspira un cambio, aquí la ciencia no duerme. Se transforma. Creando Conciencia, la ciencia que transforma. </p></br>
 <p><strong>Dr. José Ramón Laínez Canepa </strong>: Hola, ¿qué tal? Muy buenas tardes, tengan todos ustedes. Estamos en el 96.1 de FM, por Radio UJAT, Voz Universitaria. Bienvenidos a “Creando Conciencia, la Ciencia que Transforma”, el programa que te conecta con el fascinante mundo de la ciencia, la tecnología y el medio ambiente. Para que todos juntos construyamos un futuro más sustentable. Habla el doctor José Ramón Laínez Canepa, y me acompaña como todos los miércoles. </p></br>
@@ -1452,7 +1452,7 @@ Así, el mensaje final del episodio se articula con claridad: convivir con la bi
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-6.mp3",
           htmlContent: ` 
           .<p><strong>Locutor</strong>: Bienvenidos, donde cada descubrimiento abre una puerta, cada idea inspira un cambio. Aquí, la ciencia no duerme, se transforma. Creando conciencia, la ciencia que transforma<p></br>
 <p><strong> Dr. José Ramón Laínez Canepa </strong>: Hola, ¿cómo están? Muy buenas tardes tengan todos ustedes. Estamos en el 96.1 de FM, por Radio UJAT, Voz universitaria. Bienvenidos a "Creando Conciencia", el programa que te conecta con el fascinante mundo de la ciencia, la tecnología y el medio ambiente para construir un futuro más sustentable. Soy el doctor José Ramón Laínez Canepa y me acompaña, como todos los miércoles en cabina, Roberto Hernández Barajas. <p></br>
@@ -1681,7 +1681,7 @@ El cierre del capítulo deja un mensaje claro: la gamificación y la tecnología
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-7.mp3",
           htmlContent: ` 
           <p><strong>Locutor</strong>: Bienvenidos, donde cada descubrimiento abre una puerta, cada idea inspira un campo aquí. La ciencia no duerme, se transforma. </p></br>
 <p><strong> Dr. José Ramón Laines Canepa </strong>: Hola, ¿cómo están? Muy buenas tardes tengan todos ustedes. Estamos en el 96.1 del FM. Por radio, un ejército. Bienvenido a "Creando Conciencia", el programa que te conecta con el fascinante mundo de la ciencia, la tecnología y el medio ambiente para construir un futuro más sustentable. Soy el doctor José Ramón Laínes Canepa. </p></br>
@@ -1847,7 +1847,7 @@ El cierre del capítulo deja un mensaje contundente: conocer la psoriasis es el 
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-8.mp3",
           htmlContent: ` 
           <p><strong> Locutor </strong>: Bienvenidos a "Creando Conciencia: la ciencia que transporta", donde cada descubrimiento abre una puerta y cada idea inspira un cambio. Aquí la ciencia no duerme, se transforma. </p></br>
 <p><strong>Dr. José Ramón Laines Canepa</strong>:  Hola, ¿qué tal? Muy buenas tardes tengan todos ustedes. Estamos en. de FM por Radio UJAT, universitarias. Bienvenidos a "Creando Conciencia: La Ciencia que Transforma", el programa que te conecta con el fascinante mundo de la ciencia, la tecnología y el medio ambiente para construir un futuro más sustentable. Agradezco a mi amigo que está en cabina, que me acompaña como todos los miércoles, mi amigo José Roberto. </p></br>
@@ -2007,7 +2007,7 @@ El cierre del capítulo deja un mensaje central: la bioenergía puede ser parte 
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-9.mp3",
           htmlContent: ` 
           <p><strong> Locutor </strong>: Bienvenidos, donde cada descubrimiento abre una puerta, cada idea inspira un campo. Aquí la ciencia se transforma. Queremos conciencia, es la ciencia que transporta. </p></strong>
 <p><strong> Dr. José Ramón Laines Canepa </strong>: Hola, ¿cómo están? Buenas tardes tengan todos ustedes. Estamos en el 96.1 de FM por Radio UJAT, Voz Universitaria. Bienvenidos a "Creando Conciencia: la ciencia que transforma", el programa que te conecta con el fascinante mundo de la ciencia, la tecnología y el medio ambiente para construir un futuro más sustentable. Soy el Dr. José Ramón Laines Canepa y me acompaña en cabina. </p></strong>
@@ -2164,7 +2164,7 @@ El cierre del capítulo deja un mensaje contundente: hacer visible el estrés es
         } as PageContent,
         {
           type: "audio",
-          url: "/entrevista-1.mp3",
+          url: "/entrevista-10.mp3",
           htmlContent: ` 
           <p><strong> Locutor </strong>: ¡Bienvenidos! Donde cada descubrimiento abre una puerta, cada idea inspira un campo. Aquí la ciencia no duerme, se transforma. ¿Qué es la ciencia que transforma? </p></br>
 <p><strong>Dr. José Ramón Laines Canepa</strong>: Hola, ¿qué tal? Muy buenas tardes tengan todos ustedes, muchas gracias por escucharnos nuevamente en él 96.1 de FM por Radio UJAT Universitaria. Bienvenidos a "Creando Conciencia", el programa que te conecta con el fascinante mundo de la ciencia, la tecnología y el medio ambiente. Aquí, en este espacio, exploraremos juntos investigaciones, descubrimientos y proyectos que están cambiando nuestro presente para construir un futuro más sustentable. Soy el Dr. José Ramón Laines Canepa y me acompaña en cabina el doctor…</p></br>
