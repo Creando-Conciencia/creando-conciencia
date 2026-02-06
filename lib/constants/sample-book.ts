@@ -96,7 +96,7 @@ export const sampleBook: Book = {
   },
   chapters: [
     {
-      title: "Lic. Guillermo Narvaez Ozorio, Rector de la UJAT",
+      title: "Lic. Guillermo Narvaez Osorio, Rector de la UJAT",
       pages: [
         {
           type: "cover",
