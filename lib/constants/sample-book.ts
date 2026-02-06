@@ -984,14 +984,14 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
         {
           type: "biography",
           authorName: "Kenia Leticia Utrera Cabrera",
-          image: "/Foto_Ccc_3.jpg",
+          image: "/Kenia_Leticia_Utrera_Cabrera.jpg",
           content: `
             <p>Kenia Leticia Utrera Cabrera es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT, con experiencia en liderazgo estudiantil y gestión de residuos. Ha colaborado con SEMARNAT en Tabasco y es cofundadora de EPLASTO, proyecto de economía circular reconocido por Enactus México y presentado en la Universidad de Harvard y el MIT. Actualmente es presidenta de la Sociedad de Alumnos de la DACBiol-UJAT y participa en AMICA y AIDIS Joven México.</p>`,
         } as PageContent,
        {
           type: "biography",
           authorName: "Mairé Paulina Torres García",
-          image: "/Kenia_Leticia_Utrera_Cabrera.jpg",
+          image: "/Maire_Paulina_Torres_Garcia.jpg",
           content: `
             <p>Mairé Paulina Torres García es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT, con enfoque en sostenibilidad y gestión de residuos. Es presidenta del Comité Estudiantil de AMICA en la DACBiol-UJAT, donde promueve la participación y formación académica del estudiantado. Forma parte de EPLASTO en el área financiera y de análisis de riesgos, contribuyendo al desarrollo y viabilidad del proyecto, presentado en Harvard y el MIT.</p>`,
         } as PageContent,
@@ -1005,7 +1005,7 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
        {
           type: "biography",
           authorName: "Jessica Lizbeth Córdova Palma",
-          image: "/Dr_Carlos_Manuel_Burelo_Ramos.jpg",
+          image: "/Jessica_Lizbeth_Cordova_Palma.jpg",
           content: `
             <p>Jessica Lizbeth Córdova Palma es egresada de la Licenciatura en Ingeniería Ambiental por la DACBiol-UJAT. Realizó sus prácticas profesionales en PEMEX, en el área de Seguridad, Salud en el Trabajo y Protección Ambiental. Actualmente es Chief Technology Officer (CTO) de EPLASTO, emprendimiento de economía circular enfocado en el desarrollo de materiales a partir de plásticos reciclados, reconocido por Enactus México y presentado en Harvard y el MIT.</p>`,
         } as PageContent,
@@ -1799,7 +1799,7 @@ Cuando la ciencia educativa se articula con la innovación tecnológica y la ref
         {
           type: "biography",
           authorName: "Dr. Eugenio Del Valle-Espinosa",
-          image: "/xxx.jpg",
+          image: "/Dr_Eugenio_Del_Valle-Espinosa.jpg",
           content: `
             <p>El Dr. Eugenio Del Valle-Espinosa es médico dermatólogo y maestro en Ciencias Bioquímicas, con una trayectoria sólida en el ámbito clínico, académico y de investigación. Actualmente se desempeña como dermatólogo en el Hospital General Dr. Daniel Gurría Urgell del ISSSTE, donde combina la atención médica especializada con la docencia universitaria. Su formación incluye residencias en Medicina Interna y Dermatología en hospitales de alta especialidad de la Ciudad de México, así como estudios de posgrado en la UNAM, con énfasis en investigación bioquímica. Ha participado activamente en congresos nacionales e internacionales y cuenta con publicaciones científicas relacionadas con psoriasis, infecciones cutáneas y efectos dermatológicos de tratamientos oncológicos. Su principal interés académico se centra en la inmunodermatología y la innovación terapéutica. </p>`,
         } as PageContent,
