@@ -61,7 +61,13 @@ export const sampleBook: Book = {
         name: "MIA. Jesús Manuel Carrera Velueta",
         role: "Coautor - Coeditor Técnico",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
-        bio: `<p>Maestro en Inteligencia Artificial. Coeditor Técnico del libro. Investigador y divulgador científico comprometido con la comunicación efectiva de la ciencia. Co-conductor del programa "Creando Conciencia", especializado en hacer accesible el conocimiento científico a la comunidad.</p>`,
+        bio: `<p>Maestro en Inteligencia Artificial. Coeditor Técnico del libro.</p>`,
+      },
+      {
+        name: "Dra. Erika Yunuèn Morales Mateos",
+        role: "Coeditora Técnica",
+        affiliation: "Universidad Juárez Autónoma de Tabasco",
+        bio: `<p>Dra. en Ciencias de la Computaciòn.</p>`,
       },
     ],
   },
@@ -992,7 +998,7 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
         {
           type: "biography",
           authorName: "Danna Paola Correa García",
-          image: "/Dr_Carlos_Manuel_Burelo_Ramos.jpg",
+          image: "/Danna_Paola_Correa_Garcia.jpg",
           content: `
             <p>Danna Paola Correa García es Licenciada en Ingeniería Ambiental por la DACBiol-UJAT y participa activamente en la Sociedad de Alumnos de la DACBiol-UJAT y en el Comité Estudiantil de AMICA. Cuenta con experiencia en el manejo y tratamiento de residuos sólidos urbanos y de manejo especial. Se desempeña como directora de operaciones y de producto en EPLASTO, proyecto de economía circular reconocido por Enactus México y presentado en instituciones como Harvard y el MIT.</p>`,
         } as PageContent,
@@ -1387,14 +1393,14 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
         {
           type: "biography",
           authorName: "Dr. Rafael Ávila Flores",
-          image: "/xxx.jpg",
+          image: "/Dr_Rafael_Avila_Flores.jpg",
           content: `
             <p>El Dr. Rafael Ávila Flores es biólogo por la UNAM, con Maestría en Ciencias por la Universidad de York (Canadá) y Doctorado en Filosofía (Ecología) por la Universidad de Alberta. Es Profesor-Investigador de tiempo completo en la DACBiol-UJAT y miembro del Sistema Nacional de Investigadores (Nivel I). Su trabajo se centra en la ecología de mamíferos, particularmente en el estudio de murciélagos hematófagos y las interacciones mamífero-humano en paisajes ganaderos, urbanos y rurales de Tabasco, con el objetivo de desarrollar estrategias de manejo menos invasivas y enfoques de convivencia armónica.</p>`,
         } as PageContent,
         {
           type: "biography",
           authorName: "Dra. Alba Zulema Rodas Martínez",
-          image: "/xxx.jpg",
+          image: "/Dra_Alba_Zulema_Rodas_Martinez.jpg",
           content: `
             <p>La Dra. Alba Zulema Rodas Martínez es Médica Veterinaria y Zootecnista por la UNAM, con Maestría en Ciencias y Doctorado en Ciencias (Fisiología) por el CINVESTAV-IPN. Es Profesora-Investigadora de tiempo completo en la DACBiol-UJAT y cuenta con perfil PRODEP. Su investigación aborda la fisiología reproductiva, hematología y respuestas al estrés ambiental en mamíferos silvestres, con énfasis en protocolos de manejo y conservación, desarrollados en colaboración con instituciones nacionales de investigación. </p>`,
         } as PageContent,
@@ -1626,7 +1632,7 @@ En última instancia, la ciencia nos recuerda que los murciélagos vampiro conti
         {
           type: "biography",
           authorName: "Dra. Erika Yunuén Morales Mateos",
-          image: "/xxx.jpg",
+          image: "/Dra_Erika_Yunuen_Morales_Mateos.jpg",
           content: `
             <p>a Dra. Erika Yunuén Morales Mateos es Licenciada en Sistemas Computacionales, con Maestría en Ingeniería de Sistemas y Doctorado en Sistemas Computacionales. Es Profesora-Investigadora de tiempo completo en la División Académica de Ciencias y Tecnologías de la Información (DACyTI-UJAT) y líder del Cuerpo Académico “Tecnologías para el análisis de datos y desarrollo de aplicaciones”. Su trabajo se centra en el desarrollo de software, aplicaciones web y móviles, realidad virtual y aumentada, gamificación educativa y ciencia de datos, con enfoque en la innovación educativa y la conciencia ambiental. Cuenta con certificaciones nacionales e internacionales, entre ellas en informática administrativa (ANFECA) y Internet de las Cosas (Samsung), además de estancias académicas en México, España y Chile. Es miembro del Sistema Nacional de Investigadores y del Sistema Estatal de Investigadores, y cuenta con Perfil PRODEP.</p>`,
         } as PageContent,
@@ -1952,7 +1958,7 @@ Con este capítulo, el recorrido de Creando Con-Ciencia reafirma una idea transv
         {
           type: "biography",
           authorName: "Dr. Antioco López Molina",
-          image: "/xxx.jpg",
+          image: "/Dr_Antioco_Lopez_Molina.jpg",
           content: `
             <p>El Dr. Antioco López Molina es Ingeniero Químico, con Doctorado en Ciencias en Ingeniería Química. Es Profesor-Investigador de tiempo completo en la Universidad Juárez Autónoma de Tabasco, donde participa en la formación en Ingeniería Petroquímica. Es miembro del Sistema Nacional de Investigadores (Nivel I) y cuenta con Perfil PRODEP. Su trabajo se enfoca en bioenergía, biocombustibles, seguridad de procesos y análisis de riesgo, con énfasis en la sostenibilidad industrial. </p>`,
         } as PageContent,
@@ -2110,7 +2116,7 @@ Con este capítulo, Creando Con-Ciencia reafirma una reflexión transversal: la 
         {
           type: "biography",
           authorName: "Dr. Carlos Alfonso Tovilla Zárate",
-          image: "/xxx.jpg",
+          image: "/Dr_Carlos_Alfonso_Tovilla_Zarate.jpg",
           content: `
             <p>El Dr. Carlos Alfonso Tovilla Zárate es Profesor-Investigador Titular de la Universidad Juárez Autónoma de Tabasco, adscrito a la División Académica Multidisciplinaria de Comalcalco y tutor en programas de Maestría y Doctorado en Ciencias Biomédicas. Es miembro del Sistema Nacional de Investigadores Nivel III y del Sistema Estatal de Investigadores. Su trabajo científico se centra en el estudio del cortisol, el estrés crónico, la depresión, la ansiedad y la prevención de la conducta suicida, integrando enfoques de biología molecular, genética psiquiátrica y salud mental. Ha publicado libros, capítulos y numerosos artículos científicos orientados al análisis del bienestar emocional. </p>`,
         } as PageContent,
