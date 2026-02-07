@@ -19,13 +19,13 @@ export const sampleBook: Book = {
         name: "Dr. José Ramón Laines Canepa",
         role: "Editor y Autor Principal",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
-        bio: `<p>Doctor en Ciencias en Ecología y Manejo de Sistemas Tropicales con más de 20 años de experiencia en investigación y docencia. Coordinador del programa "Creando Conciencia" en Radio UJAT, dedica su trabajo a la divulgación científica y la vinculación universidad-sociedad.</p>`,
+        bio: `<p>Doctor en Ciencias en Ecología y Manejo de Sistemas Tropicales con más de 20 años de experiencia en investigación y docencia. Coordinador del programa "Creando ConCiencia" en Radio UJAT, dedica su trabajo a la divulgación científica y la vinculación universidad-sociedad.</p>`,
       },
       {
         name: "Dr. José Roberto Hernández Barajas",
         role: "Coautor y Conductor",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
-        bio: `<p>Doctor en Química. Investigador y divulgador científico comprometido con la comunicación efectiva de la ciencia. Co-conductor del programa "Creando Conciencia", especializado en hacer accesible el conocimiento científico a la comunidad.</p>`,
+        bio: `<p>Doctor en Química. Investigador y divulgador científico comprometido con la comunicación efectiva de la ciencia. Co-conductor del programa "Creando ConCiencia", especializado en hacer accesible el conocimiento científico a la comunidad.</p>`,
       },
       {
         name: "Dr. José Aurelio Sosa Olivier",
@@ -49,7 +49,7 @@ export const sampleBook: Book = {
         name: "Lic. Yara García Robles",
         role: "Productora del Programa Creando Con Ciencia: La ciencia que transforma",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
-        bio: `<p>Licenciada en Ciencias de la Comunicación. Productora del Programa Creando Con Ciencia.</p>`,
+        bio: `<p>Licenciada en Ciencias de la Comunicación. Productora del Programa Creando ConCiencia.</p>`,
       },
       {
         name: "MC. David Alberto Laines Vázquez",
@@ -79,7 +79,7 @@ export const sampleBook: Book = {
       <br>
       <p>Agradecemos profundamente al <strong>Lic. Guillermo Narváez Osorio</strong>, Rector de la UJAT, por su visión transformadora y su apertura para compartir con nuestra audiencia los proyectos que están cambiando vidas en Tabasco.</p>
       <br>
-      <p>A la <strong>Dirección General de Comunicación Social de la UJAT</strong> y a todo el equipo de <strong>Radio UJAT 96.1 FM</strong>, por facilitar el espacio para que "Creando Conciencia" sea una realidad cada miércoles.</p>
+      <p>A la <strong>Dirección General de Comunicación Social de la UJAT</strong> y a todo el equipo de <strong>Radio UJAT 96.1 FM</strong>, por facilitar el espacio para que "Creando ConCiencia" sea una realidad cada miércoles.</p>
       <br>
       <p>A los <strong>investigadores, docentes y estudiantes</strong> de la UJAT que con su trabajo diario demuestran que la ciencia con sentido social no es un discurso, sino una práctica constante.</p>
       <br>
@@ -88,7 +88,7 @@ export const sampleBook: Book = {
       <p>Y especialmente a <strong>ti, lector</strong>, por tu interés en conocer cómo la ciencia puede transformar vidas y sociedad. Este libro es también tuyo.</p>
       <br>
       <br>
-      <p className="mt-8 italic">— El equipo de "Creando Conciencia"</p>`,
+      <p className="mt-8 italic">— El equipo de "Creando ConCiencia"</p>`,
   },
   index: {
     type: "index",
