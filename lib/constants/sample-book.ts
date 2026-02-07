@@ -64,7 +64,7 @@ export const sampleBook: Book = {
         bio: `<p>Maestro en Inteligencia Artificial. Coeditor Técnico del libro.</p>`,
       },
       {
-        name: "Dra. Erika Yunuèn Morales Mateos",
+        name: "Dra. Erika Yunuén Morales Mateos",
         role: "Coeditora Técnica",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
         bio: `<p>Dra. en Ciencias de la Computaciòn.</p>`,
