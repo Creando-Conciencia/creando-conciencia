@@ -1052,7 +1052,7 @@ Finalmente, la entrevista concluyó con un mensaje claro y esperanzador. Transfo
               type: "text",
               id: "q3",
               label:
-                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reducir el uso de plásticos, promover su reutilización o reciclaje y contribuir a una economía circular en tu entorno, inspirándote en la experiencia del proyecto EPLASTO?",
               multiline: true,
             },
           ],
@@ -1245,7 +1245,7 @@ El cierre fue tan directo como esperanzador: coexistir, aprender, respetar y act
               type: "text",
               id: "q4",
               label:
-                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+                "¿Qué acción concreta puedes hacer tú, desde tu entorno (escuela, comunidad o familia), para apoyar la conservación de la Reserva de la Biosfera Wan-ha y contribuir a que sus manglares interiores se mantengan vivos —por ejemplo promoviendo el ecoturismo responsable, evitando prácticas que dañen el río o participando en actividades de restauración comunitaria?",
               multiline: true,
             },
           ],
@@ -1380,7 +1380,7 @@ El mensaje final fue compartido por todos los participantes: proteger al manatí
               type: "text",
               id: "q5",
               label:
-                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+                "¿Qué acción concreta puedes realizar desde tu entorno —como estudiante, docente o ciudadano— para contribuir al cuidado de los cuerpos de agua y a la conservación del manatí en tu comunidad?",
               multiline: true,
             },
           ],
@@ -1554,9 +1554,9 @@ Así, el mensaje final del episodio se articula con claridad: convivir con la bi
           fields: [
             {
               type: "text",
-              id: "q2",
+              id: "q6",
               label:
-                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+                "¿Qué acción concreta puedes realizar desde tu entorno —como estudiante, docente o ciudadano— para promover una convivencia informada con los murciélagos y contribuir a la prevención de la rabia y a la conservación de la biodiversidad?",
               multiline: true,
             },
           ],
@@ -1783,9 +1783,9 @@ El cierre del capítulo deja un mensaje claro: la gamificación y la tecnología
           fields: [
             {
               type: "text",
-              id: "q2",
+              id: "q7",
               label:
-                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+                "¿Qué acción concreta puedes implementar, desde tu contexto académico o personal, para usar la gamificación o la tecnología como una herramienta que motive el aprendizaje y promueva una educación más participativa e inclusiva?",
               multiline: true,
             },
           ],
@@ -1949,9 +1949,9 @@ El cierre del capítulo deja un mensaje contundente: conocer la psoriasis es el 
           fields: [
             {
               type: "text",
-              id: "q2",
+              id: "q8",
               label:
-                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+                "¿Qué acción concreta puedes realizar desde tu entorno —como estudiante, profesional de la salud o ciudadano— para contribuir a la empatía, la información correcta y la no estigmatización de las personas que viven con psoriasis?",
               multiline: true,
             },
           ],
@@ -2109,9 +2109,9 @@ El cierre del capítulo deja un mensaje central: la bioenergía puede ser parte 
           fields: [
             {
               type: "text",
-              id: "q2",
+              id: "q9",
               label:
-                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+                "¿Qué acción concreta puedes realizar, desde tu contexto académico, profesional o ciudadano, para fomentar el uso responsable de la bioenergía y una cultura de prevención en los procesos energéticos?",
               multiline: true,
             },
           ],
@@ -2266,9 +2266,9 @@ El cierre del capítulo deja un mensaje contundente: hacer visible el estrés es
           fields: [
             {
               type: "text",
-              id: "q2",
+              id: "q10",
               label:
-                "¿Qué acción concreta puedes asumir tú, como estudiante, docente o ciudadano, para reconocer el valor de la “biodiversidad oculta” —especialmente de los insectos— y contribuir a su conservación, evitando prácticas que dañen sus hábitats y promoviendo una convivencia más consciente en tu entorno?",
+                "¿Qué acción concreta puedes realizar, desde tu vida cotidiana o entorno académico, para reconocer y prevenir los efectos del estrés crónico en tu bienestar y en el de las personas que te rodean?",
               multiline: true,
             },
           ],
