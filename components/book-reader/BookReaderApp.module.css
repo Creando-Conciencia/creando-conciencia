@@ -23,6 +23,14 @@
   column-width: var(--column-width);
   column-gap: 2px;
   column-rule: 1px solid rgb(229 231 235 / 0.3);
+  
+  /* Hide scrollbar but keep scroll functionality for programmatic control */
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE/Edge */
+}
+
+.columnContainer::-webkit-scrollbar {
+  display: none; /* Chrome/Safari/Opera */
 }
 
 .proseArticle {
@@ -43,29 +51,29 @@
 .proseArticle h5,
 .proseArticle h6 {
   break-after: avoid;
-  margin: 1.5em 0 0.75em 0;
+  margin: 0.5em 0 0.35em 0;
   font-weight: 600;
   color: rgb(17 24 39); /* text-gray-900 */
 }
 
 .proseArticle h1 {
-  font-size: 1.75em;
-  line-height: 1.2;
+  font-size: 1.4em;
+  line-height: 1.1;
 }
 
 .proseArticle h2 {
-  font-size: 1.5em;
-  line-height: 1.25;
+  font-size: 1.25em;
+  line-height: 1.15;
 }
 
 .proseArticle h3 {
-  font-size: 1.25em;
-  line-height: 1.3;
+  font-size: 1.15em;
+  line-height: 1.2;
 }
 
 .proseArticle h4 {
-  font-size: 1.1em;
-  line-height: 1.35;
+  font-size: 1.08em;
+  line-height: 1.25;
 }
 
 .proseArticle.dark h1,

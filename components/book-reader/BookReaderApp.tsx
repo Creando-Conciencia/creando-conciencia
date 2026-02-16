@@ -178,6 +178,25 @@ useEffect(() => {
     return () => window.removeEventListener("resize", onResize);
   }, [recomputeCols]);
 
+  // Prevent user from manually scrolling - only allow programmatic navigation
+  useEffect(() => {
+    const el = colRef.current;
+    if (!el || page?.type !== "text") return;
+
+    const preventScroll = (e: Event) => {
+      e.preventDefault();
+    };
+
+    // Use passive: false to allow preventDefault
+    el.addEventListener("wheel", preventScroll, { passive: false });
+    el.addEventListener("touchmove", preventScroll, { passive: false });
+    
+    return () => {
+      el.removeEventListener("wheel", preventScroll);
+      el.removeEventListener("touchmove", preventScroll);
+    };
+  }, [page]);
+
   // Keep scroll in sync with the current column index
   useEffect(() => {
     const el = colRef.current;
@@ -714,7 +733,7 @@ useEffect(() => {
               {page?.type === "text" && (
                 <div
                   ref={colRef}
-                  className={`h-full w-full overflow-x-auto overflow-y-hidden scrollbar-hide ${styles.columnContainer}`}
+                  className={`h-full w-full overflow-x-scroll overflow-y-hidden scrollbar-hide ${styles.columnContainer}`}
                   style={
                     {
                       "--column-width": colWidthPx
@@ -781,7 +800,10 @@ useEffect(() => {
                               lineHeight: 1.2,
                               textShadow:
                                 "0 4px 20px rgba(0,0,0,0.5), 0 2px 10px rgba(0,0,0,0.3)",
+                              hyphens: "auto",
+                              wordBreak: "break-word",
                             }}
+                            lang="es"
                           >
                             {page.title}
                           </h1>
@@ -829,9 +851,12 @@ useEffect(() => {
                       <h1
                         className="font-bold text-gray-900 dark:text-gray-100"
                         style={{
-                          fontSize: `${Math.min(Math.max(settings.fontSize * 2.2, 32), 48)}px`,
-                          lineHeight: settings.lineHeight,
+                          fontSize: "clamp(32px, 6vw, 48px)",
+                          lineHeight: 1.2,
+                          hyphens: "auto",
+                          wordBreak: "break-word",
                         }}
+                        lang="es"
                       >
                         {page.title}
                       </h1>
@@ -870,7 +895,7 @@ useEffect(() => {
                                 </div>
                                 <div
                                   className="font-semibold text-gray-900 dark:text-gray-100 group-hover:text-indigo-600 dark:group-hover:text-indigo-400 transition-colors"
-                                  style={{ fontSize: `${settings.fontSize}px` }}
+                                  style={{ fontSize: "16px" }}
                                 >
                                   {ch.title}
                                 </div>
@@ -901,7 +926,12 @@ useEffect(() => {
                     >
                       Semblanza del Autor
                     </h1>
-                    <p className="text-sm text-indigo-700 dark:text-indigo-300">
+                    <p
+                      className="text-indigo-700 dark:text-indigo-300"
+                      style={{
+                        fontSize: `${Math.max(settings.fontSize * 0.85, 14)}px`,
+                      }}
+                    >
                       {page.authorName}
                     </p>
                   </div>
@@ -951,9 +981,12 @@ useEffect(() => {
                       <h1
                         className="font-bold text-gray-900 dark:text-gray-100"
                         style={{
-                          fontSize: `${Math.min(Math.max(settings.fontSize * 2.2, 32), 48)}px`,
-                          lineHeight: settings.lineHeight,
+                          fontSize: "clamp(32px, 6vw, 48px)",
+                          lineHeight: 1.2,
+                          hyphens: "auto",
+                          wordBreak: "break-word",
                         }}
+                        lang="es"
                       >
                         {page.title}
                       </h1>
@@ -980,8 +1013,8 @@ useEffect(() => {
                             <h3
                               className="font-bold text-gray-900 dark:text-gray-100 mb-2"
                               style={{
-                                fontSize: `${Math.min(Math.max(settings.fontSize * 1.2, 20), 28)}px`,
-                                lineHeight: settings.lineHeight,
+                                fontSize: "clamp(20px, 4vw, 24px)",
+                                lineHeight: 1.3,
                               }}
                             >
                               {author.name}
@@ -990,7 +1023,7 @@ useEffect(() => {
                               <div
                                 className="text-purple-600 dark:text-purple-400 font-medium mb-3"
                                 style={{
-                                  fontSize: `${settings.fontSize * 0.9}px`,
+                                  fontSize: "15px",
                                 }}
                               >
                                 {author.role}
@@ -1000,7 +1033,7 @@ useEffect(() => {
                               <div
                                 className="text-gray-600 dark:text-gray-400 mb-4"
                                 style={{
-                                  fontSize: `${settings.fontSize * 0.85}px`,
+                                  fontSize: "14px",
                                 }}
                               >
                                 {author.affiliation}
@@ -1010,8 +1043,8 @@ useEffect(() => {
                               <div
                                 className="text-gray-700 dark:text-gray-300 text-left"
                                 style={{
-                                  fontSize: `${settings.fontSize * 0.9}px`,
-                                  lineHeight: settings.lineHeight,
+                                  fontSize: "15px",
+                                  lineHeight: 1.6,
                                 }}
                                 dangerouslySetInnerHTML={{ __html: author.bio }}
                               />
@@ -1031,9 +1064,12 @@ useEffect(() => {
                       <h1
                         className="font-bold text-gray-900 dark:text-gray-100"
                         style={{
-                          fontSize: `${Math.min(Math.max(settings.fontSize * 2.2, 32), 48)}px`,
-                          lineHeight: settings.lineHeight,
+                          fontSize: "clamp(32px, 6vw, 48px)",
+                          lineHeight: 1.2,
+                          hyphens: "auto",
+                          wordBreak: "break-word",
                         }}
+                        lang="es"
                       >
                         {page.title}
                       </h1>
@@ -1043,14 +1079,9 @@ useEffect(() => {
                     <div
                       className="prose prose-lg dark:prose-invert max-w-none"
                       style={{
-                        fontSize: `${settings.fontSize}px`,
-                        lineHeight: settings.lineHeight,
-                        fontFamily:
-                          settings.fontFamily === "serif"
-                            ? "Georgia, serif"
-                            : settings.fontFamily === "sans"
-                              ? "system-ui, sans-serif"
-                              : "monospace",
+                        fontSize: "17px",
+                        lineHeight: 1.7,
+                        fontFamily: "Georgia, serif",
                       }}
                     >
                       <div
@@ -1150,10 +1181,19 @@ useEffect(() => {
                                         ? "Audio"
                                         : "Contenido"}
                           </div>
-                          <div className="text-xs mt-1">
-                            {page?.type === "text" && textColCount > 1
-                              ? `Página ${pageIdx + 1} · Sección ${Math.min(textColIndex + 1, textColCount)} de ${textColCount}`
-                              : `Página ${pageIdx + 1} de ${chapter.pages.length}`}
+                          <div className="text-xs mt-0 min-[400px]:mt-1">
+                            {page?.type === "text" && textColCount > 1 ? (
+                              <>
+                                <span className="hidden min-[400px]:inline">
+                                  Página {pageIdx + 1} · Sección {Math.min(textColIndex + 1, textColCount)} de {textColCount}
+                                </span>
+                                <span className="inline min-[400px]:hidden">
+                                  Página {pageIdx + 1} ({Math.min(textColIndex + 1, textColCount)}/{textColCount})
+                                </span>
+                              </>
+                            ) : (
+                              `Página ${pageIdx + 1} de ${chapter.pages.length}`
+                            )}
                           </div>
                         </>
                       )}
