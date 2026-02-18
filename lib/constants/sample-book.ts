@@ -11,6 +11,11 @@ export const sampleBook: Book = {
     title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
     isBookCover: true,
   },
+  cover: {
+    type: "cover",
+    title: "<h1><strong>https://creando-conciencia.vercel.app/</strong></h1>",
+    isBookCover: true,
+  },
   {
   type: "text",
     content: `<h1><strong>https://creando-conciencia.vercel.app/</strong></h1>
