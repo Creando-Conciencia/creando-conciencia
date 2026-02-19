@@ -788,36 +788,19 @@ useEffect(() => {
               {page?.type === "cover" && (
                 <>
                   {page.isBookCover ? (
-                    // Main book cover with animated SVG background
+                    // Main book cover with image background only
                     <div className="h-full w-full relative overflow-hidden">
                       <BookCoverBackground />
-                      <div className="absolute inset-0 flex items-center justify-center bg-black/10 dark:bg-black/30 backdrop-blur-[1px] overflow-y-auto">
-                        <div className="text-center px-4 sm:px-8 py-20 sm:py-8 max-w-4xl z-10 w-full min-h-full flex flex-col justify-center">
-                          <h1
-                            className="font-bold text-white drop-shadow-2xl leading-tight mb-4 sm:mb-6"
-                            style={{
-                              fontSize: `clamp(36px, 9vw, 72px)`,
-                              lineHeight: 1.2,
-                              textShadow:
-                                "0 4px 20px rgba(0,0,0,0.5), 0 2px 10px rgba(0,0,0,0.3)",
-                              hyphens: "auto",
-                              wordBreak: "break-word",
-                            }}
-                            lang="es"
-                          >
-                            {page.title}
-                          </h1>
-                          <div className="flex items-center justify-center gap-3 sm:gap-4 mt-4 sm:mt-8">
-                            <div className="h-1 w-12 sm:w-16 bg-gradient-to-r from-transparent via-white to-transparent opacity-70 rounded-full"></div>
-                            <div className="h-2 w-2 bg-white rounded-full opacity-70"></div>
-                            <div className="h-1 w-12 sm:w-16 bg-gradient-to-r from-transparent via-white to-transparent opacity-70 rounded-full"></div>
-                          </div>
-                          <div className="mt-4 sm:mt-8 text-white/90 text-base sm:text-lg font-medium drop-shadow-lg">
-                            {book.author}
-                          </div>
-                          <div className="mt-2 text-white/80 text-sm sm:text-base drop-shadow-lg">
-                            {book.year}
-                          </div>
+                      <div className="absolute inset-0 flex items-center justify-center p-2 sm:p-4 md:p-6 lg:p-8">
+                        <div className="relative h-full w-full">
+                          <Image
+                            src="/PORTADA_LIBRO_CIENCIA01.png"
+                            alt={book.title}
+                            fill
+                            priority
+                            sizes="100vw"
+                            className="object-contain"
+                          />
                         </div>
                       </div>
                     </div>

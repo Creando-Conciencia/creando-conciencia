@@ -3,24 +3,14 @@ import { Book, PageContent } from "@/lib/types/book";
 // Sample book with per-chapter chatbot + form (5 questions)
 export const sampleBook: Book = {
   id: "creando-conciencia-ujat-2025",
-  title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
+  title: "UJAT 2025: Transformando vidas y sociedades a través de la ciencia",
   author: "Dr. José Ramón Laines Canepa",
   year: 2025,
   cover: {
     type: "cover",
-    title: "UJAT 2025: Transformando vidas y sociedad a través de la ciencia",
+    title: "UJAT 2025: Transformando vidas y sociedades a través de la ciencia",
     isBookCover: true,
   },
-  cover: {
-    type: "cover",
-    title: "<h1><strong>https://creando-conciencia.vercel.app/</strong></h1>",
-    isBookCover: true,
-  },
-  {
-  type: "text",
-    content: `<h1><strong>https://creando-conciencia.vercel.app/</strong></h1>
-    `,
-    } as PageContent,
   authors: {
     type: "authors",
     title: "Autores y Coautores",
