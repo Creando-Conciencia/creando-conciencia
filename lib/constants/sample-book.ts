@@ -125,7 +125,7 @@ export const sampleBook: Book = {
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
           En el umbral del año 2025, la Universidad Juárez Autónoma de Tabasco (UJAT) se consolida como un actor transformador en el escenario científico, social y educativo de México.
           Bajo el liderazgo del rector Guillermo Narváez Osorio, esta casa de estudios ha orientado sus esfuerzos hacia una visión de ciencia con sentido social, donde la formación académica se entrelaza con la solución de problemas reales.
-          En esta conversación inspiradora en el programa <strong>"Creando Conciencia"</strong>, se nos revela cómo la UJAT, a través de investigación, innovación y compromiso social, busca no solo formar profesionales, sino forjar agentes de cambio capaces de transformar su entorno.
+          En esta conversación inspiradora en el programa <strong>"Creando ConCiencia"</strong>, se nos revela cómo la UJAT, a través de investigación, innovación y compromiso social, busca no solo formar profesionales, sino forjar agentes de cambio capaces de transformar su entorno.
           Este capítulo es un testimonio de esa misión.`,
         } as PageContent,
         {
@@ -137,7 +137,7 @@ export const sampleBook: Book = {
           
           Narváez inició reconociendo los grandes retos del presente: consolidar la infraestructura científica, reforzar los laboratorios y extender el impacto de la universidad hacia el campo y la industria local.
           Pero el cambio no solo se mide en edificios. Lo esencial es el estudiante.
-          Por ello, destacó la importancia de los programas como el verano de la ciencia y “Mujeres en la Ciencia”, acompañados de una estrategia: el ejemplo.</br>
+          Por ello, destacó la importancia de los programas como el verano de la ciencia y <strong>“Mujeres en la Ciencia”</strong>, acompañados de una estrategia: el ejemplo.</br>
           
           A través del testimonio de jóvenes que ya han vivido experiencias de intercambio, el rector apuesta por inspirar a otros: “Sí se puede. Tenemos el talento”.
           Así lo demuestran proyectos emblemáticos con productores de chile en Balancán y la Asociación de Apicultores, donde la ciencia de la UJAT ya transforma comunidades.</br>
