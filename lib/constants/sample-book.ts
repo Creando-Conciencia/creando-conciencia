@@ -43,7 +43,7 @@ export const sampleBook: Book = {
         name: "MC. Sergio Vázquez Noriega",
         role: "Productor del Programa Creando Con Ciencia: La ciencia que transforma",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
-        bio: `<p>Maestro en Ciencias de la Comunicación. Productor del Programa Creando Con Ciencia.</p>`,
+        bio: `<p>Maestro en Ciencias de la Comunicación. Productor del Programa Creando ConCiencia.</p>`,
       },
       {
         name: "Lic. Yara García Robles",
