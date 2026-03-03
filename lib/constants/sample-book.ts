@@ -188,13 +188,13 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   inspira un cambio. Aquí, la ciencia no duerme. Se transforma. Creando conciencia, la
   ciencia que transforma</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Muy buenas tardes. Tengan todos ustedes.
+  <p><strong>DR. José Ramón Laines Canepa:</strong> Muy buenas tardes. Tengan todos ustedes.
   Estamos en el 96.1 de FM por Radio UJAT, la voz universitaria. Bienvenidos a "Creando
   Conciencia", el programa que te conecta con el fascinante mundo de la ciencia, la
   tecnología y el medio ambiente para construir un futuro más sustentable. Soy el doctor
   José Ramón Laines Canepa y me acompaña en cabina.</p></br>
 
-  <p><strong>DR. JOSÉ ROBERTO HERNÁNDEZ BARAJAS:</strong> Roberto Hernandez Barajas, buenas tardes,
+  <p><strong>DR. José Roberto Hernández Barajas:</strong> Roberto Hernandez Barajas, buenas tardes,
   Ramón, muy buenas tardes a toda la audiencia de Radio UJAT.</p></br>
 
   <p><strong>DR. JRLC:</strong> Gracias por estar con nosotros para que juntos
@@ -209,7 +209,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   de Tabasco. Al licenciado Guillermo Narváez Osorio, quien es rector. Bienvenido,
   rector, buenas tardes, gracias por estar con nosotros.</p></br>
 
-  <p><strong>RECTOR LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Buenas tardes, buenas tardes a ambos. Es un
+  <p><strong>RECTOR LIC. Guillermo Narváez Osorio:</strong> Buenas tardes, buenas tardes a ambos. Es un
   honor estar aquí con ustedes compartiendo.</p></br>
 
   <p><strong>DR. JRLC:</strong> Bien, vamos a empezar, le voy a comentar una
@@ -235,8 +235,8 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Tribunal Superior de Justicia del Estado de Tabasco en el periodo 2002-2006 y fue
   secretario de educación en el estado de Tabasco en el año 2019.</p></br>
 
-  <p>Le recuerdo el título del tema, “UJAT 2025: Transformando vidas y sociedad a través de
-  la ciencia”. Rector, nuevamente, bienvenido, calentamos motores, vamos a empezar
+  <p>Le recuerdo el título del tema, <strong>“UJAT 2025: Transformando vidas y sociedad a través de
+  la ciencia”</strong>. Rector, nuevamente, bienvenido, calentamos motores, vamos a empezar
   con este primer bloque y nos gustaría saber, rector, sabemos que la Universidad Juárez
   es la universidad más importante, una de las más importantes del sureste mexicano.
   ¿Cuáles son de sus principales retos que enfrenta la UJAT en este 2025 que estamos
@@ -279,14 +279,14 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   ir a un corte promocional y enseguida regresamos en "Creando Conciencia, la ciencia
   que transforma".</p></br>
 
-  <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
+  <p><strong>LOCUTOR:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
   <p><strong>DR. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma". A continuación, vamos a presentar una cápsula informativa que fue
   preparada por Kenia Leticia Utrera Cabrera.</p></br>
 
-  <p><strong>KENIA LETICIA UTRERA CABRERA:</strong> ¿Cómo se transforma una universidad en un motor
+  <p><strong>Kenia Leticia Utrera Cabrera:</strong> ¿Cómo se transforma una universidad en un motor
   de cambio para la sociedad? Hoy en día, la Universidad Juárez Autónoma de Tabasco,
   UJAT, es un referente de excelencia académica, científica y social. Con la visión de su
   rector, el licenciado Guillermo Narváez Osorio, la UJAT continúa posicionándose como
@@ -321,7 +321,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   el mundo desde nuestra universidad. Soy Kenia Utrera, le mando un saludo al rector y
   nos escuchamos en la próxima emisión.</p></br>
 
-  <p><strong>DR. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>DR. JRHB:</strong> Regresamos a "Creando ConCiencia, la ciencia
   que transforma". Licenciado Narváez, es un tema muy importante para la sociedad el
   impacto social que tiene la ciencia que se desarrolla en la universidad. Al respecto, nos
   gustaría saber qué significa para usted y para la universidad generar investigaciones
@@ -397,7 +397,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   licenciado Narváez, por cuestiones de tiempo, bueno, tenemos que ir a un corte
   promocional y enseguida regresamos a "Creando Conciencia".</p></br>
 
-  <p><strong>LOCUTOR 1:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
+  <p><strong>LOCUTOR 1:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
   <p><strong>DR. JRLC:</strong> Regresamos a "Creando Conciencia, la ciencia
@@ -536,14 +536,14 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   <p><strong>DR. JRHB:</strong> Le agradezco mucho la respuesta, señor
   rector, vamos a un corte promocional y enseguida regresamos a "Creando Conciencia".</p></br>
 
-  <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
+  <p><strong>LOCUTOR:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
   <p><strong>DR. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma". A continuación, vamos a escuchar "Vox Populi", la voz del pueblo,
   preparada por el doctor José Aurelio Sosa Olivia.</p></br>
 
-  <p><strong>DR. JOSÉ AURELIO SOSA OLIVIER:</strong> En más de 66 años de antigüedad, ha sido un motor de
+  <p><strong>DR. José Aurelio Sosa Olivier:</strong> En más de 66 años de antigüedad, ha sido un motor de
   desarrollo de la sociedad tabasqueña, tanto por su oferta educativa a nivel de
   licenciaturas y posgrados, en servicios educativos profesionales como cursos de
   idiomas, deportivos, culturales, odontológicos, entre otros. El nivel de los
@@ -569,7 +569,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   <p><strong>ENTREVISTADO 3:</strong> Sí, conozco personas que han estudiado allá en la universidad. Es
   una buena universidad, las personas que he conocido, pues, no todas, pero tienen.</p></br>
 
-  <p><strong>JOSÉ AURELIO SOSA OLIVIA:</strong> Abajo, ¿conoces a alguien o has participado en alguna
+  <p><strong>DR. JASO:</strong> Abajo, ¿conoces a alguien o has participado en alguna
   de las actividades académicas o profesionales que ofrece la UJAT?</p></br>
 
   <p><strong>ENTREVISTADO 2:</strong> Gracias a las oportunidades que ofrece la Universidad Juárez
@@ -585,7 +585,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   <p><strong>ENTREVISTADO 4:</strong> De hecho, yo estudié un tiempo los sábados en escuelas de
   dirigidos por la Universidad de.</p></br>
 
-  <p><strong>JOSÉ AURELIO SOSA OLIVIA:</strong> ¿Qué importancia consideras que tiene la UJAT en el
+  <p><strong>DR. JASO:</strong> ¿Qué importancia consideras que tiene la UJAT en el
   desarrollo de Tabasco?</p></br>
 
   <p><strong>ENTREVISTADO 1:</strong> Ok, en base a varias impresiones que hacen y ha ayudado mucho
@@ -604,19 +604,19 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
 
   <p><strong>ENTREVISTADO 4:</strong> Promover un mejor futuro para las demás generaciones.</p></br>
 
-  <p><strong>JOSÉ AURELIO SOSA OLIVIA:</strong> ¿Conoces el lema de la UJAT?</p></br>
+  <p><strong>DR. JASO:</strong> ¿Conoces el lema de la UJAT?</p></br>
 
   <p><strong>ENTREVISTADO 2:</strong> “En la duda, acciona, en la fe”.</p></br>
 
   <p><strong>ENTREVISTADO 3:</strong> Así como no, es ese de “Estudio en la duda, acción en la fe”.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>DR. JRHB:</strong> Regresamos a "Creando ConCiencia, la ciencia
   que transforma". Señor rector, eh, es muy importante, eh, saber que usted puede emitir
   como mensaje para los estudiantes, los profesores e investigadores, eh, que permita
   inspirarlos o motivarlos a construir dentro de la universidad, investigación de alta
   calidad para este nuevo año 2025 y para el futuro.</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Sí, gracias. Mira, yo soy un convencido de que
+  <p><strong>RECTOR LIC. GNO:</strong> Sí, gracias. Mira, yo soy un convencido de que
   tenemos talento y muy buen talento. No solamente el sector académico con nuestros
   investigadores, con docentes que han obtenido reconocimientos nacionales e
   internacionales. Te podría decir, por ejemplo, el que lo obtuvo, eh, el maestro Bernal,
@@ -650,14 +650,14 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   concreta y estos 3 años son los años en los que queremos consolidar todos nuestros
   proyectos.</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong>  Bien, qué interesante. Ya estamos terminando,
+  <p><strong>DR. JRLC:</strong>  Bien, qué interesante. Ya estamos terminando,
   eh, pero tenemos que ir a un corte promocional y enseguida regresamos con "Creando
   Conciencia, la ciencia que transforma".</p></br>
 
   <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Regresamos al cierre de "Creando Conciencia, la
+  <p><strong>DR. JRLC:</strong> Regresamos al cierre de "Creando Conciencia, la
   ciencia que transforma" y qué interesante plática, qué motivadora, plática, qué
   esperanzadora entrevista para todos los que están haciendo investigación en la
   Universidad Juárez Autónoma de Tabasco. Cuando digo todos me refiero a profesores,
@@ -668,7 +668,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   rendir su informe pronto, qué mensaje usted le envía a la sociedad sobre la importancia
   de utilizar la ciencia para transformar vidas y transformar al mundo.</p></br>
 
-  <p><strong>RECTOR LIC. NARVAEZ:</strong> Mira, nada más un pequeño dato adicional de
+  <p><strong>RECTOR LIC. GNO:</strong> Mira, nada más un pequeño dato adicional de
   un proyecto interesante. Yo alguna, hace mucho, hace algún tiempo, fui a al municipio
   de Balancán, específicamente, al río San Pedro, porque firmamos el Balancán. Porque
   firmamos ahí un convenio sobre los manglares del del proyecto que está haciendo el
@@ -710,16 +710,16 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   generaciones que nos van a suceder, les vamos a dejar un terrible dilema, que es en la
   importancia del agua.</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Qué interesante. Quisiéramos seguir platicando,
+  <p><strong>DR. JRLC:</strong> Qué interesante. Quisiéramos seguir platicando,
   pero sabemos que el rector, su tiempo está bastante. Que es corto, no para nosotros
   dimos comentarios muy rápido porque nos estamos yendo.</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> No, pues me ha interesado mucho el mensaje
+  <p><strong>DR. JRHB:</strong> No, pues me ha interesado mucho el mensaje
   del señor rector, referente a que la apertura que tiene su administración para apoyar a
   profesores y estudiantes que sus proyectos no se queden ahí en el olvido, sino que se
   conviertan en proyectos productivos.</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Bien, como todos los miércoles, hoy reafirmamos
+  <p><strong>DR. JRLC:</strong> Bien, como todos los miércoles, hoy reafirmamos
   que la Universidad Juárez Autónoma de Tabasco no solo forma profesionales, sino
   también agentes de cambio que transforman vidas y comunidades. Con cada
   proyecto, con cada joven que decide quedarse y construir aquí su futuro, estamos
@@ -732,7 +732,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   a todos los que nos escuchan cada miércoles. Muchas gracias por estar con nosotros
   en "Creando Conciencia", hasta la próxima.</p></br>
 
-  <p><strong>LOCUTOR:</strong> "Creando Conciencia, la ciencia que transforma". Es una producción de
+  <p><strong>LOCUTOR:</strong> "Creando ConCiencia, la ciencia que transforma". Es una producción de
   Radio UJAT, la voz universitaria. “Legado UJAT, estudio en la duda, acción en la fe”.</p></br>`,
         } as PageContent,
         {
