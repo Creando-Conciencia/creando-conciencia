@@ -96,7 +96,7 @@ export const sampleBook: Book = {
   },
   chapters: [
     {
-      title: "Lic. Guillermo Narvaez Osorio, Rector de la UJAT",
+      title: "Lic. Guillermo Narváez Osorio, Rector de la UJAT",
       pages: [
         {
           type: "cover",
@@ -108,7 +108,7 @@ export const sampleBook: Book = {
           authorName: "Lic. Guillermo Narváez Osorio",
           image: "/lic_guillermo_narvaez.jpeg",
           content: `
-            <p>El Lic. Guillermo Narvaez Osorio fue electo para un segundo período como rector de la Universidad Juárez Autónoma de Tabasco el 22 de enero de 2024, para ejercer el cargo hasta enero del año 2028; tras una primera gestión que comprendió desde enero del año 2020 hasta enero del 2024.</p>
+            <p>El Lic. Guillermo Narváez Osorio fue electo para un segundo período como rector de la Universidad Juárez Autónoma de Tabasco el 22 de enero de 2024, para ejercer el cargo hasta enero del año 2028; tras una primera gestión que comprendió desde enero del año 2020 hasta enero del 2024.</p>
             <br>
             <p>Cursó sus estudios profesionales en la UJAT, titulándose el 30 de enero de 1979. Posteriormente, completó cursos de capacitación, actualización y diplomados en materias como: derecho notarial y derecho administrativo.</p>
             <br>
@@ -192,7 +192,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Estamos en el 96.1 de FM por Radio UJAT, la voz universitaria. Bienvenidos a "Creando
   Conciencia", el programa que te conecta con el fascinante mundo de la ciencia, la
   tecnología y el medio ambiente para construir un futuro más sustentable. Soy el doctor
-  JOSÉ RAMÓN LAINES CANEPA y me acompaña en cabina.</p></br>
+  José Ramón Laines Canepa y me acompaña en cabina.</p></br>
 
   <p><strong>DR. JOSÉ ROBERTO HERNANDEZ BARAJAS:</strong> Roberto Hernandez Barajas, buenas tardes,
   Ramón, muy buenas tardes a toda la audiencia de Radio UJAT.</p></br>
@@ -209,7 +209,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   de Tabasco. Al licenciado Guillermo Narváez Osorio, quien es rector. Bienvenido,
   rector, buenas tardes, gracias por estar con nosotros.</p></br>
 
-  <p><strong>RECTOR LIC. GUILLERMO NARVAEZ OSORIO:</strong> Buenas tardes, buenas tardes a ambos. Es un
+  <p><strong>RECTOR LIC. GUILLERMO NARVÁEZ OSORIO:</strong> Buenas tardes, buenas tardes a ambos. Es un
   honor estar aquí con ustedes compartiendo.</p></br>
 
   <p><strong>DR. JRLC:</strong> Bien, vamos a empezar, le voy a comentar una
@@ -400,7 +400,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   <p><strong>LOCUTOR 1:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>DR. JRLC:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma" y bien, ¿qué plática tan interesante estamos teniendo con el rector de
   la universidad Juárez Autónoma de Tabasco? Hemos observado que usted ha, se ha
   comprometido inclusive públicamente a fomentar el talento joven y en el 2024, pues
@@ -453,7 +453,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JOSÉ RAMÓN LAINES CANEPA:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>DR. JRLC:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma" y bien, qué plática tan interesante estamos teniendo, conociendo, eh,
   de viva voz del rector, cómo ve la investigación, cómo ve el crecimiento de la ciencia en
   la universidad y bueno, también sabemos la Universidad Juárez Autónoma de Tabasco
@@ -543,7 +543,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   que transforma". A continuación, vamos a escuchar "Vox Populi", la voz del pueblo,
   preparada por el doctor José Aurelio Sosa Olivia.</p></br>
 
-  <p><strong>JOSÉ AURELIO SOSA OLIVIA:</strong> En más de 66 años de antigüedad, ha sido un motor de
+  <p><strong>DR. JOSÉ AURELIO SOSA OLIVIER:</strong> En más de 66 años de antigüedad, ha sido un motor de
   desarrollo de la sociedad tabasqueña, tanto por su oferta educativa a nivel de
   licenciaturas y posgrados, en servicios educativos profesionales como cursos de
   idiomas, deportivos, culturales, odontológicos, entre otros. El nivel de los
