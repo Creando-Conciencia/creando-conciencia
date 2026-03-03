@@ -194,7 +194,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   tecnología y el medio ambiente para construir un futuro más sustentable. Soy el doctor
   José Ramón Laines Canepa y me acompaña en cabina.</p></br>
 
-  <p><strong>DR. JOSÉ ROBERTO HERNANDEZ BARAJAS:</strong> Roberto Hernandez Barajas, buenas tardes,
+  <p><strong>DR. JOSÉ ROBERTO HERNÁNDEZ BARAJAS:</strong> Roberto Hernandez Barajas, buenas tardes,
   Ramón, muy buenas tardes a toda la audiencia de Radio UJAT.</p></br>
 
   <p><strong>DR. JRLC:</strong> Gracias por estar con nosotros para que juntos
@@ -282,7 +282,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JOSÉ ROBERTO HERNÁNDEZ BARAJAS:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>DR. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma". A continuación, vamos a presentar una cápsula informativa que fue
   preparada por Kenia Leticia Utrera Cabrera.</p></br>
 
@@ -539,7 +539,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. ROBERTO HERNANDEZ BARAJAS:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>DR. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma". A continuación, vamos a escuchar "Vox Populi", la voz del pueblo,
   preparada por el doctor José Aurelio Sosa Olivia.</p></br>
 
