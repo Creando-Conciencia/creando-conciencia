@@ -23,7 +23,7 @@ export const sampleBook: Book = {
       },
       {
         name: "Dr. José Roberto Hernández Barajas",
-        role: "Coautor y Conductor",
+        role: "Coautor",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
         bio: `<p>Doctor en Química. Investigador y divulgador científico comprometido con la comunicación efectiva de la ciencia. Co-conductor del programa "Creando ConCiencia", especializado en hacer accesible el conocimiento científico a la comunidad.</p>`,
       },
