@@ -58,7 +58,7 @@ export const sampleBook: Book = {
         bio: `<p>Maestro en Ciencias de la Computación. Editor Técnico del libro.</p>`,
       },
       {
-        name: "MIA. Jesús Manuel Carrera Velueta",
+        name: "M.I.A. Jesús Manuel Carrera Velueta",
         role: "Coautor - Coeditor Técnico",
         affiliation: "Universidad Juárez Autónoma de Tabasco",
         bio: `<p>Maestro en Inteligencia Artificial. Coeditor Técnico del libro.</p>`,
