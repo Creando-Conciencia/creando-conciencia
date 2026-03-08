@@ -1,5 +1,5 @@
 "use client";
-import { LegalPage } from "@/components/LegalPage";
+
 import React, { useCallback, useEffect, useRef, useState } from "react";
 import Image from "next/image";
 import { ChevronLeft, ChevronRight, Menu, Settings } from "lucide-react";
