@@ -185,20 +185,20 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
           type: "audio",
           url: "/entrevista-1.mp3",
           htmlContent: `
-  <p><strong>LOCUTOR:</strong> Bienvenidos, donde cada descubrimiento abre una puerta, cada idea
+  <p><strong>Locutor:</strong> Bienvenidos, donde cada descubrimiento abre una puerta, cada idea
   inspira un cambio. Aquí, la ciencia no duerme. Se transforma. Creando conciencia, la
   ciencia que transforma</p></br>
 
-  <p><strong>DR. José Ramón Laines Canepa:</strong> Muy buenas tardes. Tengan todos ustedes.
+  <p><strong>Dr. José Ramón Laines Canepa:</strong> Muy buenas tardes. Tengan todos ustedes.
   Estamos en el 96.1 de FM por Radio UJAT, la voz universitaria. Bienvenidos a "Creando
   Conciencia", el programa que te conecta con el fascinante mundo de la ciencia, la
   tecnología y el medio ambiente para construir un futuro más sustentable. Soy el doctor
   José Ramón Laines Canepa y me acompaña en cabina.</p></br>
 
-  <p><strong>DR. José Roberto Hernández Barajas:</strong> Roberto Hernandez Barajas, buenas tardes,
+  <p><strong>Dr. José Roberto Hernández Barajas:</strong> Roberto Hernandez Barajas, buenas tardes,
   Ramón, muy buenas tardes a toda la audiencia de Radio UJAT.</p></br>
 
-  <p><strong>DR. JRLC:</strong> Gracias por estar con nosotros para que juntos
+  <p><strong>Dr. JRLC:</strong> Gracias por estar con nosotros para que juntos
   conozcamos lo más relevante de la ciencia, pensar de manera crítica y actuar de forma
   consciente en el cuidado de nuestro planeta. Así que prepárate, recuerda puedes
   interactuar con nosotros a través de nuestras redes sociales y ser parte activa de esta
@@ -210,10 +210,10 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   de Tabasco. Al licenciado Guillermo Narváez Osorio, quien es rector. Bienvenido,
   rector, buenas tardes, gracias por estar con nosotros.</p></br>
 
-  <p><strong>RECTOR LIC. Guillermo Narváez Osorio:</strong> Buenas tardes, buenas tardes a ambos. Es un
+  <p><strong>Rector Lic. Guillermo Narváez Osorio:</strong> Buenas tardes, buenas tardes a ambos. Es un
   honor estar aquí con ustedes compartiendo.</p></br>
 
-  <p><strong>DR. JRLC:</strong> Bien, vamos a empezar, le voy a comentar una
+  <p><strong>Dr. JRLC:</strong> Bien, vamos a empezar, le voy a comentar una
   breve reseña de nuestro invitado. Nos costó mucho trabajo hacerla, tiene un amplio
   currículum. El licenciado Guillermo Narváez Osorio fue electo para un segundo
   periodo como rector de la Universidad Juárez Autónoma de Tabasco el 22 de enero de
@@ -245,20 +245,20 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   ¿Qué retos enfrentamos para seguir siendo líder en investigación científica en la
   región?</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Bueno, yo creo que lo primero es consolidar
+  <p><strong>Rector Lic. GNO:</strong> Bueno, yo creo que lo primero es consolidar
   parte de lo que se ha venido haciendo en los últimos años y a partir de esa
   consolidación, empujar este año y los años que quedan en la de los proyectos que
   tengan que ver con las áreas de producción, con las áreas que tengan que ver con el
   apoyo hacia el campo y la industria tabasqueña. Y fundamentalmente, todo a partir de
   la reactivación de nuestros principales laboratorios de investigación.</p></br>
 
-  <p><strong>DR. JRLC:</strong> Bien, rector, en la universidad la razón de ser son
+  <p><strong>Dr. JRLC:</strong> Bien, rector, en la universidad la razón de ser son
   los estudiantes. Eso se dice en todos los eventos, en muchos lados y usted ha
   considerado qué estrategias para que más estudiantes participen en programas, por
   ejemplo, en el verano de investigación científica. Ahora, y tenemos programas de
   mujeres, mujeres en la ciencia. ¿Qué estrategia está usted implementando?</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong>  Mira, yo creo que la difusión es muy importante
+  <p><strong>Rector Lic. GNO:</strong>  Mira, yo creo que la difusión es muy importante
   de todos estos eventos que tú correctamente señalas, eh, para que los jóvenes vayan
   adquiriendo mayor experiencia y vayan conociendo otras visiones de otras
   universidades. No solamente del sureste o del país, sino a nivel Latinoamérica y a nivel
@@ -275,15 +275,15 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   tenemos el talento, sí tenemos la capacidad, sí tenemos los instrumentos para poder
   realizar este tipo de actividades.</p></br>
 
-  <p><strong>DR. JRLC:</strong> Qué interesante entrevista estamos teniendo con
+  <p><strong>Dr. JRLC:</strong> Qué interesante entrevista estamos teniendo con
   nuestra máxima autoridad, el licenciado Guillermo Narváez Osorio. Pero tenemos que
   ir a un corte promocional y enseguida regresamos en "Creando Conciencia, la ciencia
   que transforma".</p></br>
 
-  <p><strong>LOCUTOR:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
+  <p><strong>Locutor:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>Dr. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma". A continuación, vamos a presentar una cápsula informativa que fue
   preparada por Kenia Leticia Utrera Cabrera.</p></br>
 
@@ -296,7 +296,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
 
   <p>La UJAT enfrenta grandes retos este año 2025, desde aumentar la participación en
   proyectos con impacto global hasta fomentar la equidad de género en programas
-  como “Mujeres en la Ciencia”. De acuerdo con el rector, involucrar a los estudiantes en
+  como <strong>“Mujeres en la Ciencia”</strong>. De acuerdo con el rector, involucrar a los estudiantes en
   la investigación no solo enriquece su formación, sino que también crea soluciones
   reales para problemas locales y globales. Esto se refleja en los más de 200 alumnos
   que participaron en programas de intercambio en 2024, quienes regresaron con
@@ -322,13 +322,13 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   el mundo desde nuestra universidad. Soy Kenia Utrera, le mando un saludo al rector y
   nos escuchamos en la próxima emisión.</p></br>
 
-  <p><strong>DR. JRHB:</strong> Regresamos a "Creando ConCiencia, la ciencia
+  <p><strong>Dr. JRHB:</strong> Regresamos a "Creando ConCiencia, la ciencia
   que transforma". Licenciado Narváez, es un tema muy importante para la sociedad el
   impacto social que tiene la ciencia que se desarrolla en la universidad. Al respecto, nos
   gustaría saber qué significa para usted y para la universidad generar investigaciones
   con sentido social y cómo esto beneficia a la comunidad.</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Claro, mira, eh, si partimos del hecho de que
+  <p><strong>Rector Lic. GNO:</strong> Claro, mira, eh, si partimos del hecho de que
   somos la máxima Casa de Estudios, si partimos del hecho de que somos generadores
   de conocimiento y partimos también del hecho de que, eh, traemos una serie de
   rezagos históricos en cuanto a la ciencia, en cuanto a la difusión de las ciencias, en
@@ -379,12 +379,12 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   en conocimientos para que ellos puedan, eh, tener mejores posibilidades de
   desarrollo.</p></br>
 
-  <p><strong>DR. JRHB:</strong> Y justo respecto, licenciado Narváez, ¿cómo
+  <p><strong>Dr. JRHB:</strong> Y justo respecto, licenciado Narváez, ¿cómo
   podemos motivar que tanto estudiantes como profesores precisamente participen en
   el desarrollo de este tipo de proyectos encaminados a resolver problemas locales y
   globales?</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong>  Sí, ahí hay que, ahí, se tiene que trabajar mucho
+  <p><strong>Rector Lic. GNO:</strong>  Sí, ahí hay que, ahí, se tiene que trabajar mucho
   con crear sentidos de pertenencia, con crear, trabajar mucho en lo que se llama
   conciencia social, eh, que los, eh, los maestros entiendan exactamente cuál es el
   papel que les toca jugar, que si hoy somos profesionistas es porque existió una
@@ -394,14 +394,14 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   mínimo que podemos hacer es ser agradecidos y tratar de apoyar a estas, eh,
   universidades para que puedan realizar esa labor de carácter social.</p></br>
 
-  <p><strong>DR. JRHB:</strong> Le agradecemos mucho sus respuestas,
+  <p><strong>Dr. JRHB:</strong> Le agradecemos mucho sus respuestas,
   licenciado Narváez, por cuestiones de tiempo, bueno, tenemos que ir a un corte
   promocional y enseguida regresamos a "Creando Conciencia".</p></br>
 
-  <p><strong>LOCUTOR 1:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
+  <p><strong>Locutor:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JRLC:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>Dr. JRLC:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma" y bien, ¿qué plática tan interesante estamos teniendo con el rector de
   la universidad Juárez Autónoma de Tabasco? Hemos observado que usted ha, se ha
   comprometido inclusive públicamente a fomentar el talento joven y en el 2024, pues
@@ -409,7 +409,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Rector, ¿qué impacto tiene esto en la vida de los estudiantes y en la universidad?
   ¿Podría platicarnos al respecto?</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Sí, claro. Imagínate jóvenes que están llenos de
+  <p><strong>Rector Lic. GNO:</strong> Sí, claro. Imagínate jóvenes que están llenos de
   emociones, de sentimientos, llenos de esperanzas y que de pronto tienen la
   oportunidad de poder conocer otros ambientes, de poder estar en universidades muy
   importantes, con un prestigio internacional, pues eso les cambia la visión que tienen
@@ -422,7 +422,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Entonces eso es lo que buscamos realmente, que nuestros jóvenes, eh, puedan tener
   una participación y una formación más solidaria y comprometida.</p></br>
 
-  <p><strong>DR. JRLC:</strong> Qué interesante, eh, rector, de estos actores
+  <p><strong>Dr. JRLC:</strong> Qué interesante, eh, rector, de estos actores
   importantes que están interactuando en el devenir de la universidad, pues, eh, van a
   terminar sus carreras, van a terminar su licenciatura, su maestría, su doctorado. Y,
   pues hay necesidades de detener esos talentos y ofrecer oportunidades para que sigan
@@ -432,7 +432,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   que la sociedad de Tabasco sienta eso que se está formando ahí en UJAT y lo que le
   está devolviendo al estado, lo que el estado nos ha dado.</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Sí, mira. Uno de los graves problemas de los
+  <p><strong>Rector Lic. GNO:</strong> Sí, mira. Uno de los graves problemas de los
   países subdesarrollados es la fuga de talento. ¿Por qué los talentos se van? Porque los
   países desarrollados les ofrecen mejores expectativas de desarrollo profesional,
   mejores posibilidades de construir un patrimonio o de poder ir ascendiendo en la
@@ -447,14 +447,14 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   problema, no es un problema que sea propio de la de la Universidad Juárez Autónoma
   de Tabasco. Es un problema que impacta a la sociedad tabasqueña en todo su mundo.</p></br>
 
-  <p><strong>DR. JRLC:</strong> Qué interesante entrevista estamos llevando.
+  <p><strong>Dr. JRLC:</strong> Qué interesante entrevista estamos llevando.
   Pero tenemos que ir a un corte promocional y enseguida regresamos a "Creando
   Conciencia, la ciencia que transforma".</p></br>
 
-  <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
+  <p><strong>Locutor:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JRLC:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>Dr. JRLC:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma" y bien, qué plática tan interesante estamos teniendo, conociendo, eh,
   de viva voz del rector, cómo ve la investigación, cómo ve el crecimiento de la ciencia en
   la universidad y bueno, también sabemos la Universidad Juárez Autónoma de Tabasco
@@ -463,7 +463,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   Estatal de Investigadores pertenece a la UJAT. ¿Cómo es que se mantiene esta
   excelencia científica en la universidad?</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Yo creo que ese es un mérito de los maestros.
+  <p><strong>Rector Lic. GNO:</strong> Yo creo que ese es un mérito de los maestros.
   Es un mérito de todos y cada uno de ellos, quienes se preocupan por su formación, por
   su preparación para estar dentro de este, eh, padrón estatal de investigadores. Y
   nosotros lo que hacemos simplemente es tratar de acercarles las herramientas que
@@ -473,7 +473,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   un mérito que les corresponde a todos y cada uno de los maestros de esta Universidad
   Juárez Autónoma de Tabasco.</p></br>
 
-  <p><strong>DR. JRHB:</strong> Y justamente, eh, licenciado Narváez, en lo
+  <p><strong>Dr. JRHB:</strong> Y justamente, eh, licenciado Narváez, en lo
   pasado nos comentaba que hay 2 proyectos como ejemplo, 2 proyectos. Uno que tiene
   que ver con productores de chile y otro proyecto relacionado con la Asociación de
   Apicultores, que son los que están resolviendo problemas locales. Pero debe haber
@@ -481,7 +481,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   tienen ese potencial de obtener un reconocimiento no solamente local, sino también
   internacional, como el caso de Brasil, Harvard, Japón.</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Sí, claro. Bueno, tenemos jóvenes que son
+  <p><strong>Rector Lic. GNO:</strong> Sí, claro. Bueno, tenemos jóvenes que son
   estandartes de la de la universidad. Durante el año pasado, en el caso de Brasil, es
   este, el profesor Beto, junto con una de sus estudiantes, que obtuvo, ganó el pase
   nacional al evento latinoamericano que se hizo en Recife en Brasil con un proyecto de
@@ -524,27 +524,27 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   con su director y vamos a tratar de poder llevarlo al campo de los hechos, pues,
   convertirlo ya en un proyecto productivo.</p></br>
 
-  <p><strong>DR. JRHB:</strong> Es muy interesante ver que la investigación que
+  <p><strong>Dr. JRHB:</strong> Es muy interesante ver que la investigación que
   se realiza en la universidad no solamente es reconocida con premios internacionales,
   sino que ahora, como él ha comentado, se van a convertir en ya no proyectos de
   investigación, ya no proyectos escolares, sino que llegarán a ser, eh, proyectos
   productivos.</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Sí, esa es la finalidad, pues, porque también no
+  <p><strong>Rector Lic. GNO:</strong> Sí, esa es la finalidad, pues, porque también no
   queremos quedarnos en la simple teoría, sino que lo que los muchachos hacen
   puedan ellos verlo concretado en proyectos productivos.</p></br>
 
-  <p><strong>DR. JRHB:</strong> Le agradezco mucho la respuesta, señor
+  <p><strong>Dr. JRHB:</strong> Le agradezco mucho la respuesta, señor
   rector, vamos a un corte promocional y enseguida regresamos a "Creando Conciencia".</p></br>
 
-  <p><strong>LOCUTOR:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
+  <p><strong>Locutor:</strong> "Creando ConCiencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
+  <p><strong>Dr. JRHB:</strong> Regresamos a "Creando Conciencia, la ciencia
   que transforma". A continuación, vamos a escuchar "Vox Populi", la voz del pueblo,
   preparada por el doctor José Aurelio Sosa Olivia.</p></br>
 
-  <p><strong>DR. José Aurelio Sosa Olivier:</strong> En más de 66 años de antigüedad, ha sido un motor de
+  <p><strong>Dr. José Aurelio Sosa Olivier:</strong> En más de 66 años de antigüedad, ha sido un motor de
   desarrollo de la sociedad tabasqueña, tanto por su oferta educativa a nivel de
   licenciaturas y posgrados, en servicios educativos profesionales como cursos de
   idiomas, deportivos, culturales, odontológicos, entre otros. El nivel de los
@@ -557,67 +557,67 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   familiar o conocido tuyo ha estudiado en la UJAT? De ser así, ¿cuál es tu percepción
   sobre la universidad?</p></br>
 
-  <p><strong>ENTREVISTADO 1:</strong> Sí, tengo conocidos y ha dado sus referencias, que es una buena
+  <p><strong>Entrevistado 1:</strong> Sí, tengo conocidos y ha dado sus referencias, que es una buena
   universidad. Se cuenta con buenas instalaciones, buena educación. Sí, ha sido muy
   diferente a otras.</p></br>
 
-  <p><strong>ENTREVISTADO 2:</strong> Tengo muchos conocidos y familiares, los cuales han formado parte
+  <p><strong>Entrevistado 2:</strong> Tengo muchos conocidos y familiares, los cuales han formado parte
   de esta Casa de Estudios. Sin embargo, los más importantes e influyentes para mí son
   mis padres, ya que no solamente fueron influyentes en el proceso de convertirse en
   profesionales, sino que durante su trayectoria académica conocieron personas que
   fueron muy importantes en su vida.</p></br>
 
-  <p><strong>ENTREVISTADO 3:</strong> Sí, conozco personas que han estudiado allá en la universidad. Es
+  <p><strong>Entrevistado 3:</strong> Sí, conozco personas que han estudiado allá en la universidad. Es
   una buena universidad, las personas que he conocido, pues, no todas, pero tienen.</p></br>
 
-  <p><strong>DR. JASO:</strong> Abajo, ¿conoces a alguien o has participado en alguna
+  <p><strong>Dr. JASO:</strong> Abajo, ¿conoces a alguien o has participado en alguna
   de las actividades académicas o profesionales que ofrece la UJAT?</p></br>
 
-  <p><strong>ENTREVISTADO 2:</strong> Gracias a las oportunidades que ofrece la Universidad Juárez
+  <p><strong>Entrevistado 2:</strong> Gracias a las oportunidades que ofrece la Universidad Juárez
   Autónoma de Tabasco, pude estudiar 4 años el libro en inglés. Pude certificarme de
   manera profesional con un curso que es avalado de manera internacional, así como
   pude estudiar algunos otros idiomas y yo me siento muy contento por haber podido
   tener esa oportunidad.</p></br>
 
-  <p><strong>ENTREVISTADO 3:</strong> Sí, de hecho, tengo un sobrino que estudia inglés y va muy bien. Él
+  <p><strong>Entrevistado 3:</strong> Sí, de hecho, tengo un sobrino que estudia inglés y va muy bien. Él
   va nada más una vez a la semana y pues le ha ido bien en inglés, ha avanzado y pues
   son buenos maestros, sí.</p></br>
 
-  <p><strong>ENTREVISTADO 4:</strong> De hecho, yo estudié un tiempo los sábados en escuelas de
+  <p><strong>Entrevistado 4:</strong> De hecho, yo estudié un tiempo los sábados en escuelas de
   dirigidos por la Universidad de.</p></br>
 
-  <p><strong>DR. JASO:</strong> ¿Qué importancia consideras que tiene la UJAT en el
+  <p><strong>Dr. JASO:</strong> ¿Qué importancia consideras que tiene la UJAT en el
   desarrollo de Tabasco?</p></br>
 
-  <p><strong>ENTREVISTADO 1:</strong> Ok, en base a varias impresiones que hacen y ha ayudado mucho
+  <p><strong>Entrevistado 1:</strong> Ok, en base a varias impresiones que hacen y ha ayudado mucho
   en todo el estado. Por ejemplo, cuando son temas de los cocodrilos que son a nivel de
   todo el estado, son muy.</p></br>
 
-  <p><strong>ENTREVISTADO 3:</strong> Pues es muy importante, porque pues luego hay gente que se va
+  <p><strong>Entrevistado 3:</strong> Pues es muy importante, porque pues luego hay gente que se va
   afuera a trabajar y pues dicen dónde estudiaron. Y pues que son de Tabasco. He visto
   en la tele que luego hay tabasqueños trabajando, haciendo cosas importantes en otros
   estados y dicen que estudiaron ahí en.</p></br>
 
-  <p><strong>ENTREVISTADO 2:</strong> Yo considero que la universidad Juárez Autónoma de Tabasco tiene
+  <p><strong>Entrevistado 2:</strong> Yo considero que la universidad Juárez Autónoma de Tabasco tiene
   un impacto muy importante a nivel social, ya que no solamente crea profesionales,
   sino crea los líderes que forman parte de este entorno social, cultural e incluso a nivel
   político, que tiene el estado de Tabasco.</p></br>
 
-  <p><strong>ENTREVISTADO 4:</strong> Promover un mejor futuro para las demás generaciones.</p></br>
+  <p><strong>Entrevistado 4:</strong> Promover un mejor futuro para las demás generaciones.</p></br>
 
-  <p><strong>DR. JASO:</strong> ¿Conoces el lema de la UJAT?</p></br>
+  <p><strong>Dr. JASO:</strong> ¿Conoces el lema de la UJAT?</p></br>
 
-  <p><strong>ENTREVISTADO 2:</strong> “En la duda, acciona, en la fe”.</p></br>
+  <p><strong>Entrevistado 2:</strong> “En la duda, acciona, en la fe”.</p></br>
 
-  <p><strong>ENTREVISTADO 3:</strong> Así como no, es ese de “Estudio en la duda, acción en la fe”.</p></br>
+  <p><strong>Entrevistado 3:</strong> Así como no, es ese de “Estudio en la duda, acción en la fe”.</p></br>
 
-  <p><strong>DR. JRHB:</strong> Regresamos a "Creando ConCiencia, la ciencia
+  <p><strong>Dr. JRHB:</strong> Regresamos a "Creando ConCiencia, la ciencia
   que transforma". Señor rector, eh, es muy importante, eh, saber que usted puede emitir
   como mensaje para los estudiantes, los profesores e investigadores, eh, que permita
   inspirarlos o motivarlos a construir dentro de la universidad, investigación de alta
   calidad para este nuevo año 2025 y para el futuro.</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Sí, gracias. Mira, yo soy un convencido de que
+  <p><strong>Rector Lic. GNO:</strong> Sí, gracias. Mira, yo soy un convencido de que
   tenemos talento y muy buen talento. No solamente el sector académico con nuestros
   investigadores, con docentes que han obtenido reconocimientos nacionales e
   internacionales. Te podría decir, por ejemplo, el que lo obtuvo, eh, el maestro Bernal,
@@ -651,14 +651,14 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   concreta y estos 3 años son los años en los que queremos consolidar todos nuestros
   proyectos.</p></br>
 
-  <p><strong>DR. JRLC:</strong>  Bien, qué interesante. Ya estamos terminando,
+  <p><strong>Dr. JRLC:</strong>  Bien, qué interesante. Ya estamos terminando,
   eh, pero tenemos que ir a un corte promocional y enseguida regresamos con "Creando
   Conciencia, la ciencia que transforma".</p></br>
 
-  <p><strong>LOCUTOR:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
+  <p><strong>Locutor:</strong> "Creando Conciencia". Un momento, regresamos. Continuamos con "La
   ciencia que transforma".</p></br>
 
-  <p><strong>DR. JRLC:</strong> Regresamos al cierre de "Creando Conciencia, la
+  <p><strong>Dr. JRLC:</strong> Regresamos al cierre de "Creando Conciencia, la
   ciencia que transforma" y qué interesante plática, qué motivadora, plática, qué
   esperanzadora entrevista para todos los que están haciendo investigación en la
   Universidad Juárez Autónoma de Tabasco. Cuando digo todos me refiero a profesores,
@@ -669,7 +669,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   rendir su informe pronto, qué mensaje usted le envía a la sociedad sobre la importancia
   de utilizar la ciencia para transformar vidas y transformar al mundo.</p></br>
 
-  <p><strong>RECTOR LIC. GNO:</strong> Mira, nada más un pequeño dato adicional de
+  <p><strong>Rector Lic. GNO:</strong> Mira, nada más un pequeño dato adicional de
   un proyecto interesante. Yo alguna, hace mucho, hace algún tiempo, fui a al municipio
   de Balancán, específicamente, al río San Pedro, porque firmamos el Balancán. Porque
   firmamos ahí un convenio sobre los manglares del del proyecto que está haciendo el
@@ -711,29 +711,29 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   generaciones que nos van a suceder, les vamos a dejar un terrible dilema, que es en la
   importancia del agua.</p></br>
 
-  <p><strong>DR. JRLC:</strong> Qué interesante. Quisiéramos seguir platicando,
+  <p><strong>Dr. JRLC:</strong> Qué interesante. Quisiéramos seguir platicando,
   pero sabemos que el rector, su tiempo está bastante. Que es corto, no para nosotros
   dimos comentarios muy rápido porque nos estamos yendo.</p></br>
 
-  <p><strong>DR. JRHB:</strong> No, pues me ha interesado mucho el mensaje
+  <p><strong>Dr. JRHB:</strong> No, pues me ha interesado mucho el mensaje
   del señor rector, referente a que la apertura que tiene su administración para apoyar a
   profesores y estudiantes que sus proyectos no se queden ahí en el olvido, sino que se
   conviertan en proyectos productivos.</p></br>
 
-  <p><strong>DR. JRLC:</strong> Bien, como todos los miércoles, hoy reafirmamos
+  <p><strong>Dr. JRLC:</strong> Bien, como todos los miércoles, hoy reafirmamos
   que la Universidad Juárez Autónoma de Tabasco no solo forma profesionales, sino
   también agentes de cambio que transforman vidas y comunidades. Con cada
   proyecto, con cada joven que decide quedarse y construir aquí su futuro, estamos
   forjando una universidad que inspira y una sociedad que progresa. La ciencia con
   sentido social no es solo un objetivo, es nuestra promesa para un mañana mejor.
   Sigamos creyendo, creando y transformando juntos, el futuro de la UJAT es el futuro de
-  todos. Se despide de ustedes JOSÉ RAMÓN LAINES CANEPA, Roberto Barajas. Guillermo
+  todos. Se despide de ustedes José Ramón Laines Canepa, Roberto Barajas. Guillermo
   Narváez, agradeciendo a la Dirección General de Comunicación Social, a la
   Universidad Juárez Autónoma de Tabasco, a nuestra productora, al licenciado Jayara y
   a todos los que nos escuchan cada miércoles. Muchas gracias por estar con nosotros
-  en "Creando Conciencia", hasta la próxima.</p></br>
+  en "Creando ConCiencia", hasta la próxima.</p></br>
 
-  <p><strong>LOCUTOR:</strong> "Creando ConCiencia, la ciencia que transforma". Es una producción de
+  <p><strong>Locutor:</strong> "Creando ConCiencia, la ciencia que transforma". Es una producción de
   Radio UJAT, la voz universitaria. “Legado UJAT, estudio en la duda, acción en la fe”.</p></br>`,
         } as PageContent,
         {
