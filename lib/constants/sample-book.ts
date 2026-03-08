@@ -123,7 +123,7 @@ export const sampleBook: Book = {
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>UJAT 2025: Transformando Vidas y Sociedaades a Través de la Ciencia: </h3>
+          <h3><strong>UJAT 2025: Transformando Vidas y Sociedaades a Través de la Ciencia: </strong></h3>
           En el umbral del año 2025, la Universidad Juárez Autónoma de Tabasco (UJAT) se consolida como un actor transformador en el escenario científico, social y educativo de México.
           Bajo el liderazgo del rector Guillermo Narváez Osorio, esta casa de estudios ha orientado sus esfuerzos hacia una visión de ciencia con sentido social, donde la formación académica se entrelaza con la solución de problemas reales.
           En esta conversación inspiradora en el programa <strong>"Creando ConCiencia"</strong>, se nos revela cómo la UJAT, a través de investigación, innovación y compromiso social, busca no solo formar profesionales, sino forjar agentes de cambio capaces de transformar su entorno.
@@ -777,7 +777,7 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>Biodiversidad Oculta: Explorando el Rol de los Insectos en los Ecosistemas de Tabasco</h3>
+          <h3><strong>Biodiversidad Oculta: Explorando el Rol de los Insectos en los Ecosistemas de Tabasco</strong></h3>
           En Tabasco, la vida se manifiesta con intensidad en cada selva, humedal y manglar. Sin embargo, gran parte del equilibrio ecológico del estado depende de organismos que con frecuencia pasan desapercibidos: los insectos y otros artrópodos. Aunque pequeños, estos seres cumplen funciones esenciales para la salud de los ecosistemas, sosteniendo procesos como la descomposición de materia orgánica, el reciclaje de nutrientes, la polinización y el mantenimiento de las cadenas tróficas que sustentan a numerosas especies.
           </br> 
           Este capítulo presenta una mirada clara y cercana al tema “Biodiversidad oculta: explorando el rol de los insectos en los ecosistemas de Tabasco”, a partir de una entrevista realizada en el programa Creando Con-Ciencia: La ciencia que transforma, conducido por los Dres. José Ramón Laines Canepa y Roberto Hernández Barajas. En esta conversación participan como invitados el Dr. Manuel Pérez de la Cruz y la Dra. Aracely de la Cruz Pérez, investigadores especializados en entomología y aracnología tropical, quienes han dedicado su trabajo al estudio, documentación y divulgación de la biodiversidad de la región.
@@ -1013,7 +1013,7 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT</h3>
+          <h3><strong>EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT</strong></h3>
           EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT
 En un contexto global marcado por la crisis ambiental y la acumulación de residuos plásticos, las universidades se han convertido en espacios clave para la generación de soluciones innovadoras y sostenibles. En este escenario, la ciencia aplicada, la creatividad y el compromiso social se articulan para responder a problemáticas locales con impacto más allá del aula, demostrando que el conocimiento puede transformarse en acción concreta. 
 Este capítulo presenta el proyecto EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT, a partir de una entrevista realizada en el programa Creando Con-Ciencia: La ciencia que transforma. En esta conversación participan Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García y Jessica Lizbeth Córdova Palma, estudiantes de Ingeniería Ambiental de la Universidad Juárez Autónoma de Tabasco, quienes comparten la experiencia de desarrollar y presentar su iniciativa en el Enactus Innovation Bootcamp 2024, celebrado en Cambridge, Massachusetts. 
@@ -1205,7 +1205,7 @@ Finalmente, el episodio se cierra con una reflexión de fondo sobre la responsab
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>Wanha': El Misterio de los Manglares del Río San Pedro Martír</h3>
+          <h3><strong>Wanha': El Misterio de los Manglares del Río San Pedro Martír</strong></h3>
           Este capítulo abre una ventana hacia uno de los hallazgos ecológicos más fascinantes del sureste de México: la existencia de manglares interiores en el río San Pedro Mártir, un ecosistema que desafía lo que comúnmente creemos saber sobre los manglares y su relación con el mar. Lejos de ser solo una rareza biológica, estos manglares —establecidos en agua dulce y a más de 120 kilómetros de la costa— funcionan como una evidencia viva de los cambios climáticos ocurridos en el planeta hace miles de años, y al mismo tiempo como un recordatorio contundente de los riesgos que el futuro puede volver a imponer sobre nuestros territorios y sociedades. 
 A través de una narrativa cercana, este capítulo presenta cómo la ciencia puede convertirse en esperanza cuando logra traducirse en acciones concretas: investigación aplicada, comunicación social del conocimiento, y estrategias reales de conservación. El caso de Wan-ha no es únicamente la historia de un ecosistema excepcional, sino también la historia de una región que comienza a ser mirada con mayor atención por la comunidad científica, por las instituciones ambientales y por las propias comunidades que la habitan. 
 En estas páginas se explora cómo un descubrimiento de alcance internacional detonó procesos de protección ambiental sin precedentes, culminando en la declaratoria de la Reserva de la Biosfera Wanha’, una categoría de conservación de máxima relevancia en México. Este paso representa un triunfo para la biodiversidad, pero también una oportunidad histórica para construir un modelo de desarrollo sostenible basado en el conocimiento, la restauración ecológica y el compromiso social. 
@@ -1516,7 +1516,7 @@ De esta manera, el cierre de esta reflexión realiza una invitación abierta: cr
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>Murciélagos Vampiro: Más Allá del Mito, Claves para Convivir en Armonía con la Biodiversidad</h3>
+          <h3><strong>Murciélagos Vampiro: Más Allá del Mito, Claves para Convivir en Armonía con la Biodiversidad</strong></h3>
 En los paisajes tropicales de Tabasco, la biodiversidad se manifiesta de formas diversas y, en ocasiones, incomprendidas. Entre ellas, los murciélagos vampiro ocupan un lugar particular dentro del imaginario colectivo: asociados al miedo, al riesgo sanitario y a mitos persistentes. Sin embargo, más allá de estas percepciones, estas especies forman parte de un sistema ecológico complejo, donde su presencia responde a procesos de adaptación, transformación del paisaje y relaciones estrechas con las actividades humanas. </br>
 Este capítulo propone una mirada informada y reflexiva sobre el tema “Murciélagos vampiro: más allá del mito, claves para convivir en armonía con la biodiversidad”, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. El diálogo es conducido por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes, a través de preguntas clave, abren un espacio de divulgación científica accesible y crítica. </br>
 Como voces expertas participan el Dr. Rafael Ávila Flores y la Dra. Alba Zulema Rodas Martínez, investigadores especializados en ecología, fisiología y conservación de mamíferos, con amplia experiencia en el estudio de murciélagos hematófagos, interacciones mamífero-humano, salud animal y respuestas al estrés ambiental. Desde sus líneas de investigación, ambos aportan evidencia científica que permite comprender a los murciélagos vampiro y otras especies de murciélagos más allá del estigma, situándolas dentro de los paisajes ganaderos, urbanos y rurales del sureste mexicano. </br>
@@ -1748,7 +1748,7 @@ En última instancia, la ciencia nos recuerda que los murciélagos vampiro conti
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>Gamificación y Tecnología: Transformando la Educación con Conciencia Ambiental</h3>
+          <h3><strong>Gamificación y Tecnología: Transformando la Educación con Conciencia Ambiental</strong></h3>
 En un contexto donde la tecnología atraviesa prácticamente todos los ámbitos de la vida cotidiana, la educación enfrenta el reto de reinventar sus formas de enseñar, aprender y motivar. Las aulas ya no compiten únicamente con los libros o el pizarrón, sino con entornos digitales, plataformas interactivas y estímulos constantes que demandan nuevas estrategias pedagógicas. Frente a este escenario, la gamificación surge como una herramienta que permite repensar el aprendizaje desde la experiencia, la participación activa y el compromiso significativo. </br>
 Este capítulo propone una aproximación clara y accesible al tema de la gamificación y el uso de tecnologías emergentes en la educación, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. La emisión es conducida por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes abren un espacio de diálogo entre la ciencia, la tecnología y los procesos educativos contemporáneos. </br>
 En esta ocasión, la conversación cuenta con la participación de la Dra. Erika Yunuén Morales Mateos, Profesora-Investigadora de la Universidad Juárez Autónoma de Tabasco, especialista en sistemas computacionales, desarrollo de aplicaciones, realidad virtual y aumentada, así como en gamificación educativa. Desde su experiencia académica y de investigación, la invitada comparte cómo el diseño de entornos digitales interactivos puede transformar la manera en que las y los estudiantes se relacionan con el conocimiento. </br>
@@ -1914,7 +1914,7 @@ Cuando la ciencia educativa se articula con la innovación tecnológica y la ref
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>Psoriasis: entre la herencia y el entorno, una mirada desde la ciencia</h3>
+          <h3><strong>Psoriasis: entre la Herencia y el Entorno, una Mirada desde la Ciencia</strong></h3>
 Las enfermedades de la piel suelen percibirse como afecciones superficiales, visibles y, en muchos casos, únicamente estéticas. Sin embargo, detrás de manifestaciones cutáneas persistentes pueden existir procesos biológicos complejos que involucran al sistema inmunológico, la inflamación crónica y múltiples órganos del cuerpo. La psoriasis es un ejemplo claro de cómo una enfermedad aparentemente localizada refleja alteraciones sistémicas que impactan de manera profunda la salud y la calidad de vida de quienes la padecen. </br>
 Este capítulo ofrece una aproximación clara y accesible al tema de la psoriasis como enfermedad inflamatoria sistémica, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. La emisión es conducida por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes abren un espacio de divulgación científica orientado a comprender la enfermedad desde la evidencia médica y la experiencia clínica. </br>
 La conversación cuenta con la participación del Dr. Eugenio Del Valle-Espinosa, médico dermatólogo y profesor universitario, con experiencia en dermatología clínica, inmunodermatología e investigación bioquímica. Desde su práctica médica y académica, el invitado explica cómo la psoriasis ha dejado de entenderse como un problema exclusivamente cutáneo para reconocerse como una condición compleja asociada a factores genéticos, respuestas inmunes alteradas y riesgos cardiovasculares y metabólicos. </br>
@@ -2074,7 +2074,7 @@ Con este capítulo, el recorrido de Creando Con-Ciencia reafirma una idea transv
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>Bioenergía Segura: Innovación y Riesgo en la Producción de Biocombustibles con Seguridad de Procesos</h3>
+          <h3><strong>Bioenergía Segura: Innovación y Riesgo en la Producción de Biocombustibles con Seguridad de Procesos</strong></h3>
 La búsqueda de fuentes alternativas de energía se ha convertido en uno de los grandes desafíos del siglo XXI. Frente a la dependencia de los combustibles fósiles y a los efectos del cambio climático, la bioenergía surge como una opción prometedora para diversificar la matriz energética y reducir impactos ambientales. Sin embargo, producir energía a partir de recursos biológicos no es un proceso sencillo ni exento de riesgos: implica decisiones tecnológicas, industriales y sociales que deben analizarse con cuidado. </br>
 Este capítulo ofrece una aproximación clara al tema de la bioenergía y los biocombustibles, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. La emisión es conducida por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes abren un espacio de divulgación para reflexionar sobre la energía desde una perspectiva científica y crítica. </br>
 La conversación cuenta con la participación del Dr. Antíoco López Molina, Ingeniero Químico y Profesor-Investigador de la Universidad Juárez Autónoma de Tabasco, especializado en bioenergía, seguridad de procesos y análisis de riesgo. Desde su experiencia académica y de investigación aplicada, el invitado explica cómo el desarrollo de biocombustibles debe considerar no solo la eficiencia energética, sino también la seguridad industrial, la prevención de accidentes y la sustentabilidad de los procesos. </br>
@@ -2231,7 +2231,7 @@ Con este capítulo, Creando Con-Ciencia reafirma una reflexión transversal: la 
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>Cortisol y Salud Mental: El Estrés Invisible detrás de los Intentos de Suicidio y la Depresión</h3>
+          <h3><strong>Cortisol y Salud Mental: El Estrés Invisible detrás de los Intentos de Suicidio y la Depresión</strong></h3>
 El estrés forma parte de la vida cotidiana y en muchas ocasiones, se normaliza sin dimensionar sus efectos reales en el cuerpo y la mente. Detrás de esa respuesta silenciosa opera el cortisol, una hormona indispensable para la supervivencia, pero que, cuando se mantiene elevada durante periodos prolongados, puede alterar el equilibrio emocional, la salud mental y el bienestar general. </br>
 Este capítulo aborda el papel del cortisol como biomarcador del estrés crónico, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, transmitido por Radio UJAT. La emisión es conducida por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas, quienes abren un espacio de diálogo para comprender cómo los procesos biológicos se relacionan con la conducta humana y los trastornos emocionales. </br>
 En esta conversación participa el Dr. Carlos Alfonso Tovilla Zárate, Profesor-Investigador de la Universidad Juárez Autónoma de Tabasco y especialista en salud mental, quien explica cómo el cortisol actúa como un indicador fisiológico del estrés y cuál es su relación con la depresión, la ansiedad y el riesgo suicida. Desde una perspectiva científica y social, el invitado expone la importancia de distinguir entre el estrés adaptativo y aquel que se vuelve perjudicial. </br>
