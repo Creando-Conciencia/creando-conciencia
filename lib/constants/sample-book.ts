@@ -210,7 +210,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   de Tabasco. Al licenciado Guillermo Narváez Osorio, quien es rector. Bienvenido,
   rector, buenas tardes, gracias por estar con nosotros.</p></br>
 
-  <p><strong>Rector Lic. Guillermo Narváez Osorio:</strong> Buenas tardes, buenas tardes a ambos. Es un
+  <p><strong>RECTOR Lic. Guillermo Narváez Osorio:</strong> Buenas tardes, buenas tardes a ambos. Es un
   honor estar aquí con ustedes compartiendo.</p></br>
 
   <p><strong>Dr. JRLC:</strong> Bien, vamos a empezar, le voy a comentar una
