@@ -11,11 +11,6 @@ export const sampleBook: Book = {
     title: "UJAT 2025: Transformando vidas y sociedades a través de la ciencia",
     isBookCover: true,
   },
-  {
-          type: "cover",
-          title: "..",
-          image: "/Libro_Hoja_Legal.jpeg",
-        } as PageContent,
   authors: {
     type: "authors",
     title: "Autores y Coautores",
@@ -128,6 +123,7 @@ export const sampleBook: Book = {
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          <h3>UJAT 2025: Transformando Vidas y Sociedaades a Través de la Ciencia: </h3>
           En el umbral del año 2025, la Universidad Juárez Autónoma de Tabasco (UJAT) se consolida como un actor transformador en el escenario científico, social y educativo de México.
           Bajo el liderazgo del rector Guillermo Narváez Osorio, esta casa de estudios ha orientado sus esfuerzos hacia una visión de ciencia con sentido social, donde la formación académica se entrelaza con la solución de problemas reales.
           En esta conversación inspiradora en el programa <strong>"Creando ConCiencia"</strong>, se nos revela cómo la UJAT, a través de investigación, innovación y compromiso social, busca no solo formar profesionales, sino forjar agentes de cambio capaces de transformar su entorno.
@@ -781,7 +777,7 @@ En conjunto, este capítulo radiofónico sostiene que “crear conciencia” no 
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3>Biodiversidad oculta: explorando el rol de los insectos en los ecosistemas de Tabasco</h3>
+          <h3>Biodiversidad Oculta: Explorando el Rol de los Insectos en los Ecosistemas de Tabasco</h3>
           En Tabasco, la vida se manifiesta con intensidad en cada selva, humedal y manglar. Sin embargo, gran parte del equilibrio ecológico del estado depende de organismos que con frecuencia pasan desapercibidos: los insectos y otros artrópodos. Aunque pequeños, estos seres cumplen funciones esenciales para la salud de los ecosistemas, sosteniendo procesos como la descomposición de materia orgánica, el reciclaje de nutrientes, la polinización y el mantenimiento de las cadenas tróficas que sustentan a numerosas especies.
           </br> 
           Este capítulo presenta una mirada clara y cercana al tema “Biodiversidad oculta: explorando el rol de los insectos en los ecosistemas de Tabasco”, a partir de una entrevista realizada en el programa Creando Con-Ciencia: La ciencia que transforma, conducido por los Dres. José Ramón Laines Canepa y Roberto Hernández Barajas. En esta conversación participan como invitados el Dr. Manuel Pérez de la Cruz y la Dra. Aracely de la Cruz Pérez, investigadores especializados en entomología y aracnología tropical, quienes han dedicado su trabajo al estudio, documentación y divulgación de la biodiversidad de la región.
@@ -1017,6 +1013,7 @@ Así, el cierre de este capítulo no funciona como una conclusión, sino como un
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          <h3>EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT</h3>
           EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT
 En un contexto global marcado por la crisis ambiental y la acumulación de residuos plásticos, las universidades se han convertido en espacios clave para la generación de soluciones innovadoras y sostenibles. En este escenario, la ciencia aplicada, la creatividad y el compromiso social se articulan para responder a problemáticas locales con impacto más allá del aula, demostrando que el conocimiento puede transformarse en acción concreta. 
 Este capítulo presenta el proyecto EPLASTO: Transformando Residuos en Innovación Universitaria desde Harvard y MIT, a partir de una entrevista realizada en el programa Creando Con-Ciencia: La ciencia que transforma. En esta conversación participan Kenia Leticia Utrera Cabrera, Mairé Paulina Torres García, Danna Paola Correa García y Jessica Lizbeth Córdova Palma, estudiantes de Ingeniería Ambiental de la Universidad Juárez Autónoma de Tabasco, quienes comparten la experiencia de desarrollar y presentar su iniciativa en el Enactus Innovation Bootcamp 2024, celebrado en Cambridge, Massachusetts. 
@@ -1176,7 +1173,7 @@ vox populi por el maestro José Aurelio Solís Olivier.
         {
           type: "text",
           content: `<h1><strong>Mirada desde la Ciencia</strong></h1>
-          <h3>.</h3>
+          <h3></h3>
           El episodio dedicado a EPLASTO plantea una tesis central clara: la innovación ambiental universitaria cobra sentido pleno cuando el conocimiento técnico se traduce en soluciones materiales concretas que dialogan con el territorio, el contexto social y los límites ambientales. Desde esta perspectiva, el proyecto es presentado no solo como un ejercicio académico, sino como una propuesta de economía circular aplicada que cuestiona la noción tradicional de “residuo” y redefine el papel de la ingeniería ambiental como disciplina de intervención directa. </br>
 Un primer eje del diálogo es la revalorización del plástico desde la ciencia aplicada. Se sostiene que el problema ambiental no reside únicamente en el material, sino en los modelos lineales de producción y descarte. EPLASTO parte de un diagnóstico técnico: el polipropileno, ampliamente utilizado y desechado, conserva propiedades mecánicas que permiten su reincorporación a nuevos ciclos productivos. Esta mirada científica rompe con la lógica de “usar y tirar” y propone un cambio conceptual fundamental: el residuo como recurso estratégico. </br>
 El segundo eje se centra en la economía circular como metodología operativa, no como discurso abstracto. La transformación de plástico reciclado en un material alternativo a la madera implica intervenir simultáneamente en varios frentes: gestión de residuos, reducción de presión sobre ecosistemas forestales y diseño de materiales con mayor vida útil. Desde la ciencia, se enfatiza que la sostenibilidad no se alcanza con una sola acción aislada, sino con la coherencia entre diseño del producto, procesos de transformación y decisiones energéticas. </br>
@@ -1208,6 +1205,7 @@ Finalmente, el episodio se cierra con una reflexión de fondo sobre la responsab
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          <h3>Wanha': El Misterio de los Manglares del Río San Pedro Martír</h3>
           Este capítulo abre una ventana hacia uno de los hallazgos ecológicos más fascinantes del sureste de México: la existencia de manglares interiores en el río San Pedro Mártir, un ecosistema que desafía lo que comúnmente creemos saber sobre los manglares y su relación con el mar. Lejos de ser solo una rareza biológica, estos manglares —establecidos en agua dulce y a más de 120 kilómetros de la costa— funcionan como una evidencia viva de los cambios climáticos ocurridos en el planeta hace miles de años, y al mismo tiempo como un recordatorio contundente de los riesgos que el futuro puede volver a imponer sobre nuestros territorios y sociedades. 
 A través de una narrativa cercana, este capítulo presenta cómo la ciencia puede convertirse en esperanza cuando logra traducirse en acciones concretas: investigación aplicada, comunicación social del conocimiento, y estrategias reales de conservación. El caso de Wan-ha no es únicamente la historia de un ecosistema excepcional, sino también la historia de una región que comienza a ser mirada con mayor atención por la comunidad científica, por las instituciones ambientales y por las propias comunidades que la habitan. 
 En estas páginas se explora cómo un descubrimiento de alcance internacional detonó procesos de protección ambiental sin precedentes, culminando en la declaratoria de la Reserva de la Biosfera Wanha’, una categoría de conservación de máxima relevancia en México. Este paso representa un triunfo para la biodiversidad, pero también una oportunidad histórica para construir un modelo de desarrollo sostenible basado en el conocimiento, la restauración ecológica y el compromiso social. 
@@ -1341,8 +1339,8 @@ Y quizá la enseñanza más importante sea esta: los ecosistemas del pasado no s
         
         {
           type: "text",
-          content: `<h1><strong>Introducción del Capítulo</strong></h1></br>
-          <h3><strong> Sirenas del Agua Dulce: Ciencia, Conservación y el Futuro del Manatí Antillano </strong></h3> </br>
+          content: `<h1><strong>Introducción del Capítulo</strong></h1>
+          <h3><strong>Sirenas del Agua Dulce: Ciencia, Conservación y el Futuro del Manatí Antillano </strong></h3>
 En Tabasco, el agua configura el paisaje, la memoria colectiva y la manera en que las comunidades interactúan con su entorno. Ríos, lagunas, humedales y sistemas costeros sostienen una notable diversidad biológica, pero también enfrentan presiones crecientes asociadas a la expansión urbana, la contaminación y la alteración de los ecosistemas acuáticos. En este escenario habita una especie discreta y vulnerable, cuya presencia revela tanto la riqueza natural del estado como la fragilidad de sus ambientes: el manatí antillano. </br>
 Este capítulo ofrece una aproximación clara y accesible al tema de la conservación del manatí y su vínculo con la salud de los ecosistemas acuáticos de Tabasco, a partir de una conversación desarrollada en el programa Creando Con-Ciencia: La ciencia que transforma, conducido por los Dres. José Ramón Laines Canepa y José Roberto Hernández Barajas. El diálogo cuenta con la participación del Dr. León David Olivera Gómez y el Mtro. Darwin Jiménez Domínguez, investigadores de la Universidad Juárez Autónoma de Tabasco, cuyo trabajo académico y de campo se ha centrado en el estudio, monitoreo y manejo de mamíferos acuáticos, con énfasis en la conservación del manatí en el sureste de México. </br>
 A lo largo del capítulo, se analiza por qué el manatí no debe concebirse únicamente como una especie carismática o emblemática, sino como un indicador ambiental estrechamente asociado a la calidad del agua, la disponibilidad de hábitat y el equilibrio ecológico de ríos y humedales. Su presencia, comportamiento y distribución aportan información clave para comprender el estado de conservación de los sistemas acuáticos y los efectos de la actividad humana sobre ellos. </br>
