@@ -11,6 +11,11 @@ export const sampleBook: Book = {
     title: "UJAT 2025: Transformando vidas y sociedades a través de la ciencia",
     isBookCover: true,
   },
+  {
+          type: "cover",
+          title: "..",
+          image: "/Libro_Hoja_Legal.jpeg",
+        } as PageContent,
   authors: {
     type: "authors",
     title: "Autores y Coautores",
