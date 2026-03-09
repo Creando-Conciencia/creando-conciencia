@@ -47,6 +47,12 @@ export type IndexContent = {
   title: string;
 };
 
+export type LegalContent = {
+  type: "legal";
+  title: string;
+  image?: string;
+};
+
 export type BiographyContent = {
   type: "biography";
   authorName: string;
@@ -74,7 +80,7 @@ export type AcknowledgmentsContent = {
   content: string;
 };
 
-export type PageContent = TextContent | ChatbotContent | FormContent | AudioContent | CoverContent | IndexContent | BiographyContent | AuthorsContent | AcknowledgmentsContent;
+export type PageContent = TextContent | ChatbotContent | FormContent | AudioContent | CoverContent | IndexContent | LegalContent | BiographyContent | AuthorsContent | AcknowledgmentsContent;
 
 // Book structure
 export interface Chapter {
@@ -92,6 +98,7 @@ export interface Book {
   author: string;
   year: number;
   cover?: CoverContent; // Optional book cover
+  legal?: LegalContent; // Optional legal page
   authors?: AuthorsContent; // Optional authors page
   acknowledgments?: AcknowledgmentsContent; // Optional acknowledgments page
   index?: IndexContent; // Optional index page
@@ -106,6 +113,7 @@ export type DisplayPage =
   | { type: "audio"; url: string; htmlContent: string }
   | { type: "cover"; title: string; isBookCover?: boolean }
   | { type: "index"; title: string }
+  | { type: "legal"; title: string; image?: string }
   | { type: "biography"; authorName: string; content: string; image?: string }
   | { type: "authors"; title: string; authors: Author[] }
   | { type: "acknowledgments"; title: string; content: string };

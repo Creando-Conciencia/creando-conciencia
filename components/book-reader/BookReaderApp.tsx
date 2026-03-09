@@ -15,6 +15,7 @@ import {
 import ChatbotPage from "./ChatbotPage";
 import FormPage from "./FormPage";
 import AudioPage from "./AudioPage";
+import { LegalPage } from "./LegalPage";
 import { BookCoverBackground } from "./BookCoverBackground";
 import { ChatMsg } from "@/lib/types/book";
 import styles from "./BookReaderApp.module.css";
@@ -42,6 +43,7 @@ export default function BookReaderApp() {
   const [chapterIdx, setChapterIdx] = useState(0);
   const [pageIdx, setPageIdx] = useState(0);
   const [showBookCover, setShowBookCover] = useState(book.cover ? true : false);
+  const [showLegal, setShowLegal] = useState(false);
   const [showAuthors, setShowAuthors] = useState(false);
   const [showAcknowledgments, setShowAcknowledgments] = useState(false);
   const [showIndex, setShowIndex] = useState(false);
@@ -54,6 +56,8 @@ export default function BookReaderApp() {
   const chapter = book.chapters[chapterIdx];
   const page = showBookCover
     ? book.cover
+    : showLegal
+      ? book.legal
     : showAuthors
       ? book.authors
       : showAcknowledgments
@@ -226,10 +230,29 @@ useEffect(() => {
 
   // Navigation
   const goNext = () => {
-    // Navigation flow: Cover → Authors → Acknowledgments → Index → Chapters
+    // Navigation flow: Cover → Legal → Authors → Acknowledgments → Index → Chapters
 
     if (showBookCover) {
       setShowBookCover(false);
+      if (book.legal) {
+        setShowLegal(true);
+      } else if (book.authors) {
+        setShowAuthors(true);
+      } else if (book.acknowledgments) {
+        setShowAcknowledgments(true);
+      } else if (book.index) {
+        setShowIndex(true);
+      } else {
+        setChapterIdx(0);
+        setPageIdx(0);
+      }
+      setTextColIndex(0);
+      setShouldGoToLastColumn(false);
+      return;
+    }
+
+    if (showLegal) {
+      setShowLegal(false);
       if (book.authors) {
         setShowAuthors(true);
       } else if (book.acknowledgments) {
@@ -303,7 +326,7 @@ useEffect(() => {
   };
 
   const goPrev = () => {
-    // Navigation flow backwards: Chapters → Index → Acknowledgments → Authors → Cover
+    // Navigation flow backwards: Chapters → Index → Acknowledgments → Authors → Legal → Cover
 
     if (showIndex) {
       setShowIndex(false);
@@ -329,6 +352,16 @@ useEffect(() => {
 
     if (showAuthors) {
       setShowAuthors(false);
+      if (book.legal) {
+        setShowLegal(true);
+      } else if (book.cover) {
+        setShowBookCover(true);
+      }
+      return;
+    }
+
+    if (showLegal) {
+      setShowLegal(false);
       if (book.cover) {
         setShowBookCover(true);
       }
@@ -352,6 +385,9 @@ useEffect(() => {
         return;
       } else if (book.authors) {
         setShowAuthors(true);
+        return;
+      } else if (book.legal) {
+        setShowLegal(true);
         return;
       } else if (book.cover) {
         setShowBookCover(true);
@@ -402,7 +438,7 @@ useEffect(() => {
       style={{ height: "100dvh" }}
     >
       {/* Modern Header - Hidden on special pages */}
-      {!showBookCover && !showAuthors && !showAcknowledgments && !showIndex && (
+      {!showBookCover && !showLegal && !showAuthors && !showAcknowledgments && !showIndex && (
         <div className="h-16 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md border-b border-gray-200/50 dark:border-gray-700/50 flex-shrink-0">
           <div className="px-4 h-full flex items-center">
             <div className="flex items-center justify-between w-full">
@@ -435,6 +471,7 @@ useEffect(() => {
                             }`}
                             onClick={() => {
                               setShowBookCover(true);
+                              setShowLegal(false);
                               setShowAuthors(false);
                               setShowAcknowledgments(false);
                               setShowIndex(false);
@@ -452,6 +489,34 @@ useEffect(() => {
                           </button>
                         </DialogClose>
                       )}
+                      {book.legal && (
+                        <DialogClose asChild>
+                          <button
+                            className={`w-full text-left p-3 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-lg transition-colors ${
+                              showLegal
+                                ? "bg-indigo-50 dark:bg-indigo-900/20 text-indigo-700 dark:text-indigo-300 font-medium"
+                                : ""
+                            }`}
+                            onClick={() => {
+                              setShowBookCover(false);
+                              setShowLegal(true);
+                              setShowAuthors(false);
+                              setShowAcknowledgments(false);
+                              setShowIndex(false);
+                              setChapterIdx(0);
+                              setPageIdx(0);
+                              setTextColIndex(0);
+                            }}
+                          >
+                            <div className="text-sm font-medium">
+                              {book.legal.title}
+                            </div>
+                            <div className="text-xs text-muted-foreground mt-1">
+                              Hoja legal
+                            </div>
+                          </button>
+                        </DialogClose>
+                      )}
                       {book.authors && (
                         <DialogClose asChild>
                           <button
@@ -462,6 +527,7 @@ useEffect(() => {
                             }`}
                             onClick={() => {
                               setShowBookCover(false);
+                              setShowLegal(false);
                               setShowAuthors(true);
                               setShowAcknowledgments(false);
                               setShowIndex(false);
@@ -489,6 +555,7 @@ useEffect(() => {
                             }`}
                             onClick={() => {
                               setShowBookCover(false);
+                              setShowLegal(false);
                               setShowAuthors(false);
                               setShowAcknowledgments(true);
                               setShowIndex(false);
@@ -516,6 +583,7 @@ useEffect(() => {
                             }`}
                             onClick={() => {
                               setShowBookCover(false);
+                              setShowLegal(false);
                               setShowAuthors(false);
                               setShowAcknowledgments(false);
                               setShowIndex(true);
@@ -545,6 +613,7 @@ useEffect(() => {
                             }`}
                             onClick={() => {
                               setShowBookCover(false);
+                              setShowLegal(false);
                               setShowAuthors(false);
                               setShowAcknowledgments(false);
                               setShowIndex(false);
@@ -581,6 +650,15 @@ useEffect(() => {
                         </h1>
                         <p className="text-sm text-gray-500 dark:text-gray-500 truncate">
                           {book.author}
+                        </p>
+                      </>
+                    ) : showLegal ? (
+                      <>
+                        <h1 className="text-lg font-semibold text-gray-900 dark:text-gray-100 truncate">
+                          {book.legal?.title || "Hoja legal"}
+                        </h1>
+                        <p className="text-sm text-gray-500 dark:text-gray-500 truncate">
+                          {book.title}
                         </p>
                       </>
                     ) : showIndex ? (
@@ -721,7 +799,7 @@ useEffect(() => {
                     ? "font-sans"
                     : "font-mono"
               } ${
-                page?.type === "text" ? "p-8" : page?.type === "cover" ? "" : ""
+                  page?.type === "text" ? "p-8" : page?.type === "cover" ? "" : ""
               }`}
               style={
                 {
@@ -827,6 +905,10 @@ useEffect(() => {
                 </>
               )}
 
+              {page?.type === "legal" && (
+                <LegalPage title={page.title} imageSrc={page.image} />
+              )}
+
               {page?.type === "index" && (
                 <div className="h-full w-full overflow-y-auto">
                   <div className="max-w-4xl mx-auto px-6 sm:px-8 py-12">
@@ -848,10 +930,13 @@ useEffect(() => {
 
                     <div className="space-y-4">
                       {book.chapters.map((ch, idx) => {
-                        // Calculate the page number where this chapter starts
-                        // Book cover = page 1, Index = page 2, then chapters start
+                        // Calculate the page number where this chapter starts,
+                        // including optional front-matter pages.
                         let startPage = 1; // Start counting from 1
                         if (book.cover) startPage++;
+                        if (book.legal) startPage++;
+                        if (book.authors) startPage++;
+                        if (book.acknowledgments) startPage++;
                         if (book.index) startPage++;
 
                         // Add pages from previous chapters
@@ -1080,6 +1165,7 @@ useEffect(() => {
 
           {/* Chapter Progress Bar */}
           {!showBookCover &&
+            !showLegal &&
             !showAuthors &&
             !showAcknowledgments &&
             !showIndex && (
@@ -1124,7 +1210,9 @@ useEffect(() => {
                   disabled={
                     showBookCover ||
                     (showAuthors && !book.cover) ||
+                    (showLegal && !book.cover) ||
                     (!showBookCover &&
+                      !showLegal &&
                       !showAuthors &&
                       !showAcknowledgments &&
                       !showIndex &&
@@ -1132,6 +1220,7 @@ useEffect(() => {
                       pageIdx === 0 &&
                       textColIndex === 0 &&
                       !book.cover &&
+                      !book.legal &&
                       !book.authors &&
                       !book.acknowledgments &&
                       !book.index)
@@ -1145,6 +1234,7 @@ useEffect(() => {
                 <div className="flex items-center gap-6 text-sm text-gray-600 dark:text-gray-400">
                   <div className="text-center bg-gray-50 dark:bg-gray-800 px-4 py-2 rounded-full h-[52px] flex flex-col justify-center overflow-hidden">
                     {!showBookCover &&
+                      !showLegal &&
                       !showAuthors &&
                       !showAcknowledgments &&
                       !showIndex && (
