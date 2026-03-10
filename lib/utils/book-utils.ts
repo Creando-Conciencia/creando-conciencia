@@ -29,6 +29,9 @@ export function convertToDisplayPage(pageContent: PageContent): DisplayPage {
     case "index":
       return { type: "index", title: pageContent.title };
     
+    case "legal":
+      return { type: "legal", title: pageContent.title, image: pageContent.image };
+
     case "biography":
       return { type: "biography", authorName: pageContent.authorName, content: pageContent.content, image: pageContent.image };
     
@@ -37,6 +40,10 @@ export function convertToDisplayPage(pageContent: PageContent): DisplayPage {
     
     case "acknowledgments":
       return { type: "acknowledgments", title: pageContent.title, content: pageContent.content };
+    default: {
+      const _exhaustive: never = pageContent;
+      return _exhaustive;
+    }
   }
 }
 
