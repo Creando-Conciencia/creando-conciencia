@@ -573,13 +573,13 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   fueron muy importantes en su vida.</p></br>
 
   <p><strong>Entrevistado 3:</strong> Sí, conozco personas que han estudiado allá en la universidad. Es
-  una buena universidad, las personas que he conocido, pues, no todas, pero tienen.</p></br>
+  una buena universidad, las personas que he conocido, pues, no todas, pero tienen trabajo.</p></br>
 
   <p><strong>Dr. JASO:</strong> Abajo, ¿conoces a alguien o has participado en alguna
   de las actividades académicas o profesionales que ofrece la UJAT?</p></br>
 
   <p><strong>Entrevistado 2:</strong> Gracias a las oportunidades que ofrece la Universidad Juárez
-  Autónoma de Tabasco, pude estudiar 4 años el libro en inglés. Pude certificarme de
+  Autónoma de Tabasco, pude estudiar 4 años el idioma inglés. Pude certificarme de
   manera profesional con un curso que es avalado de manera internacional, así como
   pude estudiar algunos otros idiomas y yo me siento muy contento por haber podido
   tener esa oportunidad.</p></br>
@@ -589,19 +589,19 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   son buenos maestros, sí.</p></br>
 
   <p><strong>Entrevistado 4:</strong> De hecho, yo estudié un tiempo los sábados en escuelas de
-  dirigidos por la Universidad de.</p></br>
+  dirigidos por la Universidad.</p></br>
 
   <p><strong>Dr. JASO:</strong> ¿Qué importancia consideras que tiene la UJAT en el
   desarrollo de Tabasco?</p></br>
 
   <p><strong>Entrevistado 1:</strong> Ok, en base a varias impresiones que hacen y ha ayudado mucho
   en todo el estado. Por ejemplo, cuando son temas de los cocodrilos que son a nivel de
-  todo el estado, son muy.</p></br>
+  todo el estado, son muy buenos.</p></br>
 
   <p><strong>Entrevistado 3:</strong> Pues es muy importante, porque pues luego hay gente que se va
   afuera a trabajar y pues dicen dónde estudiaron. Y pues que son de Tabasco. He visto
   en la tele que luego hay tabasqueños trabajando, haciendo cosas importantes en otros
-  estados y dicen que estudiaron ahí en.</p></br>
+  estados y dicen que estudiaron ahí en la UJAT.</p></br>
 
   <p><strong>Entrevistado 2:</strong> Yo considero que la universidad Juárez Autónoma de Tabasco tiene
   un impacto muy importante a nivel social, ya que no solamente crea profesionales,
