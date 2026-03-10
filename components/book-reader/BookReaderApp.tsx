@@ -47,13 +47,32 @@ export default function BookReaderApp() {
   const [showAuthors, setShowAuthors] = useState(false);
   const [showAcknowledgments, setShowAcknowledgments] = useState(false);
   const [showIndex, setShowIndex] = useState(false);
-  const [chatMessages, setChatMessages] = useState<ChatMsg[]>([]);
+  const [chatMessagesByChapter, setChatMessagesByChapter] = useState<Record<number, ChatMsg[]>>({});
   const [formAnswers, setFormAnswers] = useState<
     Record<string, string | number | string[]>
   >({});
+
+  // Per-chapter chat messages accessor
+  const chatMessages = chatMessagesByChapter[chapterIdx] ?? [];
+  const setChatMessages: React.Dispatch<React.SetStateAction<ChatMsg[]>> = (action) => {
+    setChatMessagesByChapter((prev) => {
+      const current = prev[chapterIdx] ?? [];
+      const next = typeof action === 'function' ? action(current) : action;
+      return { ...prev, [chapterIdx]: next };
+    });
+  };
+
   const [showBookInfo, setShowBookInfo] = useState(false);
 
   const chapter = book.chapters[chapterIdx];
+
+  // Extract the text content from the current chapter for chatbot context
+  const chapterTextContent = React.useMemo(() => {
+    return chapter.pages
+      .filter((p): p is import("@/lib/types/book").TextContent => p.type === "text")
+      .map((p) => p.content.replace(/<[^>]*>/g, " ").replace(/\s+/g, " ").trim())
+      .join("\n\n");
+  }, [chapter.pages]);
   const page = showBookCover
     ? book.cover
     : showLegal
@@ -839,6 +858,7 @@ useEffect(() => {
                   messages={chatMessages}
                   setMessages={setChatMessages}
                   fontSize={settings.fontSize}
+                  chapterText={chapterTextContent}
                 />
               )}
 

@@ -12,6 +12,7 @@ interface ChatbotPageProps {
   messages: ChatMsg[];
   setMessages: React.Dispatch<React.SetStateAction<ChatMsg[]>>;
   fontSize: number;
+  chapterText?: string;
 }
 
 export default function ChatbotPage({
@@ -20,6 +21,7 @@ export default function ChatbotPage({
   messages,
   setMessages,
   fontSize,
+  chapterText,
 }: ChatbotPageProps) {
   const [input, setInput] = useState("");
   const [isGeneratingResponse, setIsGeneratingResponse] = useState(false);
@@ -68,7 +70,7 @@ export default function ChatbotPage({
     const text = input.trim();
     if (!text || isGeneratingResponse) return;
     setIsGeneratingResponse(true);
-    const systemPrompt = buildSystemPrompt(config, title);
+    const systemPrompt = buildSystemPrompt(config, title, chapterText);
 
     // add user message
     setMessages((prev) => [...prev, { role: "user", content: text }]);

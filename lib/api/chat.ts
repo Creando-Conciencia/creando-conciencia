@@ -65,13 +65,22 @@ export async function callLLMStream(systemPrompt: string, convo: ChatMsg[], onTo
 }
 
 // Build the system prompt for the chatbot
-export function buildSystemPrompt(config: ChatbotConfig, chapterTitle: string): string {
-  if (config.systemPrompt && config.systemPrompt.trim()) return config.systemPrompt.trim();
+export function buildSystemPrompt(config: ChatbotConfig, chapterTitle: string, chapterText?: string): string {
   const persona = config.persona || "Eres una guía de literatura amigable: cálida, concisa, socrática.";
   const instruction = config.instruction || `Discute ${chapterTitle}. Haz preguntas cortas y abiertas y fomenta evidencia del texto.`;
-  return [
+  const parts = [
     persona,
     `Instrucciones: ${instruction}`,
     "Estilo: conciso, optimista y curioso. Siempre termina con una pregunta para invitar al lector a responder.",
-  ].join("\n");
+  ];
+  if (chapterText && chapterText.trim()) {
+    // Truncate to avoid exceeding token limits
+    const maxLen = 6000;
+    const truncated = chapterText.length > maxLen ? chapterText.slice(0, maxLen) + "…" : chapterText;
+    parts.push(`\nContexto del capítulo "${chapterTitle}":\n${truncated}`);
+  }
+  if (config.systemPrompt && config.systemPrompt.trim()) {
+    parts.unshift(config.systemPrompt.trim());
+  }
+  return parts.join("\n");
 }
