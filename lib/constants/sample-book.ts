@@ -235,7 +235,7 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   desempeñado como procurador de la juventud. En CREA Tabasco, fue asesor jurídico
   de la Secretaría de Comunicaciones, Asentamientos y Obras Públicas y también
   director de administración del Instituto de Vivienda y Tabasco. De igual manera,
-  ostentó el cargo de presidente municipal en su natal Comalcalco. Fue diputado local
+  ostentó el cargo de presidente municipal en su natal Tacotalpa. Fue diputado local
   en la 54 Legislatura del Congreso del Estado de Tabasco y fue notario público número
   28 de 1995 a 2018. Asimismo, destaca su paso como magistrado presidente del
   Tribunal Superior de Justicia del Estado de Tabasco en el periodo 2002-2006 y fue
