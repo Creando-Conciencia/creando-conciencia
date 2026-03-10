@@ -626,7 +626,7 @@ useEffect(() => {
                               {ch.title || `Chapter ${idx + 1}`}
                             </div>
                             <div className="text-xs text-muted-foreground mt-1">
-                              {ch.pages.length} pages
+                              {ch.pages.length} páginas
                             </div>
                           </button>
                         </DialogClose>
