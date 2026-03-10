@@ -503,18 +503,18 @@ Analiza los casos presentados por el rector de la UJAT y compáralos con experie
   obtener su pase y obtener un reconocimiento que les permitía tener una pequeña
   estancia, al maestro Canepa y a sus 4 alumnas en la Universidad de Harvard y en la de
   MIT, entonces, bueno, pues ahí también es importante, porque tuvieron ellos la
-  oportunidad de conocer estas, que son de las 2:00 universidades más prestigiosas a
+  oportunidad de conocer estas, que son de las 2 universidades más prestigiosas a
   nivel mundial en lo que es la formación de emprendedores. Entonces, este, bueno, eso
   fue un hecho muy importante, el que ellos hayan logrado obtener su pase a través del
   proyecto que están trabajando, que bueno, pues el maestro Canepa, lo podría describir
   mejor que yo, que es que tiene que ver con la producción de tablas plásticas a partir
-  de, eh, de plástico del reciclado, no. Entonces, bueno, ese es un proyecto que incluso
+  de, eh, de plástico del reciclado, no?. Entonces, bueno, ese es un proyecto que incluso
   nosotros, y él sabe, estamos este año, empujando para que se deje de ser un proyecto
   de un grupo de estudiantes y maestros, y convertirlo ya en un proyecto productivo en
   donde se pueda trabajar ya en la elaboración de tablas y otros productos a partir del
   plástico reciclado.</p></br>
 
-  <p>Y el otro tiene que ver con un evento convocado por las NUIES, eh, en el que se
+  <p>Y el otro tiene que ver con un evento convocado por las ANUIES, eh, en el que se
   convocaron a todas las universidades, las que quisieran participar, participaron, creo
   que 30, 30 y tantas universidades, más de 60 alumnos con pequeños proyectos, de ahí
   se escogieron 25, que fueron concentrados en Valle de Bravo y de ahí salieron 20
