@@ -128,7 +128,7 @@ export const sampleBook: Book = {
         {
           type: "text",
           content: `<h1><strong>Introducción del Capítulo</strong></h1>
-          <h3><strong>UJAT 2025: Transformando Vidas y Sociedaades a Través de la Ciencia: </strong></h3>
+          <h3><strong>UJAT 2025: Transformando Vidas y Sociedades a Través de la Ciencia: </strong></h3>
           En el umbral del año 2025, la Universidad Juárez Autónoma de Tabasco (UJAT) se consolida como un actor transformador en el escenario científico, social y educativo de México.
           Bajo el liderazgo del rector Guillermo Narváez Osorio, esta casa de estudios ha orientado sus esfuerzos hacia una visión de ciencia con sentido social, donde la formación académica se entrelaza con la solución de problemas reales.
           En esta conversación inspiradora en el programa <strong>"Creando ConCiencia"</strong>, se nos revela cómo la UJAT, a través de investigación, innovación y compromiso social, busca no solo formar profesionales, sino forjar agentes de cambio capaces de transformar su entorno.
